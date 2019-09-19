@@ -1,17 +1,17 @@
 // retrieve all the required libraries
 const fse = require('fs-extra'),
   mongoose = require('mongoose'),
-  Stop = require('./models/stops'),
   basePath = './rawData/';
 
 // Connect the script to the local database
 mongoose.connect('mongodb://localhost:27017/gtfs', { useNewUrlParser: true });
 
 /**
- * function to read a passed file, and return the raw data inside that file
+ * function to read a passed file, and return the raw data line by line inside an array
  *
  * @param {*} filename
  * @author Abdelmonem Mohamed
+ * @returns array of raw data
  */
 async function readLineByLine(filename) {
   try {
@@ -29,6 +29,7 @@ async function readLineByLine(filename) {
  * @param {*} headers
  * @param {*} line
  * @author Abdelmonem Mohamed
+ * @returns object
  */
 function returnOneObject(headers, line) {
   try {
@@ -47,22 +48,24 @@ function returnOneObject(headers, line) {
  *
  * @param {*} filename
  * @author Abdelmonem Mohamed
+ * @returns array of objects
  */
 async function returnAllObjects(filename) {
-  let data = [];
+  let objects = [];
   let raw = await readLineByLine(filename);
   let headers = raw.shift().split(',');
   raw.forEach(entity => {
-    data.push(returnOneObject(headers, entity.split(',')));
+    objects.push(returnOneObject(headers, entity.split(',')));
   });
-  return data;
+  return objects;
 }
 
 /**
- * a function that adds the data from a passed filename to the MongoDB 
- * 
- * @param {*} filename 
+ * a function that adds the data from a passed filename to the MongoDB
+ *
+ * @param {*} filename
  * @author Abdelmonem Mohamed
+ * @returns 'success' in case of success
  */
 async function addToDatabase(filename) {
   try {
@@ -77,9 +80,9 @@ async function addToDatabase(filename) {
 
 /**
  * the main function that performs all the important methods to perform the wanted operation
- * 
+ *
  * @param {*} files
- * @author Abdelmonem Mohamed 
+ * @author Abdelmonem Mohamed
  */
 async function main(files) {
   try {
