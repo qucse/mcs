@@ -6,8 +6,8 @@ shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8
 shapes = np.sort(shapes, order=['shape_id', 'shape_pt_sequence'])
 shape_ids = np.unique(shapes['shape_id'])
 net = sumolib.net.readNet('qatar.net.xml')
-routes = open('routes.xml', 'w+')
 
+routes = open('routes.xml', 'w+')
 routes.write('<?xml version="1.0" encoding="UTF-8"?>\n<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"> \n <vType id="pt_bus" vClass="bus"/>')
 
 

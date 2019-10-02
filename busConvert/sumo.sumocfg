@@ -7,7 +7,7 @@
 
     <input>
         <net-file value="qatar.net.xml"/>
-        <!-- <route-files value="flows.rou.xml"/> -->
+        <route-files value="routes.xml"/>
         <additional-files value="additional.xml"/>
     </input>
 
