@@ -6,6 +6,9 @@ shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8
 shapes = np.sort(shapes, order=['shape_id', 'shape_pt_sequence'])
 shape_ids = np.unique(shapes['shape_id'])
 net = sumolib.net.readNet('qatar.net.xml')
+routes = open('routes.xml', 'w+')
+
+routes.write('<?xml version="1.0" encoding="UTF-8"?>\n<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"> \n <vType id="pt_bus" vClass="bus"/>')
 
 
 def _get_edge_id(shape):
@@ -17,7 +20,8 @@ def _get_edge_id(shape):
         edges = net.getNeighboringEdges(x, y, radius + i)
         i += 0.1
     if len(edges) > 1:
-        distances_and_edges = sorted([(edge, dist) for edge, dist in edges], key=lambda e: e[1])
+        distances_and_edges = sorted(
+            [(edge, dist) for edge, dist in edges], key=lambda e: e[1])
         closest_edge, dist = distances_and_edges[0]
         return closest_edge.getID()
     else:
@@ -32,3 +36,11 @@ def shape_to_edge_sequence(shape_id):
     edges_sequence = np.array(edges_sequence)
     edges_sequence = np.unique(edges_sequence)
     return edges_sequence
+
+
+edges = shape_to_edge_sequence(shape_ids[1])
+str = ''
+for edge in edges:
+    str += str(edge)
+
+print(str)

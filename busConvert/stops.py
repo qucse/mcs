@@ -8,7 +8,7 @@ data = np.genfromtxt("GTFS/stops.txt", delimiter=',', dtype=[('stop_id', 'i8'), 
 net = sumolib.net.readNet('qatar.net.xml')
 additional = open("additional.xml", "w+")
 
-additional.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+additional.write('<?xml version="1.0" encoding="UTF-8"?>')
 
 
 def convert_to_sumo(stop, net):
