@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2019-10-02 19:58:18.008228 by $Id$
+  options: -n qatar.net.xml -e 3600 -p 600 <doubleminus>random-begin <doubleminus>seed 42 <doubleminus>ptstops additional.xml <doubleminus>ptlines ptlines.xml -o routes2.xml <doubleminus>ignore-errors
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="bus" vClass="bus"/>
+    <vType id="tram" vClass="tram"/>
+    <vType id="train" vClass="rail"/>
+    <vType id="subway" vClass="rail_urban"/>
+    <vType id="light_rail" vClass="rail_urban"/>
+    <vType id="monorail" vClass="rail"/>
+    <vType id="trolleybus" vClass="bus"/>
+    <vType id="aerialway" vClass="bus"/>
+    <vType id="ferry" vClass="ship"/>
+    <trip id="0_bus_Red:0" type="bus" depart="15" departLane="best" from="142038989#0" to="228664602#1">
+        <stop busStop="1" duration="30"/>
+        <stop busStop="3" duration="30"/>
+        <stop busStop="11" duration="30"/>
+        <stop busStop="12" duration="30"/>
+        <stop busStop="13" duration="30"/>
+        <stop busStop="14" duration="30"/>
+    </trip>
+    <trip id="1_bus_Green:0" type="bus" depart="165" departLane="best" from="490609584#0" to="-235436716#5">
+        <stop busStop="5376" duration="30"/>
+        <stop busStop="5377" duration="30"/>
+        <stop busStop="5379" duration="30"/>
+        <stop busStop="5380" duration="30"/>
+        <stop busStop="5381" duration="30"/>
+        <stop busStop="5382" duration="30"/>
+    </trip>
+    <trip id="2_bus_Blue:0" type="bus" depart="383" departLane="best" from="490722185#0" to="111614732#3">
+        <stop busStop="1063" duration="30"/>
+        <stop busStop="1067" duration="30"/>
+        <stop busStop="1116" duration="30"/>
+        <stop busStop="1120" duration="30"/>
+        <stop busStop="1208" duration="30"/>
+        <stop busStop="1212" duration="30"/>
+    </trip>
+</routes>

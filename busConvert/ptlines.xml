@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Tue Oct  1 15:37:20 2019 by Eclipse SUMO netconvert Version 1.1.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <osm-files value="map.osm"/>
+    </input>
+
+    <output>
+        <output-file value="net.net.xml"/>
+        <ptstop-output value="additional.xml"/>
+        <ptline-output value="ptlines.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+    <formats>
+        <osm.stop-output.length value="20"/>
+    </formats>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <ptLine id="0" name="0" line="Red" type="bus" completeness="0.77">
+        <busStop id="1" name='QSC Stadium' />
+        <busStop id="3" name='General Post Office North' />
+        <busStop id="11" name='CCD Shopping Mall' />
+        <busStop id="12" name='Ooredoo Tower' />
+        <busStop id="13" name='Hilton' />
+        <busStop id="14" name='Retaj Al Rayyan' />
+    </ptLine>
+    <ptLine id="1" name="1" line="Green" type="bus" completeness="0.77">
+        <busStop id="5376" name='Sudanese School' />
+        <busStop id="5377" name='Al Hasna Abayat' />
+        <busStop id="5379" name='Musalla Al Eid Street' />
+        <busStop id="5380" name='Othman Bin Nasr Stop 1' />
+        <busStop id="5381" name='House 11' />
+        <busStop id="5382" name='Al Majda Street' />
+    </ptLine>
+    <ptLine id="2" name="2" line="Blue" type="bus" completeness="0.77">
+        <busStop id="1063" name='Khalifa Stop 2' />
+        <busStop id="1067" name='Khalifa Stop 1' />
+        <busStop id="1116" name='Qatar Bowling Centre' />
+        <busStop id="1120" name='Athletes Village' />
+        <busStop id="1208" name='Euro Dollar' />
+        <busStop id="1212" name='Elementary Court' />
+    </ptLine>
+</additional>

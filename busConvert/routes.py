@@ -8,11 +8,6 @@ shape_ids = np.unique(shapes['shape_id'])
 net = sumolib.net.readNet('qatar.net.xml')
 
 
-routes = open('routes.xml', 'w+')
-routes.write('<?xml version="1.0" encoding="UTF-8"?>\n<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"> \n <vType id="pt_bus" vClass="bus"/>')
-
-
-
 def _get_edge_id(shape):
     radius = 0.1
     x, y = net.convertLonLat2XY(shape[2], shape[1])
@@ -37,15 +32,30 @@ def shape_to_edge_sequence(shape_id):
         edges_sequence.append(_get_edge_id(shape))
     edges_sequence = np.array(edges_sequence)
     edges_sequence = np.unique(edges_sequence)
+
     return edges_sequence
 
 
 def write_to_file(filename, shape_id):
     routes = open(filename, 'w+')
     routes.write(
-        '<?xml version="1.0" encoding="UTF-8"?>\n<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"> \n <vType id="pt_bus" vClass="bus"/>')
+        '<?xml version="1.0" encoding="UTF-8"?>\n' +
+        '<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"> \n' +
+        '<vType id="pt_bus" vClass="bus"/>\n')
     edges = shape_to_edge_sequence(shape_id)
     string = ''
     for edge in edges:
         string += edge + " "
-    routes.write('<route edges="' + string + '"/>')
+    routes.write('<route id="pt_subway_Red:1" edges="' +
+                 string + '"> </route>')
+    routes.write('<flow id="pt_subway_Red:0" type="pt_bus" route="pt_subway_Red:1" begin="15.0" end="3615.0" period="600" line="Red:0" >' +
+                 '<param key="name" value="الخط الأحمر للمترو: القصار ← الوكرة"/>' +
+                 '<param key="completeness" value="0.77"/>' +
+                 '</flow>')
+    # routes.write(
+    #     '<flow id="pt_bus" from="' + edges[0] + '" to="' + edges[len(edges)-1] + '" type="bus" begin="0" period="10000" />\n')
+    routes.write('</routes>')
+
+
+write_to_file('routes.xml', 310)
+# shape_to_edge_sequence(310)
