@@ -62,7 +62,7 @@
 <busStop id="9013" lane="617240487_0" startPos="396.12" endPos="596.12" friendlyPos="true" />  <!--b'Al Muftha Garage' -->  
 <busStop id="4823" lane="488343783#2_0" startPos="704.98" endPos="904.98" friendlyPos="true" />  <!--b'Control Tower' -->  
 <busStop id="4819" lane="488343783#4_0" startPos="229.32" endPos="429.32" friendlyPos="true" />  <!--b'Family Food Center' -->  
-<busStop id="4853" lane="155991123#5_0" name="Qatar Airways" startPos="253.9" endPos="453.9" friendlyPos="true" />  <!--b'Qatar Airways ' -->  
+<busStop id="4853" lane="155991123#5_0" startPos="253.9" endPos="453.9" friendlyPos="true" />  <!--b'Qatar Airways ' -->  
 <busStop id="2715" lane="479802006_0" startPos="33.68" endPos="233.68" friendlyPos="true" />  <!--b'Al Meeara Coop' -->  
 <busStop id="55103" lane="222091866#7_0" startPos="446.58" endPos="646.5799999999999" friendlyPos="true" />  <!--b' Beverly Hills Garde' -->  
 <busStop id="3169" lane="25935517#2_0" startPos="156.18" endPos="356.18" friendlyPos="true" />  <!--b'Al Ghazali Street' -->  
@@ -77,7 +77,7 @@
 <busStop id="9504" lane="161422664#2_0" startPos="373.62" endPos="573.62" friendlyPos="true" />  <!--b'Al Khor Gardens' -->  
 <busStop id="5159" lane="178205427#20_0" startPos="666.26" endPos="866.26" friendlyPos="true" />  <!--b'Excear Pharmacy' -->  
 <busStop id="9508" lane="155241140#0_0" startPos="1159.46" endPos="1359.46" friendlyPos="true" />  <!--b'Umm Suwaiyah' -->  
-<busStop id="5105" lane="178011159#4_0" name="Al Gharafa Stadium" startPos="501.06" endPos="701.06" friendlyPos="true" />  <!--b'Al Gharafa Stadium' -->  
+<busStop id="5105" lane="178011159#4_0" startPos="501.06" endPos="701.06" friendlyPos="true" />  <!--b'Al Gharafa Stadium' -->  
 <busStop id="5103" lane="178063587#1_0" startPos="768.5" endPos="968.5" friendlyPos="true" />  <!--b'Al Maszhabiya Stop 2' -->  
 <busStop id="7197" lane="-180089167#1_0" startPos="187.08" endPos="387.08000000000004" friendlyPos="true" />  <!--b'Al Wasmi Street' -->  
 <busStop id="7199" lane="-188248585#1_0" startPos="101.48" endPos="301.48" friendlyPos="true" />  <!--b'Al Kharaitiyat (Term' -->  
@@ -182,7 +182,7 @@
 <busStop id="4050" lane="87809948#4_0" startPos="124.3" endPos="324.3" friendlyPos="true" />  <!--b'D Ring Road' -->  
 <busStop id="5390" lane="491618042#3_0" startPos="360.24" endPos="560.24" friendlyPos="true" />  <!--b'Ibn Hateb Street' -->  
 <busStop id="4180" lane="-488091218#3_0" startPos="126.7" endPos="326.7" friendlyPos="true" />  <!--b'Al Adl Street' -->  
-<busStop id="2529" lane="-111738509#4_0" name="Al Mansoura Street" startPos="49.82" endPos="249.82" friendlyPos="true" />  <!--b'Al Mansoura Street' -->  
+<busStop id="2529" lane="-111738509#4_0" startPos="49.82" endPos="249.82" friendlyPos="true" />  <!--b'Al Mansoura Street' -->  
 <busStop id="5501" lane="491379475#2_0" startPos="487.6" endPos="687.6" friendlyPos="true" />  <!--b'Hetten Model ' -->  
 <busStop id="2521" lane="165499568#5_0" startPos="178.16" endPos="378.15999999999997" friendlyPos="true" />  <!--b'Al Doha Al Jadeed' -->  
 <busStop id="5396" lane="236193371#0_0" startPos="318.6" endPos="518.6" friendlyPos="true" />  <!--b'Umm Al Dome Stop 1' -->  

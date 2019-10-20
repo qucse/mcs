@@ -46,7 +46,7 @@ additional.write(
 for stop in sumo_stops:
     length = float(str(stop['lane_length']))
     additional.write(
-        '<busStop id="' + str(stop['stop_id']) + '" lane="' + str(stop['lane_id']) + '" startPos="' + str(length/0.5) + '" endPos="' + str((length/0.5)+200) + '" friendlyPos="true" />  <!--' + str(stop['stop_name']) + ' -->  \n')
+        '<busStop id="' + str(stop['stop_id']) + '" lane="' + str(stop['lane_id']) + '" startPos="' + str(length/0.5) + '" endPos="' + str((length/0.5)+0.25 * length) + '" friendlyPos="true" />  <!--' + str(stop['stop_name']) + ' -->  \n')
 
 additional.write('</additional>')
 additional.close()
