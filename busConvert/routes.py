@@ -156,13 +156,14 @@ def shortest_path(start, end, net):
         out_edges = sorted(out_edges, key=lambda k: k['distance'])
         for edge in out_edges:
             Node(edge, current)
-        if current.name['distance'] < current.children[0].name['distance']:
+        if current.name['distance'] + 0.05 * current.name['distance'] < current.children[0].name['distance'] and np.size(back_track) != 0:
             current = back_track.pop()
             # seq.pop()
-            print('back track at',seq.pop())
+            print('back track at', seq.pop())
+            seq.append(current.name['edge'].getID())
             continue
         for (i, child) in enumerate(current.children):
-            if i == 0:
+            if i == 0 and not seq.__contains__(child.name['edge'].getID()):
                 current = child
                 seq.append(current.name['edge'].getID())
             else:
@@ -170,7 +171,8 @@ def shortest_path(start, end, net):
                 if back_track_size == 0:
                     back_track.append(child)
                 else:
-                    if back_track[back_track_size - 1].name['distance'] >= child.name['distance'] and not seq.__contains__(child.name['edge'].getID()):
+                    if back_track[back_track_size - 1].name['distance'] >= child.name[
+                        'distance'] and not seq.__contains__(child.name['edge'].getID()):
                         back_track.append(child)
         print(seq)
         print(found)
@@ -184,4 +186,4 @@ new_110 = fine_grain(110, shapes[shapes["shape_id"] == 110])
 edges_110 = np.genfromtxt('edges_110.txt', delimiter='\n', dtype=str, comments=None)
 # clean_110 = clean_sequence(edges_110, net)
 # shortest_path(net.getEdge("158194880#1"), net.getEdge("158426339#0"), net)
-shortest_path(net.getEdge("95475538#1"), net.getEdge("158194824#1"), net)
+shortest_path(net.getEdge("95475538#1"), net.getEdge("165499564"), net)
