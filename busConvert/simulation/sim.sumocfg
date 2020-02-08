@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+  <input>
+  <net-file value="shape_110.net.xml" />
+  <additional-files value="additional.xml" />
+  <route-files value="routes.routes.xml" />
+  </input>
+
+  <output>
+    <write-license value="true" />
+    <fcd-output value="fcd.xml" />
+    <device.fcd.probability value="1" />
+    <person-device.fcd.probability value="1" />
+    <fcd-output.geo value="true"/>
+    <device.fcd.explicit value="110"/>
+  </output>
+
+
+  <processing>
+    <default.speeddev value="0" />
+    <ignore-route-errors value="true" />
+  </processing>
+
+  <report>
+    <duration-log.disable value="true" />
+    <no-step-log value="true" />
+  </report>
+</configuration>

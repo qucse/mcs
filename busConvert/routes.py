@@ -1,18 +1,54 @@
 import numpy as np
 import sumolib
 import GeoConverter as gc
+import stops as st
 from anytree import Node, RenderTree
+# import similaritymeasures
+import matplotlib.pyplot as plt
 
-shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8'), ('shape_pt_lat', 'f16'),
-                                                                ('shape_pt_lon', 'f16'), ('shape_pt_sequence', 'f8')])
+
+shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8'), ('shape_pt_lat', 'f'),
+                                                                ('shape_pt_lon', 'f'), ('shape_pt_sequence', 'f')])
+stops = np.genfromtxt('stops_110.csv', delimiter=',')
+stops = np.delete(stops[:, 1:5], 1, 1)
 # shapes = np.sort(shapes, order=['shape_id', 'shape_pt_sequence'])
+shape_110 = shapes[shapes['shape_id'] == 110]
+geo_110 = []
+for point in shape_110:
+    geo_110.append([point[0], point[1], point[2], point[3]])
+shape_110 = np.array(geo_110)
+del geo_110
 shape_ids = np.unique(shapes['shape_id'])
-net = sumolib.net.readNet('shape_110.net.xml')
+net = sumolib.net.readNet('maps/shape_110.net.xml')
+st.convert_to_sumo(stops[1][2], stops[1][1], net)
+stops_lane_ids = []
+for (i, stop) in enumerate(stops):
+    if i == 0:
+        continue
+    lane, dist = st.convert_to_sumo(stop[2], stop[1], net)
+    stops_lane_ids.append([stop[0], lane])
+stops_lane_ids = np.array(stops_lane_ids)
 
 
-def _get_edge_id(shape):
+def _get_edge_id_lonlat(long, lat):
     radius = 0.1
-    x, y = net.convertLonLat2XY(shape[2], shape[1])
+    x, y = net.convertLonLat2XY(long,lat)
+    edges = net.getNeighboringEdges(x, y, radius)
+    i = 0.1
+    while len(edges) == 0:
+        edges = net.getNeighboringEdges(x, y, radius + i)
+        i += 0.1
+    if len(edges) > 1:
+        distances_and_edges = sorted(
+            [(edge, dist) for edge, dist in edges], key=lambda e: e[1])
+        closest_edge, dist = distances_and_edges[0]
+        return closest_edge.getID()
+    else:
+        return edges[0][0].getID()
+
+
+def _get_edge_id_xy(x, y):
+    radius = 0.1
     edges = net.getNeighboringEdges(x, y, radius)
     i = 0.1
     while len(edges) == 0:
@@ -30,9 +66,10 @@ def _get_edge_id(shape):
 def shape_to_edge_sequence(shape_sequence):
     edges_sequence = []
     for shape in shape_sequence:
-        edges_sequence.append(_get_edge_id(shape))
+        edges_sequence.append(_get_edge_id_lonlat(shape[1], shape[0]))
     edges_sequence = np.array(edges_sequence)
     print('clearing .......')
+    # remove redundant with keeping the order
     _, idx = np.unique(edges_sequence, return_index=True)
     edges_sequence = edges_sequence[np.sort(idx)]
     return edges_sequence
@@ -65,6 +102,12 @@ def _get_in_going(edge):
     for edge in (edge.getIncoming()):
         ids.append(edge.getID())
     return ids
+
+
+def _is_neighbour_to(edge1, edge2):
+    # check is edge1 is leading to edge 2 , name is a bit missleading
+    neighbour = _get_out_going(net.getEdge(edge1)).__contains__(edge2)
+    return neighbour
 
 
 def clean_sequence(edges_sequence, net):
@@ -156,7 +199,8 @@ def shortest_path(start, end, net):
         out_edges = sorted(out_edges, key=lambda k: k['distance'])
         for edge in out_edges:
             Node(edge, current)
-        if current.name['distance'] + 0.05 * current.name['distance'] < current.children[0].name['distance'] and np.size(back_track) != 0:
+        if current.name['distance'] + 0.05 * current.name['distance'] < current.children[0].name[
+            'distance'] and np.size(back_track) != 0:
             current = back_track.pop()
             # seq.pop()
             print('back track at', seq.pop())
@@ -179,11 +223,127 @@ def shortest_path(start, end, net):
     return seq
 
 
+def get_path(edge_sequence):
+    output = []
+    for i in range(len(edge_sequence) - 1):
+        if _is_neighbour_to(edge_sequence[i], edge_sequence[i + 1]):
+            output.append(edge_sequence[i])
+        else:
+            path, dist = net.getShortestPath(net.getEdge(edge_sequence[i]), net.getEdge(edge_sequence[i + 1]))
+            for (i, edge) in enumerate(path):
+                if i == len(path) - 1:
+                    continue
+                else:
+                    output.append(edge.getID())
+    return np.array(output)
+
+
+def geo_subsampling(geo_data, dist_threshold=3000, bearing_threshold=15):
+    # dist_threshold is the maximum distance between 2 nodes, in meters
+    # bearing_threshold is the maximum difference in degrees between A->c , and b->c bearing (A->b->c)
+    changed = False
+    i = 0
+    while i < len(geo_data) - 3:
+        base = geo_data[i]  # A
+        mid = geo_data[i + 1]  # B
+        end = geo_data[i + 2]  # C
+        dist = gc.getPathLength(base[0], base[1], end[0], end[1])
+        bearing_base_end = gc.calculateBearing(base[0], base[1], end[0], end[1])
+        bearing_mid_end = gc.calculateBearing(mid[0], mid[1], end[0], end[1])
+        if dist > dist_threshold:
+            i = i + 1
+            continue
+        elif abs(bearing_base_end - bearing_mid_end) > bearing_threshold:
+            i = i + 1
+            continue
+        else:
+            geo_data = np.delete(geo_data, i + 1, axis=0)
+            i = i + 1
+            changed = True
+    return geo_data
+
+
+def write_selected(edges_ids):
+    selected = open('maps/selected.txt', 'w+')
+    string = ''
+    for edge_id in edges_ids:
+        string += "edge:" + edge_id + "\n"
+    selected.write(string)
+
+
+def gen_random_xy(xmin, ymin, xmax, ymax):
+    x = np.random.randint(xmin, xmax, 1)[0]
+    y = np.random.randint(ymin, ymax, 1)[0]
+    return x, y
+
+
+def get_nearest_bus_stop(stops_lane_ids, x, y):
+    r = 100
+    while True:
+        print(r)
+        lanes = net.getNeighboringLanes(x, y, r)
+        for lane in lanes:
+            lane_id = lane[0].getID()
+            if np.any(np.in1d(stops_lane_ids, lane_id)):
+                return lane
+        r = r + 1000
+
+
+def get_nearest_edge(x, y):
+    r = 100
+    lanes = net.getNeighboringLanes(x, y, r)
+    while True:
+        for lane in lanes:
+            lane_id = lane[0].getID()
+            if np.any(np.in1d(stops_lane_ids, lane_id)):
+                return lane
+        r = r + 100
+
+
+def gen_random_person_trip():
+    # return an array having [walking form , walking to and persontrip from , persontrip to and walking from , walking to]
+    #   <person id="0" depart="10.00">
+    #       <walk from="walking form" to="1walking to" arrivalPos="30" />
+    #       <personTrip from="persontrip from" to=" persontrip to"  modes="public"/>
+    #       <walk from="walking from" to="walking to" arrivalPos="30" />
+    #   </person>
+
+    xmin, ymin, xmax, ymax = net.getBoundary()
+    from_xy = gen_random_xy(xmin, ymin, xmax, ymax)
+    to_xy = gen_random_xy(xmin, ymin, xmax, ymax)
+    from_bus = get_nearest_bus_stop(stops_lane_ids, from_xy[0], from_xy[1])[0].getEdge().getID()
+    to_bus = get_nearest_bus_stop(stops_lane_ids, to_xy[0], to_xy[1])[0].getEdge().getID()
+    return [_get_edge_id_xy(from_xy[0], from_xy[1]), from_bus, to_bus, _get_edge_id_xy(to_xy[0], to_xy[1])]
+
+
+def gen_rand_person_flows(output_file, number_of_flows):
+    file = open(output_file, "w+")
+    file.write(
+        '<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">\n')
+    for i in range(number_of_flows):
+        print("making flow " + str(i))
+        trip = gen_random_person_trip()
+        file.write('<personFlow id="person_' +str(i) + '" begin="0" end="9000" period="10">\n')
+        file.write('<walk from="' + trip[0] + '" to="' + trip[1] + '" />\n')
+        file.write('<personTrip from="' + trip[1] + '" to="' + trip[2] + '" modes="public" />\n')
+        file.write('<walk from="' + trip[2] + '" to="' + trip[3] + '"/>\n')
+        file.write('</personFlow>\n')
+    file.write('</routes>')
+    file.close()
+
 # write_to_file('routes.xml', 310)
 # shape_to_edge_sequence(310)
-new_110 = fine_grain(110, shapes[shapes["shape_id"] == 110])
+# new_110 = fine_grain(110, shapes[shapes["shape_id"] == 110])
 # edges_110 = shape_to_edge_sequence(new_110)
-edges_110 = np.genfromtxt('edges_110.txt', delimiter='\n', dtype=str, comments=None)
+# edges_110 = np.genfromtxt('edges_110.txt', delimiter='\n', dtype=str, comments=None)
 # clean_110 = clean_sequence(edges_110, net)
 # shortest_path(net.getEdge("158194880#1"), net.getEdge("158426339#0"), net)
-shortest_path(net.getEdge("95475538#1"), net.getEdge("165499564"), net)
+# shortest_path(net.getEdge("95475538#1"), net.getEdge("165499564"), net)
+sampled_110 = geo_subsampling(shape_110[:, 1:3])
+sampled_110 = geo_subsampling(sampled_110)
+sampled_110 = geo_subsampling(sampled_110)
+sampled_edges_110 = shape_to_edge_sequence(sampled_110)
+path = get_path(sampled_edges_110)
+string = ''
+for edge in path:
+    string = string + edge + " "

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+  <trk><name>0</name><trkseg>
+    <trkpt lon="51.540037" lat="25.283552"><time>30.0</time></trkpt>
+    <trkpt lon="51.540022" lat="25.283213"><time>60.0</time></trkpt>
+    <trkpt lon="51.540007" lat="25.282874"><time>90.0</time></trkpt>
+    <trkpt lon="51.539951" lat="25.282563"><time>120.0</time></trkpt>
+    <trkpt lon="51.539629" lat="25.282408"><time>150.0</time></trkpt>
+    <trkpt lon="51.539385" lat="25.282045"><time>180.0</time></trkpt>
+    <trkpt lon="51.539009" lat="25.282066"><time>210.0</time></trkpt>
+    <trkpt lon="51.538643" lat="25.282126"><time>240.0</time></trkpt>
+    <trkpt lon="51.538268" lat="25.282113"><time>270.0</time></trkpt>
+  </trkseg></trk>
+</gpx>

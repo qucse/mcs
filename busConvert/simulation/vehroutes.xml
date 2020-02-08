@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 01/26/20 13:53:18 by Eclipse SUMO GUI Version 1.3.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\Qu%20Y4S2\senior\mcssp\busConvert\simulation\shape_110.net.xml"/>
+        <route-files value="D:\Qu%20Y4S2\senior\mcssp\busConvert\simulation\routes.routes.xml"/>
+        <additional-files value="D:\Qu%20Y4S2\senior\mcssp\busConvert\simulation\additional.xml"/>
+    </input>
+
+    <output>
+        <write-license value="true"/>
+        <vehroute-output value="D:\Qu%20Y4S2\senior\mcssp\busConvert\simulation\vehroutes.xml"/>
+    </output>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+        <default.speeddev value="0"/>
+    </processing>
+
+    <report>
+        <duration-log.disable value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <person id="0" depart="10.00" arrival="1904.00">
+        <walk edges="95475498#5 158426437#0 158426437#1 188147840#7 188147840#6 188147840#5"/>
+        <walk edges="188147840#5" busStop="602"/>
+        <ride from="188147840#5" to="480237234#0" busStop="4564" lines="110" intended="110.1" depart="310.00"/>
+        <walk edges="480237234#0"/>
+        <walk edges="480237234#0 -480237232#0 -480237232#1 480237235#0 -488494811#5 -488349631#0 -488349631#1 -488349631#2 -488349631#3 -488349631#4 -488349631#5 -488349631#6 488349631#7"/>
+    </person>
+
+</routes>

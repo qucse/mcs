@@ -1,0 +1,1 @@
+traceExporter.py --fcd-input ../simulation/fcd.xml --gpsdat-output ../simulation/gps-date.txt --persons --ignore-gaps -d 30
