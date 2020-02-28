@@ -1,0 +1,1249 @@
+Loading net-file from 'D:\Qu Y4S2\senior\mcssp\busConvert\qsim\../maps/qatar_bus.net.xml'... done (77329ms).
+Loading additional-files from 'D:\Qu Y4S2\senior\mcssp\busConvert\qsim\additional3.xml'... done (351ms).
+Loading done.
+Simulation started with time: 0.00
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_0.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_2.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_3.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_4.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_9.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_18.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_20.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '121901904#0_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_24.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_25.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '206082191_depart_connector' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_27.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_28.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_32.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_37.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '4518' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_38.0' could not find sidewalk on edge '155991117#3', time=0.00.
+Warning: No connection between edge '155991117#5_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_40.0' could not find sidewalk on edge '155991117#5', time=0.00.
+Warning: No connection between edge '479822120#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_41.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_42.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_46.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '-480282434_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_47.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_51.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_52.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_53.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4518' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_54.0' could not find sidewalk on edge '155991117#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_56.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_57.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_58.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_59.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_60.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_61.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_62.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_70.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '121901904#0_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_71.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_74.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_82.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_83.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_87.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_89.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '206082191_depart_connector' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_91.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_92.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_95.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_98.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '157089045#7_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_103.0' could not find sidewalk on edge '156964507#6', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_104.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_106.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '48003382#2_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_108.0' could not find sidewalk on edge '48003382#2', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_110.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_112.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_114.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '-479822120#3_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_118.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_119.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_120.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_123.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '206082191_depart_connector' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_124.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '-479822120#2_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_126.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_131.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_133.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '479822120#3_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_134.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_138.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '157089045#7_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_140.0' could not find sidewalk on edge '156964507#6', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_143.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_145.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_146.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '206082191_depart_connector' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_148.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_149.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_152.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_153.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_156.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_157.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_158.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_160.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_167.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_170.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_173.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_176.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_178.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_182.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '372557571#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_184.0' could not find sidewalk on edge '372557571#1', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_185.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_186.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_187.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_190.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '-479822120#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_193.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_195.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_199.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_200.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_201.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_202.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '155991117#5_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_206.0' could not find sidewalk on edge '155991117#5', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_208.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_212.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '372557571#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_214.0' could not find sidewalk on edge '372557571#1', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_219.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_222.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_224.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '48003382#2_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_225.0' could not find sidewalk on edge '48003382#2', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_227.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '48003382#2_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_229.0' could not find sidewalk on edge '48003382#2', time=0.00.
+Warning: No connection between edge '479822120#2_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_230.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '372557571#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_231.0' could not find sidewalk on edge '372557571#1', time=0.00.
+Warning: No connection between edge '157089045#7_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_234.0' could not find sidewalk on edge '156964507#6', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_235.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_236.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_238.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_239.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_245.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_247.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_253.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_254.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_256.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_257.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_258.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_259.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_260.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_261.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_262.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_272.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_277.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_278.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_280.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_281.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_283.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_287.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_291.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_292.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_293.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '4522' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_295.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_298.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_301.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_302.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_303.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_304.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '206082191_depart_connector' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_305.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_307.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_308.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '9936' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_310.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_311.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_314.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_315.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '155991117#5_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_318.0' could not find sidewalk on edge '155991117#5', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_321.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_325.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '9936' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_328.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '157089045#7_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_330.0' could not find sidewalk on edge '156964507#6', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_332.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '4522' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_335.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_336.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_337.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '157089052_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_338.0' could not find sidewalk on edge '157089052', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_340.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_342.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_344.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '-480282434_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_347.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '121901904#0_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_354.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_355.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_356.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4518' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_359.0' could not find sidewalk on edge '155991117#3', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_360.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '48003382#2_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_362.0' could not find sidewalk on edge '48003382#2', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_363.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_365.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '479822120#2_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_366.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_367.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_369.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_370.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_372.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_373.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '9936' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_374.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_384.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_385.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_386.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_387.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_390.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '157089045#7_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_394.0' could not find sidewalk on edge '156964507#6', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_396.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '-479822120#2_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_397.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_398.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '-479822120#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_401.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_403.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '-480282434_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_405.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_406.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_410.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '250814066#0_depart_connector' and edge '48003382#5_arrival_connector' found.
+Warning: Person 'person_416.0' could not find sidewalk on edge '48003382#5', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_417.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_418.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_419.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '4530' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_422.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_426.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '157089045#7_depart_connector' and edge '156964507#6_arrival_connector' found.
+Warning: Person 'person_427.0' could not find sidewalk on edge '156964507#6', time=0.00.
+Warning: No connection between edge '206082191_depart_connector' and edge '488343775#5_arrival_connector' found.
+Warning: Person 'person_429.0' could not find sidewalk on edge '488343775#5', time=0.00.
+Warning: No connection between edge '-479822120#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_432.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_434.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_446.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_447.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '9936' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_449.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '4522' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_450.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '-480282434_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_451.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '480255707_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_453.0' could not find sidewalk on edge '155991117#3', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_455.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_456.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '4248' and edge '158426276#2_arrival_connector' found.
+Warning: Person 'person_457.0' could not find sidewalk on edge '158426276#2', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_459.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_463.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_466.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '480255706_depart_connector' and edge '155991117#6_arrival_connector' found.
+Warning: Person 'person_469.0' could not find sidewalk on edge '155991117#6', time=0.00.
+Warning: No connection between edge '4852' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_474.0' could not find sidewalk on edge '158426276#5', time=0.00.
+Warning: No connection between edge '9946' and edge '48003382#0_arrival_connector' found.
+Warning: Person 'person_479.0' could not find sidewalk on edge '48003382#0', time=0.00.
+Warning: No connection between edge '48003382#2_depart_connector' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_480.0' could not find sidewalk on edge '48003382#2', time=0.00.
+Warning: No connection between edge '206081147#0_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_482.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '155991117#2_depart_connector' and edge '155991117#3_arrival_connector' found.
+Warning: Person 'person_483.0' could not find sidewalk on edge '155991117#2', time=0.00.
+Warning: No connection between edge '9948' and edge '48003382#3_arrival_connector' found.
+Warning: Person 'person_485.0' could not find sidewalk on edge '48003382#3', time=0.00.
+Warning: No connection between edge '206081271#2_depart_connector' and edge '488343775#3_arrival_connector' found.
+Warning: Person 'person_486.0' could not find sidewalk on edge '488343775#3', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_492.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: No connection between edge '-479822120#1_depart_connector' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_493.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '9936' and edge '-372557571#1_arrival_connector' found.
+Warning: Person 'person_496.0' could not find sidewalk on edge '-372557571#1', time=0.00.
+Warning: No connection between edge '267553654#0_depart_connector' and edge '158426276#5_arrival_connector' found.
+Warning: Person 'person_499.0' could not find sidewalk on edge '267553654#0', time=0.00.
+Warning: busStop '44463' on lane '619553810_0' is too short for vehicle '10010.0'.
+Warning: busStop '4172' on lane '488274800_0' is too short for vehicle '10010.0'.
+Warning: busStop '2525' on lane '-158194852#6_0' is too short for vehicle '10010.0'.
+Warning: busStop '9512' on lane '625117934#3_0' is too short for vehicle '1020.0'.
+Warning: busStop '8510' on lane '491444530#24_0' is too short for vehicle '1040.0'.
+Warning: busStop '99019' on lane '-484776316#1_0' is too short for vehicle '11920.0'.
+Warning: busStop '99017' on lane '-235376631#8_0' is too short for vehicle '11920.0'.
+Warning: busStop '3414' on lane '160074025#4_0' is too short for vehicle '1560.0'.
+Warning: busStop '94482' on lane '531827288#0_0' is too short for vehicle '1700.0'.
+Warning: busStop '393' on lane '476108265#9_0' is too short for vehicle '200.0'.
+Warning: busStop '5541' on lane '222088240#10_0' is too short for vehicle '3040.0'.
+Warning: Person 'person_397.0' could not find sidewalk on edge '-372557571#1', time=3.00.
+Warning: Person 'person_126.0' could not find sidewalk on edge '-372557571#1', time=4.00.
+Warning: No connection between edge '-475962702#0' and edge '-224221200#2' found.
+Warning: No route for vehicle 'car_4' found.
+Warning: No connection between edge '-658648444_depart_connector' and edge '617240487_arrival_connector' found.
+Warning: Person 'person_249.0' could not find sidewalk on edge '617240487', time=11.00.
+Warning: Person 'person_187.0' could not find sidewalk on edge '155991117#6', time=19.00.
+Warning: Person 'person_245.0' could not find sidewalk on edge '155991117#6', time=19.00.
+Warning: Person 'person_190.0' could not find sidewalk on edge '155991117#6', time=19.00.
+Warning: No connection between edge '206331956#5_depart_connector' and edge '617240487_arrival_connector' found.
+Warning: Person 'person_442.0' could not find sidewalk on edge '617240487', time=20.00.
+Warning: Person 'person_258.0' could not find sidewalk on edge '155991117#6', time=20.00.
+Warning: Person 'person_325.0' could not find sidewalk on edge '155991117#6', time=21.00.
+Warning: Person 'person_363.0' could not find sidewalk on edge '155991117#6', time=21.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=21.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=21.00.
+Warning: No connection between edge '190638658#1' and edge '-718190167#4' found.
+Warning: No route for vehicle 'car_21' found.
+Warning: Person 'person_469.0' could not find sidewalk on edge '155991117#6', time=22.00.
+Warning: Person 'person_385.0' could not find sidewalk on edge '155991117#6', time=22.00.
+Warning: Person 'person_417.0' could not find sidewalk on edge '155991117#6', time=22.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=22.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=22.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=22.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=22.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=22.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=22.00.
+Warning: Person 'person_9.0' could not find sidewalk on edge '155991117#6', time=23.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=23.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=23.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=23.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=23.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=23.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=23.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=24.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=24.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=24.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=24.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=24.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=24.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=25.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=25.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=25.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=25.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=25.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=25.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=26.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=26.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=26.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=26.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=26.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=26.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=27.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=27.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=27.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=27.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=27.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=27.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=28.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=28.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=28.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=28.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=28.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=28.00.
+Warning: No connection between edge '206331956#5_depart_connector' and edge '617240487_arrival_connector' found.
+Warning: Person 'person_491.0' could not find sidewalk on edge '617240487', time=29.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=29.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=29.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=29.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=29.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=29.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=29.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=30.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=30.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=30.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=30.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=30.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=30.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=31.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=31.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=31.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=31.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=31.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=31.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=32.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=32.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=32.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=32.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=32.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=32.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=33.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=33.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=33.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=33.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=33.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=33.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=34.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=34.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=34.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=34.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=34.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=34.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=35.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=35.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=35.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=35.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=35.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=35.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=36.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=36.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=36.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=36.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=36.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=36.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=37.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=37.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=37.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=37.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=37.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=37.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=38.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=38.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=38.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=38.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=38.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=38.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=39.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=39.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=39.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=39.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=39.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=39.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=40.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=40.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=40.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=40.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=40.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=40.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=41.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=41.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=41.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=41.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=41.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=41.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=42.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=42.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=42.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=42.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=42.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=42.00.
+Warning: No connection between edge '-658330176' and edge '709785575#3' found.
+Warning: No route for vehicle 'car_42' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-25930390#16_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-25930390#6_arrival_connector' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=43.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=43.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=43.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=43.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=43.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=43.00.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '323415870#2_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-617254199#3_arrival_connector' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=44.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=44.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=44.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=44.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=44.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=44.00.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-617254199#3_arrival_connector' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=45.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=45.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=45.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=45.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=45.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=45.00.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-25930390#0_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '521095431#1_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '323415870#2_arrival_connector' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=46.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=46.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=46.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=46.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=46.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=46.00.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-484776316#5_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '484776322_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '304528285_arrival_connector' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=47.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=47.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=47.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=47.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=47.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=47.00.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-25930390#6_arrival_connector' found.
+Warning: No connection between edge '635944828#0_depart_connector' and edge '-484776316#5_arrival_connector' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=48.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=48.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=48.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=48.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=48.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=48.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=49.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=49.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=49.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=49.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=49.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=49.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=50.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=50.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=50.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=50.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=50.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=50.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=51.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=51.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=51.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=51.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=51.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=51.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=52.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=52.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=52.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=52.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=52.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=52.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=53.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=53.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=53.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=53.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=53.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=53.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=54.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=54.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=54.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=54.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=54.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=54.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=55.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=55.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=55.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=55.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=55.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=55.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=56.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=56.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=56.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=56.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=56.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=56.00.
+Warning: No connection between edge '718190139#0' and edge '479819045#1' found.
+Warning: No route for vehicle 'car_56' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=57.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=57.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=57.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=57.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=57.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=57.00.
+Warning: No connection between edge '-322016268#0' and edge '538045331#0' found.
+Warning: No route for vehicle 'car_57' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=58.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=58.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=58.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=58.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=58.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=58.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=59.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=59.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=59.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=59.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=59.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=59.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=60.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=60.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=60.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=60.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=60.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=60.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=61.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=61.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=61.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=61.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=61.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=61.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=62.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=62.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=62.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=62.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=62.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=62.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=63.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=63.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=63.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=63.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=63.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=63.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=64.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=64.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=64.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=64.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=64.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=64.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=65.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=65.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=65.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=65.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=65.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=65.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=66.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=66.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=66.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=66.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=66.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=66.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=67.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=67.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=67.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=67.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=67.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=67.00.
+Warning: Person 'person_41.0' could not find sidewalk on edge '-372557571#1', time=68.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=68.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=68.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=68.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=68.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=68.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=68.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=69.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=69.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=69.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=69.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=69.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=69.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=70.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=70.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=70.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=70.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=70.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=70.00.
+Warning: No connection between edge '4526' and edge '484776322_arrival_connector' found.
+Warning: Person 'person_104.0' could not find sidewalk on edge '488343775#3', time=71.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=71.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=71.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=71.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=71.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=71.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=71.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=72.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=72.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=72.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=72.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=72.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=72.00.
+Warning: No connection between edge '4526' and edge '25930390#12_arrival_connector' found.
+Warning: Person 'person_143.0' could not find sidewalk on edge '488343775#3', time=73.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=73.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=73.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=73.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=73.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=73.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=73.00.
+Warning: No connection between edge '4526' and edge '-25930390#6_arrival_connector' found.
+Warning: Person 'person_3.0' could not find sidewalk on edge '488343775#3', time=74.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=74.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=74.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=74.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=74.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=74.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=74.00.
+Warning: No connection between edge '4526' and edge '157510287#3_arrival_connector' found.
+Warning: Person 'person_463.0' could not find sidewalk on edge '488343775#3', time=75.00.
+Warning: No connection between edge '4526' and edge '-235376607#1_arrival_connector' found.
+Warning: Person 'person_314.0' could not find sidewalk on edge '488343775#3', time=75.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=75.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=75.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=75.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=75.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=75.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=75.00.
+Warning: No connection between edge '4526' and edge '25930390#6_arrival_connector' found.
+Warning: Person 'person_466.0' could not find sidewalk on edge '488343775#3', time=76.00.
+Warning: No connection between edge '4526' and edge '-25930390#0_arrival_connector' found.
+Warning: Person 'person_482.0' could not find sidewalk on edge '488343775#3', time=76.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=76.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=76.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=76.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=76.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=76.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=76.00.
+Warning: No connection between edge '4526' and edge '-25930390#0_arrival_connector' found.
+Warning: Person 'person_98.0' could not find sidewalk on edge '488343775#3', time=77.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=77.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=77.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=77.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=77.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=77.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=77.00.
+Warning: No connection between edge '188147840#5_depart_connector' and edge '617240487_arrival_connector' found.
+Warning: Person 'person_117.0' could not find sidewalk on edge '617240487', time=78.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=78.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=78.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=78.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=78.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=78.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=78.00.
+Warning: No connection between edge '9950' and edge '521095431#1_arrival_connector' found.
+Warning: Person 'person_123.0' could not find sidewalk on edge '48003382#5', time=79.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=79.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=79.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=79.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=79.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=79.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=79.00.
+Warning: No connection between edge '9950' and edge '484776322_arrival_connector' found.
+Warning: Person 'person_173.0' could not find sidewalk on edge '48003382#5', time=80.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=80.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=80.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=80.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=80.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=80.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=80.00.
+Warning: No connection between edge '9950' and edge '152645483#6_arrival_connector' found.
+Warning: Person 'person_156.0' could not find sidewalk on edge '48003382#5', time=81.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=81.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=81.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=81.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=81.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=81.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=81.00.
+Warning: No connection between edge '9950' and edge '214240274#5_arrival_connector' found.
+Warning: Person 'person_195.0' could not find sidewalk on edge '48003382#5', time=82.00.
+Warning: No connection between edge '9950' and edge '214237461#2_arrival_connector' found.
+Warning: Person 'person_178.0' could not find sidewalk on edge '48003382#5', time=82.00.
+Warning: No connection between edge '9950' and edge '-25930390#0_arrival_connector' found.
+Warning: Person 'person_256.0' could not find sidewalk on edge '48003382#5', time=82.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=82.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=82.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=82.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=82.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=82.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=82.00.
+Warning: No connection between edge '9950' and edge '214237461#2_arrival_connector' found.
+Warning: Person 'person_18.0' could not find sidewalk on edge '48003382#5', time=83.00.
+Warning: No connection between edge '9950' and edge '25930390#12_arrival_connector' found.
+Warning: Person 'person_227.0' could not find sidewalk on edge '48003382#5', time=83.00.
+Warning: No connection between edge '9950' and edge '25930390#6_arrival_connector' found.
+Warning: Person 'person_262.0' could not find sidewalk on edge '48003382#5', time=83.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=83.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=83.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=83.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=83.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=83.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=83.00.
+Warning: No connection between edge '9950' and edge '617240487_arrival_connector' found.
+Warning: Person 'person_293.0' could not find sidewalk on edge '48003382#5', time=84.00.
+Warning: No connection between edge '9950' and edge '157510287#3_arrival_connector' found.
+Warning: Person 'person_281.0' could not find sidewalk on edge '48003382#5', time=84.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=84.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=84.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=84.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=84.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=84.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=84.00.
+Warning: No connection between edge '9950' and edge '521095431#1_arrival_connector' found.
+Warning: Person 'person_301.0' could not find sidewalk on edge '48003382#5', time=85.00.
+Warning: No connection between edge '9950' and edge '-235376607#1_arrival_connector' found.
+Warning: Person 'person_360.0' could not find sidewalk on edge '48003382#5', time=85.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=85.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=85.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=85.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=85.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=85.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=85.00.
+Warning: No connection between edge '9950' and edge '304528285_arrival_connector' found.
+Warning: Person 'person_32.0' could not find sidewalk on edge '48003382#5', time=86.00.
+Warning: No connection between edge '9950' and edge '-617254199#3_arrival_connector' found.
+Warning: Person 'person_398.0' could not find sidewalk on edge '48003382#5', time=86.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=86.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=86.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=86.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=86.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=86.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=86.00.
+Warning: No connection between edge '9950' and edge '521095431#0_arrival_connector' found.
+Warning: Person 'person_355.0' could not find sidewalk on edge '48003382#5', time=87.00.
+Warning: No connection between edge '9950' and edge '-617254199#3_arrival_connector' found.
+Warning: Person 'person_56.0' could not find sidewalk on edge '48003382#5', time=87.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=87.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=87.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=87.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=87.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=87.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=87.00.
+Warning: No connection between edge '9950' and edge '304528285_arrival_connector' found.
+Warning: Person 'person_416.0' could not find sidewalk on edge '48003382#5', time=88.00.
+Warning: No connection between edge '9950' and edge '521095431#0_arrival_connector' found.
+Warning: Person 'person_52.0' could not find sidewalk on edge '48003382#5', time=88.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=88.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=88.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=88.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=88.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=88.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=88.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=89.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=89.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=89.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=89.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=89.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=89.00.
+Warning: No connection between edge '9950' and edge '-235376607#1_arrival_connector' found.
+Warning: Person 'person_59.0' could not find sidewalk on edge '48003382#5', time=90.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=90.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=90.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=90.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=90.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=90.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=90.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=91.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=91.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=91.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=91.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=91.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=91.00.
+Warning: No connection between edge '531496679#0' and edge '718190184' found.
+Warning: No route for vehicle 'car_91' found.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=92.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=92.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=92.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=92.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=92.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=92.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=93.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=93.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=93.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=93.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=93.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=93.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=94.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=94.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=94.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=94.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=94.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=94.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=95.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=95.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=95.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=95.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=95.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=95.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=96.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=96.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=96.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=96.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=96.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=96.00.
+Warning: No connection between edge '9013' and edge '617240487_arrival_connector' found.
+Warning: Person 'person_249.0' could not find sidewalk on edge '617240487', time=97.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=97.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=97.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=97.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=97.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=97.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=97.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=98.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=98.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=98.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=98.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=98.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=98.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=99.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=99.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=99.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=99.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=99.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=99.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=100.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=100.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=100.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=100.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=100.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=100.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=101.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=101.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=101.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=101.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=101.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=101.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=102.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=102.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=102.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=102.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=102.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=102.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=103.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=103.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=103.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=103.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=103.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=103.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=104.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=104.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=104.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=104.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=104.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=104.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=105.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=105.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=105.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=105.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=105.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=105.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=106.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=106.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=106.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=106.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=106.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=106.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=107.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=107.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=107.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=107.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=107.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=107.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=108.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=108.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=108.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=108.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=108.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=108.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=109.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=109.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=109.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=109.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=109.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=109.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=110.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=110.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=110.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=110.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=110.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=110.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=111.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=111.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=111.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=111.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=111.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=111.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=112.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=112.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=112.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=112.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=112.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=112.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=113.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=113.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=113.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=113.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=113.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=113.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=114.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=114.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=114.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=114.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=114.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=114.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=115.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=115.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=115.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=115.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=115.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=115.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=116.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=116.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=116.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=116.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=116.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=116.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=117.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=117.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=117.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=117.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=117.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=117.00.
+Warning: No connection between edge '9013' and edge '157510287#5_arrival_connector' found.
+Warning: Person 'person_442.0' could not find sidewalk on edge '617240487', time=118.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=118.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=118.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=118.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=118.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=118.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=118.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=119.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=119.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=119.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=119.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=119.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=119.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=120.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=120.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=120.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=120.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=120.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=120.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=121.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=121.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=121.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=121.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=121.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=121.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=122.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=122.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=122.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=122.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=122.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=122.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=123.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=123.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=123.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=123.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=123.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=123.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=124.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=124.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=124.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=124.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=124.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=124.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=125.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=125.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=125.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=125.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=125.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=125.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=126.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=126.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=126.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=126.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=126.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=126.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=127.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=127.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=127.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=127.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=127.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=127.00.
+Warning: No connection between edge '9013' and edge '157510287#5_arrival_connector' found.
+Warning: Person 'person_491.0' could not find sidewalk on edge '617240487', time=128.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=128.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=128.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=128.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=128.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=128.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=128.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=129.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=129.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=129.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=129.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=129.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=129.00.
+Warning: No connection between edge '9948' and edge '214240274#5_arrival_connector' found.
+Warning: Person 'person_24.0' could not find sidewalk on edge '48003382#3', time=130.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=130.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=130.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=130.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=130.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=130.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=130.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=131.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=131.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=131.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=131.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=131.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=131.00.
+Warning: No connection between edge '9948' and edge '521095431#0_arrival_connector' found.
+Warning: Person 'person_71.0' could not find sidewalk on edge '48003382#3', time=132.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=132.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=132.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=132.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=132.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=132.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=132.00.
+Warning: No connection between edge '9948' and edge '521095431#0_arrival_connector' found.
+Warning: Person 'person_354.0' could not find sidewalk on edge '48003382#3', time=133.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=133.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=133.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=133.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=133.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=133.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=133.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=134.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=134.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=134.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=134.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=134.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=134.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=135.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=135.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=135.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':2238070721_3_0', time=135.00.
+Warning: Collision of person 'person_13.0' and person 'person_139.0', lane=':2238070721_3_0', time=135.00.
+Warning: Collision of person 'person_13.0' and person 'person_107.0', lane=':2238070721_3_0', time=135.00.
+Warning: Collision of person 'person_139.0' and person 'person_121.0', lane=':2238070721_3_0', time=136.00.
+Warning: Collision of person 'person_107.0' and person 'person_121.0', lane=':2238070721_3_0', time=136.00.
+Warning: Collision of person 'person_107.0' and person 'person_139.0', lane=':2238070721_3_0', time=136.00.
+Warning: Collision of person 'person_13.0' and person 'person_121.0', lane=':223

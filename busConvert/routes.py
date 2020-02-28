@@ -3,23 +3,34 @@ import sumolib
 import GeoConverter as gc
 import stops as st
 from anytree import Node, RenderTree
-# import similaritymeasures
+import similaritymeasures as sm
 import matplotlib.pyplot as plt
-
-
+import time
+import random
 shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8'), ('shape_pt_lat', 'f'),
                                                                 ('shape_pt_lon', 'f'), ('shape_pt_sequence', 'f')])
 stops = np.genfromtxt('stops_110.csv', delimiter=',')
 stops = np.delete(stops[:, 1:5], 1, 1)
 # shapes = np.sort(shapes, order=['shape_id', 'shape_pt_sequence'])
 shape_110 = shapes[shapes['shape_id'] == 110]
+
+# save np.load
+np_load_old = np.load
+# modify the default parameters of np.load
+np.load = lambda *a, **k: np_load_old(*a, allow_pickle=True, **k)
+# trip_stops = np.load('qsim/trip_stops.npy')
+sumo_stops = np.load('qsim/sumo_stops.npy')
+trip_stops = np.load('trip_110.npy')
+
+
 geo_110 = []
 for point in shape_110:
     geo_110.append([point[0], point[1], point[2], point[3]])
 shape_110 = np.array(geo_110)
 del geo_110
 shape_ids = np.unique(shapes['shape_id'])
-net = sumolib.net.readNet('maps/shape_110.net.xml')
+# net = sumolib.net.readNet('maps/shape_110.net.xml')
+net = sumolib.net.readNet('maps/shape_110_bus.net.xml')
 st.convert_to_sumo(stops[1][2], stops[1][1], net)
 stops_lane_ids = []
 for (i, stop) in enumerate(stops):
@@ -32,7 +43,7 @@ stops_lane_ids = np.array(stops_lane_ids)
 
 def _get_edge_id_lonlat(long, lat):
     radius = 0.1
-    x, y = net.convertLonLat2XY(long,lat)
+    x, y = net.convertLonLat2XY(long, lat)
     edges = net.getNeighboringEdges(x, y, radius)
     i = 0.1
     while len(edges) == 0:
@@ -300,36 +311,56 @@ def get_nearest_edge(x, y):
         r = r + 100
 
 
-def gen_random_person_trip():
+def get_stop_lane_id(stop_id):
+    return sumo_stops[np.where(sumo_stops[:, 0] == str(stop_id))[0][0]]
+
+
+def gen_random_person_trip(trip_stops):
     # return an array having [walking form , walking to and persontrip from , persontrip to and walking from , walking to]
     #   <person id="0" depart="10.00">
     #       <walk from="walking form" to="1walking to" arrivalPos="30" />
     #       <personTrip from="persontrip from" to=" persontrip to"  modes="public"/>
     #       <walk from="walking from" to="walking to" arrivalPos="30" />
     #   </person>
+    # trip stops is an array containing a sub array of stop id the bellong to one trip [[trip1_stop1 ,trip1_stop2], [trip2_stop1, trip2_stop2]]
 
-    xmin, ymin, xmax, ymax = net.getBoundary()
-    from_xy = gen_random_xy(xmin, ymin, xmax, ymax)
-    to_xy = gen_random_xy(xmin, ymin, xmax, ymax)
-    from_bus = get_nearest_bus_stop(stops_lane_ids, from_xy[0], from_xy[1])[0].getEdge().getID()
-    to_bus = get_nearest_bus_stop(stops_lane_ids, to_xy[0], to_xy[1])[0].getEdge().getID()
-    return [_get_edge_id_xy(from_xy[0], from_xy[1]), from_bus, to_bus, _get_edge_id_xy(to_xy[0], to_xy[1])]
+    seed = int(time.time() % len(trip_stops) - 1)
+    trip = trip_stops[seed]
+    starting_stop_id = trip[int((random.random() * 1000) % ((len(trip) - 1) / 2))]  # choose from first half of the stops only
+    starting_stop = get_stop_lane_id(starting_stop_id)[1]
+    ending_stop_id = trip[int(
+        (random.random() * 1000) % ((len(trip) - 1) / 2) + ((len(trip) - 1) / 2))]  # choose from second half of the stops only
+    ending_stop = get_stop_lane_id(ending_stop_id)[1]
+    starting_xy = net.getLane(starting_stop).getShape()[0]
+    start_neighboring = net.getNeighboringEdges(starting_xy[0], starting_xy[1], 10)
+    starting_walk = start_neighboring[int((random.random() * 1000) % len(start_neighboring) - 1)]
+
+
+    ending_xy = net.getLane(ending_stop).getShape()[0]
+    end_neighboring = net.getNeighboringEdges(ending_xy[0], ending_xy[1], 10)
+    ending_walk = end_neighboring[int((random.random() * 1000) % len(end_neighboring) - 1)]
+    # from_bus = get_nearest_bus_stop(stops_lane_ids, from_xy[0], from_xy[1])[0].getEdge().getID()
+    # to_bus = get_nearest_bus_stop(stops_lane_ids, to_xy[0], to_xy[1])[0].getEdge().getID()
+    return [starting_walk[0].getID(),net.getLane(starting_stop).getEdge().getID(), net.getLane(ending_stop).getEdge().getID(), ending_walk[0].getID()]
 
 
 def gen_rand_person_flows(output_file, number_of_flows):
+    random.seed(time.time())
     file = open(output_file, "w+")
     file.write(
         '<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">\n')
     for i in range(number_of_flows):
         print("making flow " + str(i))
-        trip = gen_random_person_trip()
-        file.write('<personFlow id="person_' +str(i) + '" begin="0" end="9000" period="10">\n')
+        trip = gen_random_person_trip(trip_stops[:,1])
+        # or if there is only one trip use  trip = gen_random_person_trip([trip_stops[1]])
+        file.write('<personFlow id="person_' + str(i) + '" begin="0" end="7200" period="1200">\n')
         file.write('<walk from="' + trip[0] + '" to="' + trip[1] + '" />\n')
         file.write('<personTrip from="' + trip[1] + '" to="' + trip[2] + '" modes="public" />\n')
         file.write('<walk from="' + trip[2] + '" to="' + trip[3] + '"/>\n')
         file.write('</personFlow>\n')
     file.write('</routes>')
     file.close()
+
 
 # write_to_file('routes.xml', 310)
 # shape_to_edge_sequence(310)
