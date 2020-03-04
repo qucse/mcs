@@ -63,3 +63,5 @@ buck-out/
 /.vscode
 
 yarn.lock
+
+trip.json

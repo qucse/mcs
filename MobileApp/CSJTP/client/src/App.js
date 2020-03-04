@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, Alert } from 'react-native';
 import GetLocation from 'react-native-get-location';
-import OpenStreetMap from './components/OpenStreetMap';
+import Map from './components/Map';
 
 export default function App() {
 	const [ location, setLocation ] = useState();
@@ -48,7 +48,7 @@ export default function App() {
 
 	return (
 		<View style={styles.container}>
-			<OpenStreetMap />
+			<Map />
 		</View>
 	);
 }
