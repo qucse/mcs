@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?><additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+<busStop id="9792" lane="-188099579#6_0" startPos="28.44" endPos="34.128" friendlyPos="true" />  <!--b'Al Shamal Health Cen' -->
+<busStop id="9756" lane="225239819#4_0" startPos="1476.175" endPos="1771.4099999999999" friendlyPos="true" />  <!--b'North Athba Turn' -->
+<busStop id="3068" lane="490798039#2_0" startPos="178.215" endPos="213.858" friendlyPos="true" />  <!--b'Al Ghazali Street' -->
+<busStop id="9744" lane="225239816#7_0" startPos="589.93" endPos="707.9159999999999" friendlyPos="true" />  <!--b'Ain Sinan Turn' -->
+<busStop id="9745" lane="225239812#1_0" startPos="761.015" endPos="913.218" friendlyPos="true" />  <!--b'Fuwairit / Ain Sinan' -->
+<busStop id="9764" lane="225239805#2_0" startPos="1337.25" endPos="1604.7" friendlyPos="true" />  <!--b'Al Zughab' -->
+<busStop id="5110" lane="178063596#0_0" startPos="350.02" endPos="420.024" friendlyPos="true" />  <!--b'Al Kharaitiyat Stop ' -->
+<busStop id="9798" lane="188099690#1_0" startPos="34.975" endPos="41.97" friendlyPos="true" />  <!--b'Abu Dhalouf' -->
+<busStop id="9727" lane="-133979847#7_0" startPos="509.715" endPos="611.658" friendlyPos="true" />  <!--b'Al Ghuwairiyah Turn' -->
+<busStop id="9768" lane="133980131_0" startPos="256.5" endPos="307.8" friendlyPos="true" />  <!--b'Al Shamal Sports Clu' -->
+<busStop id="7112" lane="178755703#3_0" startPos="44.595" endPos="53.513999999999996" friendlyPos="true" />  <!--b'Tebah Petrol Station' -->
+<busStop id="9767" lane="-133979847#23_0" startPos="118.875" endPos="142.65" friendlyPos="true" />  <!--b'Umm Quaraiba Turn' -->
+<busStop id="9925" lane="491695012_0" startPos="149.955" endPos="179.94600000000003" friendlyPos="true" />  <!--b'New Airport North' -->
+<busStop id="9917" lane="234545617#6_0" startPos="38.125" endPos="45.75" friendlyPos="true" />  <!--b'Doha Sailing Club' -->
+<busStop id="9719" lane="133979847#3_0" startPos="442.31" endPos="530.772" friendlyPos="true" />  <!--b'Al Dawoudiyah Turn' -->
+<busStop id="9715" lane="258044185#1_0" startPos="140.12" endPos="168.144" friendlyPos="true" />  <!--b'Al Zubara Interchang' -->
+<busStop id="9784" lane="-129287644#5_0" startPos="10.535" endPos="12.642" friendlyPos="true" />  <!--b'Al Ruwais' -->
+<busStop id="9713" lane="155348939#4_0" startPos="292.7" endPos="351.24" friendlyPos="true" />  <!--b'Al Zubara Turn' -->
+<busStop id="4518" lane="155991117#3_0" startPos="107.515" endPos="129.018" friendlyPos="true" />  <!--b'Family Food Center' -->
+<busStop id="9002" lane="152645483#1_0" startPos="80.31" endPos="96.372" friendlyPos="true" />  <!--b' Ezdan Mall' -->
+<busStop id="5195" lane="74867391#0_0" startPos="74.45" endPos="89.34" friendlyPos="true" />  <!--b'Al Gharafa Village 2' -->
+<busStop id="9968" lane="121901910#6_0" startPos="21.74" endPos="26.087999999999997" friendlyPos="true" />  <!--b'Sha Safa Saloon' -->
+<busStop id="8586" lane="488719952#0_0" startPos="61.605" endPos="73.926" friendlyPos="true" />  <!--b'Al Shahaniya Coop' -->
+<busStop id="8587" lane="-488719952#0_0" startPos="61.605" endPos="73.926" friendlyPos="true" />  <!--b'Al Shahaniya Coop' -->
+<busStop id="7137" lane="490991947_0" startPos="50.725" endPos="60.870000000000005" friendlyPos="true" />  <!--b'House 11' -->
+<busStop id="9477" lane="480308395#0_0" startPos="117.025" endPos="140.43" friendlyPos="true" />  <!--b'Al Sakhama Street' -->
+<busStop id="9473" lane="618339525#2_0" startPos="39.175" endPos="47.01" friendlyPos="true" />  <!--b'Umm Slal Ali Turn' -->
+<busStop id="7111" lane="256138065#1_0" startPos="314.4" endPos="377.28" friendlyPos="true" />  <!--b'North Road Stop 1' -->
+<busStop id="2033" lane="244281986#3_0" startPos="81.075" endPos="97.29" friendlyPos="true" />  <!--b'Al Bayraq Street' -->
+<busStop id="9716" lane="192109604#0_0" startPos="13.295" endPos="15.954" friendlyPos="true" />  <!--b'Al Waab Turn' -->
+<busStop id="9770" lane="188118683#0_0" startPos="365.67" endPos="438.80400000000003" friendlyPos="true" />  <!--b'Al Shamal Stop 1' -->
+<busStop id="9581" lane="615295121#4_0" startPos="79.41" endPos="95.292" friendlyPos="true" />  <!--b'MMUP Al Khor' -->
+<busStop id="9577" lane="155242187#4_0" startPos="110.3" endPos="132.36" friendlyPos="true" />  <!--b'Al Khor Community Tu' -->
+<busStop id="9533" lane="155241591#6_0" startPos="362.485" endPos="434.982" friendlyPos="true" />  <!--b'Al Thakhira Road Sto' -->
+<busStop id="9511" lane="224015361_0" startPos="146.165" endPos="175.398" friendlyPos="true" />  <!--b'Mowasalat Accomodati' -->
+<busStop id="9540" lane="155342450#2_0" startPos="498.63" endPos="598.356" friendlyPos="true" />  <!--b'Ras Laffan Road (Eas' -->
+<busStop id="9544" lane="155342450#2_0" startPos="498.63" endPos="598.356" friendlyPos="true" />  <!--b'Ras Laffan Road (Wes' -->
+<busStop id="9548" lane="475953818#0_0" startPos="66.545" endPos="79.854" friendlyPos="true" />  <!--b'Industrial Area E W ' -->
+<busStop id="9552" lane="190077183#1_0" startPos="47.895" endPos="57.474000000000004" friendlyPos="true" />  <!--b'Industrial Area N S ' -->
+<busStop id="9556" lane="190077183#8_0" startPos="48.505" endPos="58.206" friendlyPos="true" />  <!--b'Industrial Area N S ' -->
+<busStop id="9560" lane="-190077205#0_0" startPos="73.645" endPos="88.374" friendlyPos="true" />  <!--b'Industrial Area E W ' -->
+<busStop id="9561" lane="282209435#6_0" startPos="91.8" endPos="110.16" friendlyPos="true" />  <!--b'North Hospital' -->
+<busStop id="3345" lane="25936919#6_0" startPos="62.24" endPos="74.688" friendlyPos="true" />  <!--b'Qurtuba Stop 1' -->
+<busStop id="6441" lane="489628886#3_0" startPos="257.425" endPos="308.91" friendlyPos="true" />  <!--b'Al Taqadum Stop 1' -->
+<busStop id="9740" lane="225239816#6_0" startPos="2394.185" endPos="2873.022" friendlyPos="true" />  <!--b'Al Marrouna Turn' -->
+<busStop id="9772" lane="-188099805#15_0" startPos="67.51" endPos="81.012" friendlyPos="true" />  <!--b'Al Shamal Stop 2' -->
+<busStop id="9778" lane="-188110307#4_0" startPos="30.58" endPos="36.696" friendlyPos="true" />  <!--b'Al Shamal Stop 3' -->
+<busStop id="7114" lane="490987516#3_0" startPos="62.06" endPos="74.47200000000001" friendlyPos="true" />  <!--b'Doha Driving Centre' -->
+<busStop id="7124" lane="491162828#2_0" startPos="98.27" endPos="117.92399999999999" friendlyPos="true" />  <!--b'Al Kharaitiyat Stop ' -->
+<busStop id="7132" lane="180089170#0_0" startPos="17.66" endPos="21.192" friendlyPos="true" />  <!--b'Al Kharaitiyat' -->
+<busStop id="7136" lane="188248593#1_0" startPos="34.76" endPos="41.711999999999996" friendlyPos="true" />  <!--b'Al Islah Street' -->
+<busStop id="7140" lane="490991948#7_0" startPos="38.9" endPos="46.68" friendlyPos="true" />  <!--b'Gulf Lady Beauty Sal' -->
+<busStop id="8594" lane="-188144025_0" startPos="520.57" endPos="624.6840000000001" friendlyPos="true" />  <!--b'Zekreet Industrial A' -->
+<busStop id="8593" lane="-188144025_0" startPos="520.57" endPos="624.6840000000001" friendlyPos="true" />  <!--b'Zekreet Industrial A' -->
+<busStop id="5616" lane="114272198#9_0" startPos="192.275" endPos="230.73000000000002" friendlyPos="true" />  <!--b'Al Joudi Street' -->
+<busStop id="7117" lane="490982150#1_0" startPos="143.26" endPos="171.91199999999998" friendlyPos="true" />  <!--b'Al Kharaitiyat Stree' -->
+<busStop id="8595" lane="160025266#3_0" startPos="82.04" endPos="98.44800000000001" friendlyPos="true" />  <!--b'Dukhan Petrol Statio' -->
+<busStop id="2125" lane="489670478#2_0" startPos="115.715" endPos="138.858" friendlyPos="true" />  <!--b'Athletes Village' -->
+<busStop id="9012" lane="521095431#0_0" startPos="213.275" endPos="255.93" friendlyPos="true" />  <!--b'Al Muftha' -->
+<busStop id="9013" lane="617240487_0" startPos="97.91" endPos="117.49199999999999" friendlyPos="true" />  <!--b'Al Muftha Garage' -->
+<busStop id="4823" lane="488343783#2_0" startPos="175.99" endPos="211.18800000000002" friendlyPos="true" />  <!--b'Control Tower' -->
+<busStop id="4819" lane="488343783#4_0" startPos="58.015" endPos="69.618" friendlyPos="true" />  <!--b'Family Food Center' -->
+<busStop id="4853" lane="155991123#5_0" startPos="62.47" endPos="74.964" friendlyPos="true" />  <!--b'Qatar Airways ' -->
+<busStop id="2715" lane="479802006_0" startPos="8.305" endPos="9.966" friendlyPos="true" />  <!--b'Al Meeara Coop' -->
+<busStop id="55103" lane="206267172#7_0" startPos="103.455" endPos="124.146" friendlyPos="true" />  <!--b' Beverly Hills Garde' -->
+<busStop id="3169" lane="25935517#1_0" startPos="36.935" endPos="44.322" friendlyPos="true" />  <!--b'Al Ghazali Street' -->
+<busStop id="9470" lane="188248557#0_0" startPos="274.32" endPos="329.18399999999997" friendlyPos="true" />  <!--b'Umm Slal Health Cent' -->
+<busStop id="9460" lane="224166566#15_0" startPos="67.955" endPos="81.54599999999999" friendlyPos="true" />  <!--b'Al Jaber Auto Electr' -->
+<busStop id="3165" lane="490789769_0" startPos="88.37" endPos="106.04400000000001" friendlyPos="true" />  <!--b'Al Duhail' -->
+<busStop id="9462" lane="-188248556#3_0" startPos="109.76" endPos="131.71200000000002" friendlyPos="true" />  <!--b'Al Majda Stop 1' -->
+<busStop id="9466" lane="188248557#6_0" startPos="68.225" endPos="81.86999999999999" friendlyPos="true" />  <!--b'Abu Fesseela Street' -->
+<busStop id="3161" lane="625452111#0_0" startPos="60.65" endPos="72.78" friendlyPos="true" />  <!--b'Rawdat Umm Lekba Str' -->
+<busStop id="9500" lane="624917129_0" startPos="88.895" endPos="106.67399999999999" friendlyPos="true" />  <!--b'Al Khor Road' -->
+<busStop id="7128" lane="491162828#7_0" startPos="53.15" endPos="63.78" friendlyPos="true" />  <!--b'Al Telal Street' -->
+<busStop id="9504" lane="161422664#2_0" startPos="91.8" endPos="110.16" friendlyPos="true" />  <!--b'Al Khor Gardens' -->
+<busStop id="5159" lane="178205427#20_0" startPos="164.12" endPos="196.94400000000002" friendlyPos="true" />  <!--b'Excear Pharmacy' -->
+<busStop id="9508" lane="155241140#0_0" startPos="288.735" endPos="346.482" friendlyPos="true" />  <!--b'Umm Suwaiyah' -->
+<busStop id="5105" lane="178011159#4_0" startPos="125.325" endPos="150.39000000000001" friendlyPos="true" />  <!--b'Al Gharafa Stadium' -->
+<busStop id="5103" lane="178063587#1_0" startPos="191.01" endPos="229.212" friendlyPos="true" />  <!--b'Al Maszhabiya Stop 2' -->
+<busStop id="7197" lane="-180089167#1_0" startPos="39.22" endPos="47.064" friendlyPos="true" />  <!--b'Al Wasmi Street' -->
+<busStop id="7199" lane="-188248585#1_0" startPos="22.925" endPos="27.51" friendlyPos="true" />  <!--b'Al Kharaitiyat (Term' -->
+<busStop id="8376" lane="157602619#12_0" startPos="1189.63" endPos="1427.556" friendlyPos="true" />  <!--b'QNCC' -->
+<busStop id="7061" lane="224735448#1_0" startPos="59.01" endPos="70.812" friendlyPos="true" />  <!--b'Al Duhail Girls Scho' -->
+<busStop id="7025" lane="60838543#5_0" startPos="81.97" endPos="98.364" friendlyPos="true" />  <!--b'Jerman Nermaiyah Nor' -->
+<busStop id="6037" lane="25936951#10_0" startPos="93.715" endPos="112.458" friendlyPos="true" />  <!--b'QNH Building' -->
+<busStop id="9733" lane="-222036826_0" startPos="85.15" endPos="102.18" friendlyPos="true" />  <!--b'Al Juthay Turn' -->
+<busStop id="7144" lane="480266760#1_0" startPos="43.135" endPos="51.762" friendlyPos="true" />  <!--b'Kilometer 7.6' -->
+<busStop id="7148" lane="224166563#1_0" startPos="65.57" endPos="78.684" friendlyPos="true" />  <!--b'Power Phone' -->
+<busStop id="6354" lane="479760429_0" startPos="9.945" endPos="11.934000000000001" friendlyPos="true" />  <!--b'Samsung Tower' -->
+<busStop id="7152" lane="224166566#3_0" startPos="65.105" endPos="78.126" friendlyPos="true" />  <!--b'Federal Trading' -->
+<busStop id="7156" lane="224166566#10_0" startPos="14.72" endPos="17.664" friendlyPos="true" />  <!--b'Umm Slal Mohammed' -->
+<busStop id="88329" lane="155823343#2_0" startPos="120.935" endPos="145.122" friendlyPos="true" />  <!--b'Abu Nakhla Stop 6' -->
+<busStop id="8632" lane="157102665_0" startPos="2843.89" endPos="3412.6679999999997" friendlyPos="true" />  <!--b'Al Sinnah Turn' -->
+<busStop id="8640" lane="756356232#1_0" startPos="135.175" endPos="162.21" friendlyPos="true" />  <!--b'Al Jemailiyah Hospit' -->
+<busStop id="8660" lane="224527209#1_0" startPos="739.04" endPos="886.848" friendlyPos="true" />  <!--b'Al Rufayq Turn' -->
+<busStop id="8664" lane="224527209#3_0" startPos="279.84" endPos="335.808" friendlyPos="true" />  <!--b'Al Kozan Turn' -->
+<busStop id="7004" lane="234383787#1_0" startPos="237.15" endPos="284.58000000000004" friendlyPos="true" />  <!--b'Arab League Street 0' -->
+<busStop id="7005" lane="234383787#1_0" startPos="237.15" endPos="284.58000000000004" friendlyPos="true" />  <!--b'Arab League Street 0' -->
+<busStop id="7008" lane="234383787#3_0" startPos="80.085" endPos="96.10199999999999" friendlyPos="true" />  <!--b'Al Khafji Street 01' -->
+<busStop id="7009" lane="490423348#1_0" startPos="184.315" endPos="221.178" friendlyPos="true" />  <!--b'Al Khafji Street 02' -->
+<busStop id="88327" lane="155823336#2_0" startPos="205.48" endPos="246.576" friendlyPos="true" />  <!--b'Abu Nakhla Stop 7' -->
+<busStop id="55633" lane="25958102#0_0" startPos="308.81" endPos="370.572" friendlyPos="true" />  <!--b'Juton Paints' -->
+<busStop id="7077" lane="-248802948#5_0" startPos="30.325" endPos="36.39" friendlyPos="true" />  <!--b'Al Kheesa Village' -->
+<busStop id="7081" lane="228890106#3_0" startPos="89.87" endPos="107.84400000000001" friendlyPos="true" />  <!--b'Al Kheesa Terminus' -->
+<busStop id="6028" lane="157522406#2_0" startPos="252.45" endPos="302.94" friendlyPos="true" />  <!--b'National Theatre' -->
+<busStop id="5654" lane="625353484#3_0" startPos="9.955" endPos="11.946" friendlyPos="true" />  <!--b' Cambridge School' -->
+<busStop id="5676" lane="25948524#4_0" startPos="216.18" endPos="259.416" friendlyPos="true" />  <!--b'Mannai Accommodation' -->
+<busStop id="5665" lane="481593583#3_0" startPos="104.49" endPos="125.38799999999999" friendlyPos="true" />  <!--b'Bajegiri School' -->
+<busStop id="5680" lane="25948524#5_0" startPos="351.78" endPos="422.13599999999997" friendlyPos="true" />  <!--b'Al Bakhri Camp' -->
+<busStop id="5623" lane="490989999#0_0" startPos="133.485" endPos="160.18200000000002" friendlyPos="true" />  <!--b'Wadi Al Qura Street' -->
+<busStop id="1312" lane="622836603#0_0" startPos="60.955" endPos="73.146" friendlyPos="true" />  <!--b'Qatar Autimobile Com' -->
+<busStop id="5587" lane="149931041#0_0" startPos="118.865" endPos="142.638" friendlyPos="true" />  <!--b'Muaither South Stop ' -->
+<busStop id="5567" lane="206493601#6_0" startPos="130.645" endPos="156.774" friendlyPos="true" />  <!--b'Jaafar Al Tayyar Sto' -->
+<busStop id="5559" lane="158356132_0" startPos="108.715" endPos="130.458" friendlyPos="true" />  <!--b'Al Aziziyah' -->
+<busStop id="5553" lane="158511810#3_0" startPos="23.38" endPos="28.055999999999997" friendlyPos="true" />  <!--b'The Souq' -->
+<busStop id="5600" lane="88296570#2_0" startPos="117.65" endPos="141.18" friendlyPos="true" />  <!--b'Enertich Safety Trai' -->
+<busStop id="5622" lane="114272198#0_0" startPos="146.125" endPos="175.35" friendlyPos="true" />  <!--b'Wadi Al Qura Street' -->
+<busStop id="5626" lane="306440501#0_0" startPos="208.28" endPos="249.936" friendlyPos="true" />  <!--b'Abu Hamour Petrol St' -->
+<busStop id="5442" lane="246111099#2_0" startPos="83.96" endPos="100.752" friendlyPos="true" />  <!--b'Qatar Primary Dental' -->
+<busStop id="5436" lane="25931203#12_0" startPos="88.895" endPos="106.67399999999999" friendlyPos="true" />  <!--b'Les Roses' -->
+<busStop id="5657" lane="625353482_0" startPos="102.35" endPos="122.82" friendlyPos="true" />  <!--b'Cambridge School' -->
+<busStop id="5568" lane="137676973#6_0" startPos="268.205" endPos="321.846" friendlyPos="true" />  <!--b'Al Sailiya Stop 2' -->
+<busStop id="5592" lane="-236193617#9_0" startPos="82.055" endPos="98.46600000000001" friendlyPos="true" />  <!--b'House 125' -->
+<busStop id="5596" lane="-236193617#0_0" startPos="58.98" endPos="70.776" friendlyPos="true" />  <!--b'Marain Bint Omran Pr' -->
+<busStop id="5629" lane="491145952#1_0" startPos="160.495" endPos="192.594" friendlyPos="true" />  <!--b' Crystal Service Cen' -->
+<busStop id="5511" lane="95741909#4_0" startPos="62.23" endPos="74.676" friendlyPos="true" />  <!--b'Doha Zoo' -->
+<busStop id="5625" lane="491145952#3_0" startPos="150.335" endPos="180.40200000000002" friendlyPos="true" />  <!--b'Foton' -->
+<busStop id="5349" lane="-490718482#27_0" startPos="26.6" endPos="31.92" friendlyPos="true" />  <!--b'Al Yasmin ladies Tai' -->
+<busStop id="5222" lane="-25977288#0_0" startPos="36.23" endPos="43.476" friendlyPos="true" />  <!--b'House 1' -->
+<busStop id="5345" lane="-490718482#18_0" startPos="28.13" endPos="33.756" friendlyPos="true" />  <!--b'Al Hoar Manpower' -->
+<busStop id="5621" lane="491145952#9_0" startPos="116.66" endPos="139.992" friendlyPos="true" />  <!--b'Safety Center' -->
+<busStop id="55617" lane="325052429#1_0" startPos="15.24" endPos="18.288" friendlyPos="true" />  <!--b'Global Art' -->
+<busStop id="55615" lane="325052429#5_0" startPos="97.88" endPos="117.45599999999999" friendlyPos="true" />  <!--b'Qatar Design Centre' -->
+<busStop id="5554" lane="491460269#2_0" startPos="17.99" endPos="21.587999999999997" friendlyPos="true" />  <!--b'Al Jaid Trading' -->
+<busStop id="3872" lane="-113814995#12_0" startPos="60.645" endPos="72.774" friendlyPos="true" />  <!--b'House 22' -->
+<busStop id="3870" lane="-113814995#6_0" startPos="44.285" endPos="53.141999999999996" friendlyPos="true" />  <!--b'House 32' -->
+<busStop id="5562" lane="158513046#4_0" startPos="29.45" endPos="35.34" friendlyPos="true" />  <!--b'Al Isra School' -->
+<busStop id="5510" lane="60868579#0_0" startPos="33.465" endPos="40.158" friendlyPos="true" />  <!--b'House 10' -->
+<busStop id="3821" lane="159050454#0_0" startPos="99.02" endPos="118.824" friendlyPos="true" />  <!--b'Kia Motors' -->
+<busStop id="5486" lane="479772628#4_0" startPos="116.63" endPos="139.956" friendlyPos="true" />  <!--b'Umm Al Jamajim Stree' -->
+<busStop id="5383" lane="25935270#13_0" startPos="55.05" endPos="66.06" friendlyPos="true" />  <!--b'Al Qalah Street' -->
+<busStop id="5379" lane="-235455096#5_0" startPos="19.76" endPos="23.712000000000003" friendlyPos="true" />  <!--b'Musalla Al Eid Stree' -->
+<busStop id="3721" lane="743102269#0_0" startPos="19.36" endPos="23.232" friendlyPos="true" />  <!--b' Athletes Village' -->
+<busStop id="5493" lane="-25931103#14_0" startPos="51.295" endPos="61.554" friendlyPos="true" />  <!--b'Wadi Al Mark Street' -->
+<busStop id="5388" lane="491618042#0_0" startPos="44.35" endPos="53.22" friendlyPos="true" />  <!--b'Deebal Street' -->
+<busStop id="2217" lane="187490889#4_0" startPos="99.765" endPos="119.718" friendlyPos="true" />  <!--b'House 115' -->
+<busStop id="5428" lane="289331408#2_0" startPos="87.725" endPos="105.27" friendlyPos="true" />  <!--b'Villaggio' -->
+<busStop id="5430" lane="747957315#3_0" startPos="50.37" endPos="60.443999999999996" friendlyPos="true" />  <!--b'Stadium Entrance 1' -->
+<busStop id="5440" lane="747957333#11_0" startPos="237.96" endPos="285.552" friendlyPos="true" />  <!--b'Police Sports Associ' -->
+<busStop id="5382" lane="-235436716#5_0" startPos="93.83" endPos="112.596" friendlyPos="true" />  <!--b'Al Majda Street' -->
+<busStop id="5142" lane="320755677#5_0" startPos="57.575" endPos="69.09" friendlyPos="true" />  <!--b'Al Manar Street' -->
+<busStop id="5375" lane="235454335#2_0" startPos="57.93" endPos="69.516" friendlyPos="true" />  <!--b'Al Huwaila Street' -->
+<busStop id="5487" lane="479772628#4_0" startPos="116.63" endPos="139.956" friendlyPos="true" />  <!--b'Umm Al Jamajim Stree' -->
+<busStop id="5483" lane="742024332#2_0" startPos="30.45" endPos="36.54" friendlyPos="true" />  <!--b'Al Baaya Street' -->
+<busStop id="5481" lane="742024332#5_0" startPos="75.955" endPos="91.146" friendlyPos="true" />  <!--b'Old Rayyan Traffic P' -->
+<busStop id="5475" lane="133960210#6_0" startPos="83.465" endPos="100.158" friendlyPos="true" />  <!--b'Aspire' -->
+<busStop id="5504" lane="479778223#0_0" startPos="131.005" endPos="157.206" friendlyPos="true" />  <!--b'Al Noor Pharmacy' -->
+<busStop id="5537" lane="747957333#2_0" startPos="30.615" endPos="36.738" friendlyPos="true" />  <!--b'Les Roses' -->
+<busStop id="5529" lane="137676713#11_0" startPos="109.685" endPos="131.622" friendlyPos="true" />  <!--b'Villaggio' -->
+<busStop id="5224" lane="-25977315#0_0" startPos="34.03" endPos="40.836" friendlyPos="true" />  <!--b'Barzan 2' -->
+<busStop id="5250" lane="479621758#5_0" startPos="66.46" endPos="79.752" friendlyPos="true" />  <!--b'Al Shaqab Gate  9' -->
+<busStop id="5384" lane="-246333043#5_0" startPos="36.235" endPos="43.482" friendlyPos="true" />  <!--b'Al Henzab Quran Cent' -->
+<busStop id="5539" lane="747957333#10_0" startPos="117.235" endPos="140.68200000000002" friendlyPos="true" />  <!--b'Al Waab / Q Tel' -->
+<busStop id="5320" lane="-490621454#5_0" startPos="46.265" endPos="55.518" friendlyPos="true" />  <!--b'Ayman Bin Khalid Str' -->
+<busStop id="5324" lane="-490621454#0_0" startPos="56.205" endPos="67.446" friendlyPos="true" />  <!--b'Al Baraah Street' -->
+<busStop id="3967" lane="491680058#1_0" startPos="27.96" endPos="33.552" friendlyPos="true" />  <!--b'Almandoos Shoe Shop' -->
+<busStop id="2373" lane="491633488#1_0" startPos="22.425" endPos="26.91" friendlyPos="true" />  <!--b'Al Hassem Group' -->
+<busStop id="99704" lane="480291816#1_0" startPos="80.72" endPos="96.864" friendlyPos="true" />  <!--b' Boulevard Mall' -->
+<busStop id="9480" lane="256295729#0_0" startPos="97.335" endPos="116.80199999999999" friendlyPos="true" />  <!--b'Umm Al Amad Village' -->
+<busStop id="5173" lane="479797324#0_0" startPos="227.685" endPos="273.222" friendlyPos="true" />  <!--b'Qatar Foundation Civ' -->
+<busStop id="94484" lane="-258042630#0_0" startPos="1342.07" endPos="1610.484" friendlyPos="true" />  <!--b'Umm Garn Turn' -->
+<busStop id="9481" lane="258043594#1_0" startPos="97.17" endPos="116.604" friendlyPos="true" />  <!--b'Umm Al Amad Village' -->
+<busStop id="5119" lane="-489845126#0_0" startPos="20.465" endPos="24.558" friendlyPos="true" />  <!--b'Nabina Furniture' -->
+<busStop id="5121" lane="658420602_0" startPos="70.43" endPos="84.516" friendlyPos="true" />  <!--b'Gharafa Stationary' -->
+<busStop id="5125" lane="146660740#13_0" startPos="68.705" endPos="82.446" friendlyPos="true" />  <!--b'Al Gharafa Complex' -->
+<busStop id="3507" lane="-157509000#8_0" startPos="40.695" endPos="48.834" friendlyPos="true" />  <!--b'House 4' -->
+<busStop id="4140" lane="160113769#2_0" startPos="88.745" endPos="106.494" friendlyPos="true" />  <!--b'Al Fayha School' -->
+<busStop id="5392" lane="491613722#1_0" startPos="60.075" endPos="72.09" friendlyPos="true" />  <!--b'Muaither Stop 1' -->
+<busStop id="4049" lane="187987853#3_0" startPos="56.56" endPos="67.872" friendlyPos="true" />  <!--b'Zaid Bin Haritha Str' -->
+<busStop id="4050" lane="87809948#4_0" startPos="28.705" endPos="34.446" friendlyPos="true" />  <!--b'D Ring Road' -->
+<busStop id="5390" lane="491618042#3_0" startPos="87.61" endPos="105.132" friendlyPos="true" />  <!--b'Ibn Hateb Street' -->
+<busStop id="4180" lane="-488091218#3_0" startPos="29.23" endPos="35.076" friendlyPos="true" />  <!--b'Al Adl Street' -->
+<busStop id="2529" lane="-111738509#4_0" startPos="10.045" endPos="12.054" friendlyPos="true" />  <!--b'Al Mansoura Street' -->
+<busStop id="5501" lane="491379475#2_0" startPos="119.455" endPos="143.346" friendlyPos="true" />  <!--b'Hetten Model ' -->
+<busStop id="2521" lane="165499568#5_0" startPos="43.275" endPos="51.93" friendlyPos="true" />  <!--b'Al Doha Al Jadeed' -->
+<busStop id="5396" lane="236193371#0_0" startPos="79.675" endPos="95.61" friendlyPos="true" />  <!--b'Umm Al Dome Stop 1' -->
+<busStop id="5599" lane="491648661#0_0" startPos="83.11" endPos="99.732" friendlyPos="true" />  <!--b'Muaither North Stree' -->
+<busStop id="5573" lane="25931301#2_0" startPos="144.03" endPos="172.836" friendlyPos="true" />  <!--b'Al Wathnan Mall' -->
+<busStop id="4464" lane="479085476#1_0" startPos="86.1" endPos="103.32" friendlyPos="true" />  <!--b'Ahmed Bin Zaidon Str' -->
+<busStop id="2519" lane="158194853#6_0" startPos="53.17" endPos="63.804" friendlyPos="true" />  <!--b'B Ring Road' -->
+<busStop id="56654" lane="-207691826#1_0" startPos="27.14" endPos="32.568" friendlyPos="true" />  <!--b'Barwa City Stop 2' -->
+<busStop id="56658" lane="207691841#2_0" startPos="30.0" endPos="36.0" friendlyPos="true" />  <!--b'Barwa City Stop 3' -->
+<busStop id="4553" lane="153940278#0_0" startPos="48.04" endPos="57.647999999999996" friendlyPos="true" />  <!--b'House 20' -->
+<busStop id="4549" lane="153940278#4_0" startPos="96.175" endPos="115.41" friendlyPos="true" />  <!--b'International Center' -->
+<busStop id="3866" lane="-160192433#0_0" startPos="28.935" endPos="34.722" friendlyPos="true" />  <!--b'K-Star Profisional' -->
+<busStop id="3962" lane="160192462#8_0" startPos="48.72" endPos="58.464" friendlyPos="true" />  <!--b'House 66' -->
+<busStop id="3410" lane="160072604#3_0" startPos="110.29" endPos="132.348" friendlyPos="true" />  <!--b'Omar Bin Khattab Str' -->
+<busStop id="5197" lane="-234851689#0_0" startPos="10.605" endPos="12.726" friendlyPos="true" />  <!--b'Al Gharafa Village' -->
+<busStop id="3505" lane="25936583#6_0" startPos="44.315" endPos="53.178" friendlyPos="true" />  <!--b'La Gazele' -->
+<busStop id="3956" lane="490988465#4_0" startPos="18.445" endPos="22.134" friendlyPos="true" />  <!--b'La Boutique Caf\xc3\xa9' -->
+<busStop id="2588" lane="-25991709#7_0" startPos="26.89" endPos="32.268" friendlyPos="true" />  <!--b'House 63' -->
+<busStop id="2592" lane="-25991709#0_0" startPos="19.075" endPos="22.89" friendlyPos="true" />  <!--b'Ibn Katheer Stop 1' -->
+<busStop id="2596" lane="-25991666#3_0" startPos="23.05" endPos="27.66" friendlyPos="true" />  <!--b'Relaxation Villages ' -->
+<busStop id="3958" lane="235115446#1_0" startPos="64.92" endPos="77.904" friendlyPos="true" />  <!--b'Nokia' -->
+<busStop id="3969" lane="491680058#4_0" startPos="58.075" endPos="69.69" friendlyPos="true" />  <!--b'Merweb Hotel' -->
+<busStop id="1609" lane="115738581#4_0" startPos="63.53" endPos="76.236" friendlyPos="true" />  <!--b'Zurara Bin Amr Stree' -->
+<busStop id="601" lane="165487301#1_0" startPos="51.54" endPos="61.848" friendlyPos="true" />  <!--b'Grand Hamad Street' -->
+<busStop id="3281" lane="-617702877#1_0" startPos="84.985" endPos="101.982" friendlyPos="true" />  <!--b'Al Wahat Street' -->
+<busStop id="3277" lane="114114182#4_0" startPos="23.11" endPos="27.732" friendlyPos="true" />  <!--b'Al Rajaa Street' -->
+<busStop id="4556" lane="488494821#3_0" startPos="46.615" endPos="55.938" friendlyPos="true" />  <!--b'Al Hamad Internation' -->
+<busStop id="4460" lane="-154127584#1_0" startPos="83.22" endPos="99.864" friendlyPos="true" />  <!--b'New Horizons' -->
+<busStop id="56650" lane="207692739#2_0" startPos="37.24" endPos="44.688" friendlyPos="true" />  <!--b'Barwa City Stop 1' -->
+<busStop id="3469" lane="129932930#1_0" startPos="61.035" endPos="73.24199999999999" friendlyPos="true" />  <!--b'Khalifa Clinic' -->
+<busStop id="4572" lane="488349631#1_0" startPos="22.055" endPos="26.466" friendlyPos="true" />  <!--b'House 92' -->
+<busStop id="3461" lane="223645079#1_0" startPos="22.94" endPos="27.528000000000002" friendlyPos="true" />  <!--b'Al Muntaza Supermark' -->
+<busStop id="8588" lane="620983004#4_0" startPos="1398.775" endPos="1678.5300000000002" friendlyPos="true" />  <!--b'Al Shahaniya Army Ca' -->
+<busStop id="8590" lane="489354977#2_0" startPos="1366.93" endPos="1640.316" friendlyPos="true" />  <!--b'Al Nasriniya Turn' -->
+<busStop id="3156" lane="491195996#0_0" startPos="27.61" endPos="33.132" friendlyPos="true" />  <!--b'Khalifa Town Petrol ' -->
+<busStop id="3157" lane="-229164756#1_0" startPos="34.445" endPos="41.334" friendlyPos="true" />  <!--b'New Madeena Food Cen' -->
+<busStop id="3273" lane="-490723174#2_0" startPos="86.695" endPos="104.03399999999999" friendlyPos="true" />  <!--b'Police Traffic Depar' -->
+<busStop id="3280" lane="623535174#5_0" startPos="36.675" endPos="44.01" friendlyPos="true" />  <!--b'Wasit Street' -->
+<busStop id="3285" lane="149844612#2_0" startPos="56.67" endPos="68.004" friendlyPos="true" />  <!--b'Doha Technical Colle' -->
+<busStop id="5001" lane="-239172009#4_0" startPos="81.055" endPos="97.266" friendlyPos="true" />  <!--b'Asian Town' -->
+<busStop id="3413" lane="160074027#0_0" startPos="89.805" endPos="107.766" friendlyPos="true" />  <!--b'Omar Bin Khattab Sto' -->
+<busStop id="2029" lane="244281986#5_0" startPos="58.48" endPos="70.176" friendlyPos="true" />  <!--b'Civil Defence R/A' -->
+<busStop id="2032" lane="120640551#4_0" startPos="23.295" endPos="27.954" friendlyPos="true" />  <!--b'Al Ahli Hospital' -->
+<busStop id="5602" lane="87816486#6_0" startPos="187.595" endPos="225.114" friendlyPos="true" />  <!--b'Green Land' -->
+<busStop id="6140" lane="12690618#4_0" startPos="48.61" endPos="58.332" friendlyPos="true" />  <!--b'Kharama' -->
+<busStop id="99015" lane="-235376607#1_0" startPos="75.935" endPos="91.122" friendlyPos="true" />  <!--b' Ezdan 30' -->
+<busStop id="3506" lane="491433429#2_0" startPos="17.74" endPos="21.287999999999997" friendlyPos="true" />  <!--b' Al Rafa Grocery' -->
+<busStop id="1704" lane="95475505#2_0" startPos="38.28" endPos="45.936" friendlyPos="true" />  <!--b'Ruqayah School' -->
+<busStop id="1708" lane="165440026#1_0" startPos="52.095" endPos="62.513999999999996" friendlyPos="true" />  <!--b'National Museum' -->
+<busStop id="5606" lane="87816486#8_0" startPos="112.315" endPos="134.778" friendlyPos="true" />  <!--b'Shiya Bin Mukhlied S' -->
+<busStop id="99013" lane="304528285_0" startPos="14.675" endPos="17.61" friendlyPos="true" />  <!--b' Ezdan 31' -->
+<busStop id="99011" lane="-617254199#3_0" startPos="121.28" endPos="145.536" friendlyPos="true" />  <!--b' Ezdan 32' -->
+<busStop id="99009" lane="-617254199#0_0" startPos="34.035" endPos="40.842" friendlyPos="true" />  <!--b' Ezdan 33' -->
+<busStop id="9009" lane="152645479#0_0" startPos="124.435" endPos="149.322" friendlyPos="true" />  <!--b'Al Wukair Petrol Sta' -->
+<busStop id="5612" lane="625458636_0" startPos="43.97" endPos="52.763999999999996" friendlyPos="true" />  <!--b'Fish Market' -->
+<busStop id="2708" lane="25920600#0_0" startPos="63.545" endPos="76.254" friendlyPos="true" />  <!--b'Sana' -->
+<busStop id="5684" lane="25948524#6_0" startPos="90.765" endPos="108.918" friendlyPos="true" />  <!--b'Q Tel Tower' -->
+<busStop id="1413" lane="140486277#1_0" startPos="34.835" endPos="41.802" friendlyPos="true" />  <!--b'Home Centre' -->
+<busStop id="9484" lane="256140486#7_0" startPos="1717.215" endPos="2060.658" friendlyPos="true" />  <!--b'Umm Garn Turn' -->
+<busStop id="1705" lane="95475491#0_0" startPos="92.15" endPos="110.58000000000001" friendlyPos="true" />  <!--b'National Library' -->
+<busStop id="9488" lane="256140486#11_0" startPos="722.815" endPos="867.378" friendlyPos="true" />  <!--b'Simaisma Turn' -->
+<busStop id="9492" lane="256140486#13_0" startPos="747.32" endPos="896.7840000000001" friendlyPos="true" />  <!--b'Umm Qarn Farm' -->
+<busStop id="9726" lane="133979847#7_0" startPos="509.03" endPos="610.836" friendlyPos="true" />  <!--b'Al Ghuwairiyah Turn' -->
+<busStop id="9973" lane="492400851#5_0" startPos="140.805" endPos="168.966" friendlyPos="true" />  <!--b'Qafco Compound' -->
+<busStop id="9975" lane="492400851#2_0" startPos="190.26" endPos="228.31199999999998" friendlyPos="true" />  <!--b'Tower R/A' -->
+<busStop id="9993" lane="158475635#0_0" startPos="185.475" endPos="222.57" friendlyPos="true" />  <!--b'Police Station' -->
+<busStop id="9991" lane="-253912546#1_0" startPos="62.48" endPos="74.976" friendlyPos="true" />  <!--b'Mesaieed Shopping Ma' -->
+<busStop id="9990" lane="213917863#0_0" startPos="42.765" endPos="51.318" friendlyPos="true" />  <!--b'Mesaieed Shopping Ma' -->
+<busStop id="9983" lane="177950941#8_0" startPos="200.8" endPos="240.96" friendlyPos="true" />  <!--b'Alcat Project' -->
+<busStop id="9981" lane="177973286_0" startPos="379.725" endPos="455.67" friendlyPos="true" />  <!--b'Umm Said Road' -->
+<busStop id="9734" lane="-236381788#19_0" startPos="100.225" endPos="120.27" friendlyPos="true" />  <!--b'Al Ghuwairiyah Munic' -->
+<busStop id="99713" lane="-224158563_0" startPos="706.89" endPos="848.268" friendlyPos="true" />  <!--b' AHE Labor Camp' -->
+<busStop id="55114" lane="658347133_0" startPos="300.74" endPos="360.88800000000003" friendlyPos="true" />  <!--b'Abu Nakhla Village' -->
+<busStop id="55115" lane="324858140_0" startPos="74.865" endPos="89.838" friendlyPos="true" />  <!--b'Al Sailiya West Vill' -->
+<busStop id="99705" lane="480289752#10_0" startPos="420.275" endPos="504.33" friendlyPos="true" />  <!--b' Boulevard Mall' -->
+<busStop id="55510" lane="112969377#8_0" startPos="193.32" endPos="231.98399999999998" friendlyPos="true" />  <!--b'Indoor Furniture' -->
+<busStop id="88337" lane="155823339#2_0" startPos="97.12" endPos="116.54400000000001" friendlyPos="true" />  <!--b'Abu Nakhla Stop 3' -->
+<busStop id="88325" lane="155823332_0" startPos="201.525" endPos="241.83" friendlyPos="true" />  <!--b'Abu Nakhla Stop 8' -->
+<busStop id="55636" lane="157068678#6_0" startPos="176.07" endPos="211.284" friendlyPos="true" />  <!--b' Philippine Internat' -->
+<busStop id="46665" lane="-373416640#0_0" startPos="185.975" endPos="223.17" friendlyPos="true" />  <!--b'Najma Street Stop 1' -->
+<busStop id="22525" lane="-25991657#4_0" startPos="69.505" endPos="83.40599999999999" friendlyPos="true" />  <!--b'Building 4' -->
+<busStop id="99483" lane="-258042630#0_0" startPos="1342.07" endPos="1610.484" friendlyPos="true" />  <!--b'Farm No.2' -->
+<busStop id="99485" lane="-258042630#0_0" startPos="1342.07" endPos="1610.484" friendlyPos="true" />  <!--b'Farm No.1' -->
+<busStop id="46671" lane="87826059#4_0" startPos="76.31" endPos="91.572" friendlyPos="true" />  <!--b'Al Thumama Bus Stop ' -->
+<busStop id="55634" lane="112969389#10_0" startPos="47.08" endPos="56.495999999999995" friendlyPos="true" />  <!--b'Juton Paints' -->
+<busStop id="2637" lane="25991592#2_0" startPos="49.88" endPos="59.856" friendlyPos="true" />  <!--b'Alfardan Exchange' -->
+<busStop id="2633" lane="158194879#8_0" startPos="23.97" endPos="28.764" friendlyPos="true" />  <!--b'Al Mansoura' -->
+<busStop id="2527" lane="25991628#1_0" startPos="13.475" endPos="16.17" friendlyPos="true" />  <!--b'Qubaa Street' -->
+<busStop id="55635" lane="491134106#1_0" startPos="39.165" endPos="46.998" friendlyPos="true" />  <!--b'Philippine Internati' -->
+<busStop id="6660" lane="491031158#1_0" startPos="157.71" endPos="189.252" friendlyPos="true" />  <!--b'Onaiza Street' -->
+<busStop id="17" lane="693529363#2_0" startPos="79.63" endPos="95.556" friendlyPos="true" />  <!--b'Ascott' -->
+<busStop id="29" lane="658053599_0" startPos="31.6" endPos="37.92" friendlyPos="true" />  <!--b'Movenpick Hotel Stop' -->
+<busStop id="85586" lane="-620935103#5_0" startPos="121.195" endPos="145.434" friendlyPos="true" />  <!--b'Al Meera Coop.' -->
+<busStop id="88346" lane="133958472#4_0" startPos="53.51" endPos="64.212" friendlyPos="true" />  <!--b'Rawdat Rashid' -->
+<busStop id="88345" lane="-133958472#4_0" startPos="53.575" endPos="64.29" friendlyPos="true" />  <!--b'Rawdat Rashid' -->
+<busStop id="48" lane="158470157#0_0" startPos="40.23" endPos="48.275999999999996" friendlyPos="true" />  <!--b'Sheraton Hotel' -->
+<busStop id="1225" lane="489938086#1_0" startPos="135.65" endPos="162.78" friendlyPos="true" />  <!--b'Al Aqsa Street' -->
+<busStop id="121" lane="95475511#7_0" startPos="35.29" endPos="42.348" friendlyPos="true" />  <!--b'Souq Waqif' -->
+<busStop id="23316" lane="163605641#2_0" startPos="90.165" endPos="108.19800000000001" friendlyPos="true" />  <!--b'Al shami Home' -->
+<busStop id="4700" lane="620934244#2_0" startPos="102.155" endPos="122.586" friendlyPos="true" />  <!--b'Al Hadara Street' -->
+<busStop id="14426" lane="135416305#10_0" startPos="73.22" endPos="87.864" friendlyPos="true" />  <!--b' Rotana Restaurant' -->
+<busStop id="22527" lane="25991817#6_0" startPos="23.72" endPos="28.464" friendlyPos="true" />  <!--b' Al Meera' -->
+<busStop id="24224" lane="10852734#2_0" startPos="76.275" endPos="91.53" friendlyPos="true" />  <!--b' Rotana Restaurant' -->
+<busStop id="55518" lane="154136374_0" startPos="445.275" endPos="534.3299999999999" friendlyPos="true" />  <!--b'Woqod' -->
+<busStop id="55112" lane="-324858122#2_0" startPos="57.905" endPos="69.486" friendlyPos="true" />  <!--b'Al Sailiya Sports Cl' -->
+<busStop id="6668" lane="400453632#6_0" startPos="94.975" endPos="113.97" friendlyPos="true" />  <!--b'Al Jamiaa Street' -->
+<busStop id="25520" lane="658173869_0" startPos="8.53" endPos="10.235999999999999" friendlyPos="true" />  <!--b'Jumeirah Funished' -->
+<busStop id="8896" lane="155241342#7_0" startPos="175.47" endPos="210.564" friendlyPos="true" />  <!--b'Al Khor South' -->
+<busStop id="5583" lane="25943042#0_0" startPos="202.09" endPos="242.508" friendlyPos="true" />  <!--b'Al Sailiya Street' -->
+<busStop id="8890" lane="-161640368#5_0" startPos="27.145" endPos="32.574" friendlyPos="true" />  <!--b'Golden Dana Trading ' -->
+<busStop id="55664" lane="323098444#5_0" startPos="198.735" endPos="238.48200000000003" friendlyPos="true" />  <!--b'Labor Camp Stop 1' -->
+<busStop id="7048" lane="-481759157#9_0" startPos="58.1" endPos="69.72" friendlyPos="true" />  <!--b'Al Kheesa New Road S' -->
+<busStop id="7052" lane="224735425#0_0" startPos="44.15" endPos="52.98" friendlyPos="true" />  <!--b'Al Kheesa New Road S' -->
+<busStop id="88339" lane="155823341#2_0" startPos="132.41" endPos="158.892" friendlyPos="true" />  <!--b'Abu Nakhla Health Ce' -->
+<busStop id="88335" lane="155823319#1_0" startPos="108.505" endPos="130.206" friendlyPos="true" />  <!--b'Abu Nakhla Stop 4' -->
+<busStop id="6873" lane="26177673#1_0" startPos="625.405" endPos="750.486" friendlyPos="true" />  <!--b'University R/A' -->
+<busStop id="6664" lane="400453632#1_0" startPos="255.975" endPos="307.17" friendlyPos="true" />  <!--b'College Turn' -->
+<busStop id="25528" lane="158194942#3_0" startPos="41.01" endPos="49.211999999999996" friendlyPos="true" />  <!--b' Karwa Training' -->
+<busStop id="9569" lane="-191107921#1_0" startPos="96.445" endPos="115.734" friendlyPos="true" />  <!--b'Al Khor Community No' -->
+<busStop id="2120" lane="490150100#1_0" startPos="27.94" endPos="33.528000000000006" friendlyPos="true" />  <!--b'Athletes Village Sto' -->
+<busStop id="2124" lane="107193471#1_0" startPos="64.55" endPos="77.46" friendlyPos="true" />  <!--b'Athletes Village Sto' -->
+<busStop id="9565" lane="155242198_0" startPos="224.61" endPos="269.53200000000004" friendlyPos="true" />  <!--b'Al Khor Community So' -->
+<busStop id="55113" lane="324858122#2_0" startPos="57.905" endPos="69.486" friendlyPos="true" />  <!--b'Al Sailiya Sport Clu' -->
+<busStop id="9510" lane="155241140#1_0" startPos="974.75" endPos="1169.7" friendlyPos="true" />  <!--b'Mowasalat Accomodati' -->
+<busStop id="8340" lane="94053617#4_0" startPos="416.75" endPos="500.1" friendlyPos="true" />  <!--b'Abu Nakhla Petrol St' -->
+<busStop id="8372" lane="443151161#13_0" startPos="1020.93" endPos="1225.116" friendlyPos="true" />  <!--b'Mekainis Police Stat' -->
+<busStop id="8386" lane="443151164#1_0" startPos="958.275" endPos="1149.93" friendlyPos="true" />  <!--b'Al Ranzani' -->
+<busStop id="8480" lane="-475962814_0" startPos="16.325" endPos="19.59" friendlyPos="true" />  <!--b'Post Office' -->
+<busStop id="2712" lane="158194855#4_0" startPos="94.61" endPos="113.532" friendlyPos="true" />  <!--b'MP Traders' -->
+<busStop id="55516" lane="88315742_0" startPos="960.85" endPos="1153.02" friendlyPos="true" />  <!--b'Salwa Bridge' -->
+<busStop id="6672" lane="400453632#8_0" startPos="286.6" endPos="343.92" friendlyPos="true" />  <!--b'University R/A' -->
+<busStop id="1800" lane="480461100#0_0" startPos="155.26" endPos="186.31199999999998" friendlyPos="true" />  <!--b'Street 1' -->
+<busStop id="2528" lane="-111738509#5_0" startPos="57.3" endPos="68.75999999999999" friendlyPos="true" />  <!--b'Al Mansoura Street' -->
+<busStop id="99017" lane="-235376631#8_0" startPos="0.1" endPos="0.12000000000000001" friendlyPos="true" />  <!--b' Ezdan 38' -->
+<busStop id="2536" lane="25991598#0_0" startPos="50.78" endPos="60.936" friendlyPos="true" />  <!--b'Cinema Signal' -->
+<busStop id="4244" lane="25948299#3_0" startPos="80.73" endPos="96.876" friendlyPos="true" />  <!--b'Al Salam Street' -->
+<busStop id="44448" lane="176155596#5_0" startPos="299.715" endPos="359.65799999999996" friendlyPos="true" />  <!--b'Najma Street Stop 1 ' -->
+<busStop id="2610" lane="158194834#3_0" startPos="45.965" endPos="55.158" friendlyPos="true" />  <!--b'Crown Plaza Hotel' -->
+<busStop id="2516" lane="160114121_0" startPos="66.545" endPos="79.854" friendlyPos="true" />  <!--b'Al Ahmed Al Sayed Sa' -->
+<busStop id="4544" lane="106475733#1_0" startPos="49.91" endPos="59.891999999999996" friendlyPos="true" />  <!--b'The Mall' -->
+<busStop id="4548" lane="154283671#4_0" startPos="22.385" endPos="26.862000000000002" friendlyPos="true" />  <!--b'Al Reems Gardens' -->
+<busStop id="4552" lane="105617962#1_0" startPos="19.56" endPos="23.471999999999998" friendlyPos="true" />  <!--b'Lulu Supermarket' -->
+<busStop id="4246" lane="-26003916#12_0" startPos="49.43" endPos="59.316" friendlyPos="true" />  <!--b'Abdul Qadir Al Jazai' -->
+<busStop id="4580" lane="480255686#0_0" startPos="88.475" endPos="106.16999999999999" friendlyPos="true" />  <!--b'Al Zahar Supermarket' -->
+<busStop id="4584" lane="153940693#0_0" startPos="46.39" endPos="55.668" friendlyPos="true" />  <!--b'Jabar Bin Hayan Stre' -->
+<busStop id="4252" lane="-26003916#5_0" startPos="15.64" endPos="18.768" friendlyPos="true" />  <!--b'Ibn Oqba Street' -->
+<busStop id="6861" lane="81641996#17_0" startPos="375.3" endPos="450.36" friendlyPos="true" />  <!--b'Onaiza Street' -->
+<busStop id="4585" lane="153940692#3_0" startPos="75.865" endPos="91.038" friendlyPos="true" />  <!--b'Oqba Bin Nafie Stree' -->
+<busStop id="4581" lane="115628450#3_0" startPos="87.195" endPos="104.63399999999999" friendlyPos="true" />  <!--b'Al Zahar Supermarket' -->
+<busStop id="5570" lane="60868674#4_0" startPos="105.16" endPos="126.192" friendlyPos="true" />  <!--b'House 39' -->
+<busStop id="5494" lane="-25935354#1_0" startPos="44.35" endPos="53.22" friendlyPos="true" />  <!--b'Al Maqareen Street' -->
+<busStop id="5495" lane="25935316#4_0" startPos="156.97" endPos="188.364" friendlyPos="true" />  <!--b'Al Muraykh' -->
+<busStop id="4588" lane="-153941746#5_0" startPos="16.405" endPos="19.686" friendlyPos="true" />  <!--b'Supreme Education Co' -->
+<busStop id="8601" lane="-538451011#0_0" startPos="2932.245" endPos="3518.694" friendlyPos="true" />  <!--b'Camel Race Track' -->
+<busStop id="25524" lane="25991810#1_0" startPos="52.32" endPos="62.784" friendlyPos="true" />  <!--b' Saddal' -->
+<busStop id="55631" lane="25958102#2_0" startPos="77.78" endPos="93.336" friendlyPos="true" />  <!--b' Paradise residentia' -->
+<busStop id="5523" lane="238290595#0_0" startPos="214.76" endPos="257.712" friendlyPos="true" />  <!--b'Al Sailiya Street' -->
+<busStop id="8620" lane="191986317#4_0" startPos="71.52" endPos="85.824" friendlyPos="true" />  <!--b'Al Otouriyah' -->
+<busStop id="55657" lane="619296473#2_0" startPos="151.425" endPos="181.71" friendlyPos="true" />  <!--b'Cemetery' -->
+<busStop id="99021" lane="-484776316#5_0" startPos="54.39" endPos="65.268" friendlyPos="true" />  <!--b'Sharaf DG Accomodati' -->
+<busStop id="99019" lane="-484776316#1_0" startPos="0.1" endPos="0.12000000000000001" friendlyPos="true" />  <!--b' Ezdan 37' -->
+<busStop id="95592" lane="-192109602#0_0" startPos="2998.53" endPos="3598.2360000000003" friendlyPos="true" />  <!--b'Umm Birka Turn' -->
+<busStop id="3740" lane="95601597#16_0" startPos="13.29" endPos="15.947999999999999" friendlyPos="true" />  <!--b'Al Yarmouk Co Op' -->
+<busStop id="8478" lane="323907027#0_0" startPos="164.25" endPos="197.1" friendlyPos="true" />  <!--b'Group Cement Co.' -->
+<busStop id="55104" lane="137676951#1_0" startPos="271.48" endPos="325.776" friendlyPos="true" />  <!--b'New Housing' -->
+<busStop id="5739" lane="443151155#5_0" startPos="310.505" endPos="372.606" friendlyPos="true" />  <!--b'Ibin Ajaya Trading' -->
+<busStop id="4577" lane="488351083#4_0" startPos="30.51" endPos="36.612" friendlyPos="true" />  <!--b'House 80' -->
+<busStop id="4545" lane="-154283673#3_0" startPos="20.345" endPos="24.413999999999998" friendlyPos="true" />  <!--b'The Mall' -->
+<busStop id="2617" lane="-160113701#0_0" startPos="30.935" endPos="37.122" friendlyPos="true" />  <!--b'Hosny Meat' -->
+<busStop id="2711" lane="162723718#2_0" startPos="40.98" endPos="49.175999999999995" friendlyPos="true" />  <!--b'Concorde Hotel' -->
+<busStop id="4448" lane="-26002855#0_0" startPos="43.16" endPos="51.791999999999994" friendlyPos="true" />  <!--b'Al Nadi Street' -->
+<busStop id="4452" lane="-26002795#7_0" startPos="17.965" endPos="21.558" friendlyPos="true" />  <!--b'Cambridge Internatio' -->
+<busStop id="4445" lane="-488561165#6_0" startPos="27.03" endPos="32.436" friendlyPos="true" />  <!--b'Musaimeer Street' -->
+<busStop id="5603" lane="156614664#1_0" startPos="71.525" endPos="85.83000000000001" friendlyPos="true" />  <!--b'Green Land' -->
+<busStop id="4045" lane="25948030#2_0" startPos="26.735" endPos="32.082" friendlyPos="true" />  <!--b'Doha Municipality' -->
+<busStop id="5509" lane="-60868579#0_0" startPos="33.465" endPos="40.158" friendlyPos="true" />  <!--b'House 8' -->
+<busStop id="5541" lane="222088240#10_0" startPos="3.975" endPos="4.7700000000000005" friendlyPos="true" />  <!--b'Police Sports Associ' -->
+<busStop id="5558" lane="479816624#1_0" startPos="35.235" endPos="42.282" friendlyPos="true" />  <!--b'Al Aziziyah Complex' -->
+<busStop id="5381" lane="-246333043#10_0" startPos="27.135" endPos="32.562000000000005" friendlyPos="true" />  <!--b'House 11' -->
+<busStop id="2116" lane="158753199#3_0" startPos="120.61" endPos="144.732" friendlyPos="true" />  <!--b'Rumailah Hospital' -->
+<busStop id="3720" lane="755072661#0_0" startPos="4389.23" endPos="5267.075999999999" friendlyPos="true" />  <!--b'Hamad Hospital' -->
+<busStop id="5468" lane="222087274#2_0" startPos="79.6" endPos="95.52" friendlyPos="true" />  <!--b'Al Khufus Street (We' -->
+<busStop id="5474" lane="222008742#1_0" startPos="105.195" endPos="126.234" friendlyPos="true" />  <!--b'Aspire' -->
+<busStop id="5488" lane="-25931103#10_0" startPos="36.575" endPos="43.89" friendlyPos="true" />  <!--b'Al Muraykh Village' -->
+<busStop id="5374" lane="235454335#2_0" startPos="57.93" endPos="69.516" friendlyPos="true" />  <!--b'Al Huwaila Street' -->
+<busStop id="5143" lane="320755678#0_0" startPos="92.625" endPos="111.15" friendlyPos="true" />  <!--b'Al Manar Street' -->
+<busStop id="4449" lane="-26002795#15_0" startPos="20.815" endPos="24.978" friendlyPos="true" />  <!--b'Al Nadi Street' -->
+<busStop id="55668" lane="323098444#7_0" startPos="232.85" endPos="279.42" friendlyPos="true" />  <!--b' Labor Camp Stop 2' -->
+<busStop id="5617" lane="114272198#6_0" startPos="152.945" endPos="183.534" friendlyPos="true" />  <!--b'Abu Hamour Street' -->
+<busStop id="3868" lane="95601598#4_0" startPos="44.41" endPos="53.291999999999994" friendlyPos="true" />  <!--b'LexusTailoring' -->
+<busStop id="5321" lane="235429912#8_0" startPos="56.84" endPos="68.208" friendlyPos="true" />  <!--b'Al Elham Stop 1' -->
+<busStop id="5317" lane="25931697#1_0" startPos="102.98" endPos="123.57600000000001" friendlyPos="true" />  <!--b'Al Erada Stop 1' -->
+<busStop id="5385" lane="-246333043#1_0" startPos="12.27" endPos="14.724" friendlyPos="true" />  <!--b'Al Maeser' -->
+<busStop id="5450" lane="-319842424#7_0" startPos="97.525" endPos="117.03" friendlyPos="true" />  <!--b'Shabiyat Khalifa' -->
+<busStop id="5465" lane="481966437#5_0" startPos="124.37" endPos="149.244" friendlyPos="true" />  <!--b'Al Khufus Street' -->
+<busStop id="5459" lane="-59177593#4_0" startPos="30.025" endPos="36.03" friendlyPos="true" />  <!--b'Al Najah School Stre' -->
+<busStop id="5344" lane="490718482#18_0" startPos="28.13" endPos="33.756" friendlyPos="true" />  <!--b'Al Ruwaidat Street' -->
+<busStop id="5569" lane="137677005#0_0" startPos="659.95" endPos="791.94" friendlyPos="true" />  <!--b'Muaither Sports Club' -->
+<busStop id="5246" lane="479621758#1_0" startPos="54.52" endPos="65.424" friendlyPos="true" />  <!--b'Al Shaqab Stop 1' -->
+<busStop id="5247" lane="479621758#5_0" startPos="66.46" endPos="79.752" friendlyPos="true" />  <!--b'Al Shaqab Gate  9' -->
+<busStop id="5376" lane="490609584#0_0" startPos="99.495" endPos="119.394" friendlyPos="true" />  <!--b'Sudanese School' -->
+<busStop id="5380" lane="490609584#4_0" startPos="129.785" endPos="155.742" friendlyPos="true" />  <!--b'Othman Bin Nasr Stop' -->
+<busStop id="5591" lane="123371243#5_0" startPos="177.02" endPos="212.424" friendlyPos="true" />  <!--b'Al Amani Stop 1' -->
+<busStop id="5563" lane="158513044#0_0" startPos="105.905" endPos="127.086" friendlyPos="true" />  <!--b'Osama Bin Zaid Stop ' -->
+<busStop id="5555" lane="158369765#3_0" startPos="67.41" endPos="80.892" friendlyPos="true" />  <!--b'Ammer Bin Yasser Str' -->
+<busStop id="5685" lane="322565284#12_0" startPos="134.595" endPos="161.514" friendlyPos="true" />  <!--b'Al Baluche Camp' -->
+<busStop id="55683" lane="322565284#19_0" startPos="172.71" endPos="207.252" friendlyPos="true" />  <!--b'Al Muftah Digital' -->
+<busStop id="5681" lane="322565284#23_0" startPos="117.59" endPos="141.108" friendlyPos="true" />  <!--b'Al Bahkri Camp' -->
+<busStop id="5679" lane="322565284#26_0" startPos="86.9" endPos="104.28" friendlyPos="true" />  <!--b'Sunrays Supermarket' -->
+<busStop id="5675" lane="25943096#0_0" startPos="133.93" endPos="160.716" friendlyPos="true" />  <!--b'Premium Care Polycli' -->
+<busStop id="5673" lane="25943096#4_0" startPos="98.52" endPos="118.22399999999999" friendlyPos="true" />  <!--b'Al Fardan Garden' -->
+<busStop id="2437" lane="486600574#0_0" startPos="108.86" endPos="130.632" friendlyPos="true" />  <!--b'Al Rawabi Street' -->
+<busStop id="5560" lane="25931281#5_0" startPos="301.62" endPos="361.944" friendlyPos="true" />  <!--b'Al Zuhour Stop 1' -->
+<busStop id="5572" lane="25931281#10_0" startPos="64.705" endPos="77.646" friendlyPos="true" />  <!--b'Al Tahrir Medical Ce' -->
+<busStop id="5609" lane="443149004#12_0" startPos="95.655" endPos="114.786" friendlyPos="true" />  <!--b'Elite Motors' -->
+<busStop id="5460" lane="481966437#1_0" startPos="43.44" endPos="52.128" friendlyPos="true" />  <!--b'Al Qudisiya Street' -->
+<busStop id="5471" lane="222087274#6_0" startPos="89.355" endPos="107.226" friendlyPos="true" />  <!--b'Khalifa Stadium R/A' -->
+<busStop id="5312" lane="-25931697#4_0" startPos="49.405" endPos="59.286" friendlyPos="true" />  <!--b'Al Erada Street' -->
+<busStop id="5316" lane="-25931697#0_0" startPos="17.835" endPos="21.402" friendlyPos="true" />  <!--b'Al Elham Street' -->
+<busStop id="5328" lane="490580073#7_0" startPos="93.375" endPos="112.05" friendlyPos="true" />  <!--b'Al Innabi Street' -->
+<busStop id="5348" lane="-490718482#27_0" startPos="26.6" endPos="31.92" friendlyPos="true" />  <!--b'Muaither West' -->
+<busStop id="5593" lane="236193617#8_0" startPos="31.55" endPos="37.86" friendlyPos="true" />  <!--b'Meshab Street' -->
+<busStop id="88537" lane="-309427472#3_0" startPos="336.53" endPos="403.83599999999996" friendlyPos="true" />  <!--b'Labor Camp' -->
+<busStop id="5447" lane="-28204268#5_0" startPos="107.105" endPos="128.526" friendlyPos="true" />  <!--b'QNA' -->
+<busStop id="1426" lane="491786596_0" startPos="43.65" endPos="52.379999999999995" friendlyPos="true" />  <!--b'Umm Al Shebran Stree' -->
+<busStop id="2430" lane="25991632#4_0" startPos="38.515" endPos="46.218" friendlyPos="true" />  <!--b'Rawdat Al Khail Stre' -->
+<busStop id="4046" lane="154284948#2_0" startPos="66.16" endPos="79.392" friendlyPos="true" />  <!--b'Doha Municipality' -->
+<busStop id="5608" lane="206495666#3_0" startPos="66.675" endPos="80.00999999999999" friendlyPos="true" />  <!--b'Al Hekma School' -->
+<busStop id="5610" lane="206495666#8_0" startPos="87.135" endPos="104.56200000000001" friendlyPos="true" />  <!--b'Kalabhavan Qatar' -->
+<busStop id="5615" lane="114272198#9_0" startPos="192.275" endPos="230.73000000000002" friendlyPos="true" />  <!--b'Al Joudi Street' -->
+<busStop id="5389" lane="491618045#14_0" startPos="24.41" endPos="29.292" friendlyPos="true" />  <!--b'Al Thaqaffa Library' -->
+<busStop id="5505" lane="479816350#3_0" startPos="126.225" endPos="151.47" friendlyPos="true" />  <!--b'House 137' -->
+<busStop id="2381" lane="492430452#0_0" startPos="52.875" endPos="63.45" friendlyPos="true" />  <!--b'Nasrallah Center' -->
+<busStop id="3932" lane="87806784#3_0" startPos="32.46" endPos="38.952" friendlyPos="true" />  <!--b'Midmac R/A' -->
+<busStop id="5590" lane="123371244#6_0" startPos="135.175" endPos="162.21" friendlyPos="true" />  <!--b'Al Sedaira Stop 2' -->
+<busStop id="5456" lane="319842422#2_0" startPos="38.985" endPos="46.782" friendlyPos="true" />  <!--b'Al Shahaniya Street' -->
+<busStop id="5458" lane="-59177556#3_0" startPos="74.305" endPos="89.16600000000001" friendlyPos="true" />  <!--b'Al Najah School Stre' -->
+<busStop id="5464" lane="481966437#5_0" startPos="124.37" endPos="149.244" friendlyPos="true" />  <!--b'Al Khufus Street' -->
+<busStop id="8605" lane="761379098_0" startPos="2185.195" endPos="2622.2340000000004" friendlyPos="true" />  <!--b'1st R/A' -->
+<busStop id="4465" lane="623199563_0" startPos="61.48" endPos="73.776" friendlyPos="true" />  <!--b'Ahmed Bin Zaidon Str' -->
+<busStop id="4461" lane="488561166#1_0" startPos="58.22" endPos="69.864" friendlyPos="true" />  <!--b'Mamoura Supermarket' -->
+<busStop id="4453" lane="-26002791#0_0" startPos="110.025" endPos="132.03" friendlyPos="true" />  <!--b'Cambridge Internatio' -->
+<busStop id="5618" lane="114272198#6_0" startPos="152.945" endPos="183.534" friendlyPos="true" />  <!--b'Abu Hamour Street' -->
+<busStop id="5674" lane="481593583#4_0" startPos="69.645" endPos="83.574" friendlyPos="true" />  <!--b' Al Khebra Driving S' -->
+<busStop id="5658" lane="88296570#4_0" startPos="178.33" endPos="213.996" friendlyPos="true" />  <!--b'Al Maaded Street' -->
+<busStop id="5653" lane="625338300#0_0" startPos="68.85" endPos="82.61999999999999" friendlyPos="true" />  <!--b'Al Maaded Street' -->
+<busStop id="5500" lane="-479778225_0" startPos="129.03" endPos="154.836" friendlyPos="true" />  <!--b'Qatar Decoration' -->
+<busStop id="5508" lane="112969377#4_0" startPos="69.01" endPos="82.81200000000001" friendlyPos="true" />  <!--b'Pan Emirates Furnitu' -->
+<busStop id="5520" lane="480314709#3_0" startPos="44.315" endPos="53.178" friendlyPos="true" />  <!--b'Unique Trading Compa' -->
+<busStop id="5524" lane="206084751#5_0" startPos="66.265" endPos="79.518" friendlyPos="true" />  <!--b'V Kool' -->
+<busStop id="5526" lane="206084751#6_0" startPos="137.675" endPos="165.21" friendlyPos="true" />  <!--b'Tadamon' -->
+<busStop id="5470" lane="222087274#6_0" startPos="89.355" endPos="107.226" friendlyPos="true" />  <!--b'Khalifa Stadium R/A' -->
+<busStop id="5476" lane="222008742#3_0" startPos="66.725" endPos="80.07" friendlyPos="true" />  <!--b'Stadium Entrance 11' -->
+<busStop id="5480" lane="-742024332#5_0" startPos="75.955" endPos="91.146" friendlyPos="true" />  <!--b'Old Rayyan Traffic P' -->
+<busStop id="5482" lane="-742024332#0_0" startPos="48.09" endPos="57.708000000000006" friendlyPos="true" />  <!--b'Al Baaya Street' -->
+<busStop id="5492" lane="-25931103#16_0" startPos="29.29" endPos="35.147999999999996" friendlyPos="true" />  <!--b'Wadi Al Mark Street' -->
+<busStop id="5489" lane="-25931103#7_0" startPos="69.25" endPos="83.1" friendlyPos="true" />  <!--b'Al Muraykh Village' -->
+<busStop id="4457" lane="154127584#3_0" startPos="47.5" endPos="57.0" friendlyPos="true" />  <!--b'Asad Bin Al Furat St' -->
+<busStop id="2438" lane="95334053#2_0" startPos="93.47" endPos="112.164" friendlyPos="true" />  <!--b'Al Rawabi Street' -->
+<busStop id="2429" lane="25991632#4_0" startPos="38.515" endPos="46.218" friendlyPos="true" />  <!--b'Rawdat Al Khail Stre' -->
+<busStop id="2425" lane="10852734#15_0" startPos="48.25" endPos="57.9" friendlyPos="true" />  <!--b'Umm Al Shebran Stree' -->
+<busStop id="2316" lane="108030900#0_0" startPos="76.94" endPos="92.328" friendlyPos="true" />  <!--b'House no. 39' -->
+<busStop id="5438" lane="25931203#4_0" startPos="100.26" endPos="120.31200000000001" friendlyPos="true" />  <!--b'Al Waab / Q Tel' -->
+<busStop id="5426" lane="289331408#10_0" startPos="58.115" endPos="69.738" friendlyPos="true" />  <!--b'Hyatt Plaza' -->
+<busStop id="5340" lane="492000625_0" startPos="17.81" endPos="21.372" friendlyPos="true" />  <!--b'Andalib Car Accessor' -->
+<busStop id="5369" lane="235455105_0" startPos="97.85" endPos="117.41999999999999" friendlyPos="true" />  <!--b'Al Jassasiya Stop 2' -->
+<busStop id="5516" lane="491210835#3_0" startPos="113.785" endPos="136.542" friendlyPos="true" />  <!--b'Nasser Bin Khaled & ' -->
+<busStop id="5528" lane="206084751#9_0" startPos="49.465" endPos="59.358000000000004" friendlyPos="true" />  <!--b' Family Shopping' -->
+<busStop id="5586" lane="123371244#1_0" startPos="79.075" endPos="94.89" friendlyPos="true" />  <!--b'Al Sedaira Stop 1' -->
+<busStop id="5452" lane="-319842424#4_0" startPos="40.675" endPos="48.809999999999995" friendlyPos="true" />  <!--b'Al Shahaniya Street' -->
+<busStop id="5477" lane="133960210#3_0" startPos="66.845" endPos="80.214" friendlyPos="true" />  <!--b'Stadium Entrance 11' -->
+<busStop id="5469" lane="222087274#2_0" startPos="79.6" endPos="95.52" friendlyPos="true" />  <!--b'Al Khufus Street (We' -->
+<busStop id="5461" lane="481966437#1_0" startPos="43.44" endPos="52.128" friendlyPos="true" />  <!--b'Al Qudisiya Street' -->
+<busStop id="5455" lane="44722132#2_0" startPos="47.12" endPos="56.544" friendlyPos="true" />  <!--b'Al Shahaniya Street' -->
+<busStop id="5453" lane="319842424#4_0" startPos="40.675" endPos="48.809999999999995" friendlyPos="true" />  <!--b'Al Shahaniya Street' -->
+<busStop id="5597" lane="236193617#1_0" startPos="63.63" endPos="76.35600000000001" friendlyPos="true" />  <!--b'Al Huda School' -->
+<busStop id="5565" lane="137677005#0_0" startPos="659.95" endPos="791.94" friendlyPos="true" />  <!--b'Al Sailiya Street St' -->
+<busStop id="5521" lane="177998730#0_0" startPos="37.205" endPos="44.646" friendlyPos="true" />  <!--b'Al Ashjar Street' -->
+<busStop id="5519" lane="177998730#5_0" startPos="64.57" endPos="77.484" friendlyPos="true" />  <!--b'Al Murra (West)' -->
+<busStop id="5688" lane="25948524#17_0" startPos="68.115" endPos="81.738" friendlyPos="true" />  <!--b'Al Baluche Camp' -->
+<busStop id="5607" lane="206495662#2_0" startPos="100.29" endPos="120.34800000000001" friendlyPos="true" />  <!--b'Shiya Bin Mukhlid St' -->
+<busStop id="5530" lane="238290844#2_0" startPos="86.365" endPos="103.63799999999999" friendlyPos="true" />  <!--b'Al Sedaira Stop 1' -->
+<busStop id="5571" lane="491374852#9_0" startPos="99.135" endPos="118.962" friendlyPos="true" />  <!--b'Sama Doha Beauty Sal' -->
+<busStop id="5506" lane="154370546#7_0" startPos="128.485" endPos="154.18200000000002" friendlyPos="true" />  <!--b'House 137' -->
+<busStop id="5532" lane="206235095#3_0" startPos="110.395" endPos="132.474" friendlyPos="true" />  <!--b'Al Ghanim Tyre Cente' -->
+<busStop id="5534" lane="491384747#2_0" startPos="92.375" endPos="110.85" friendlyPos="true" />  <!--b'Dunlop Tires' -->
+<busStop id="5549" lane="740806765#5_0" startPos="97.065" endPos="116.478" friendlyPos="true" />  <!--b'Lilies Flowers & Cho' -->
+<busStop id="2379" lane="-622914749#0_0" startPos="39.52" endPos="47.42400000000001" friendlyPos="true" />  <!--b'Ibn Mahmoud Street' -->
+<busStop id="5613" lane="443149004#6_0" startPos="12.65" endPos="15.18" friendlyPos="true" />  <!--b'Feather Company' -->
+<busStop id="5605" lane="489443956#2_0" startPos="137.635" endPos="165.16199999999998" friendlyPos="true" />  <!--b' Al Mana & Partners' -->
+<busStop id="5566" lane="158522166#1_0" startPos="126.995" endPos="152.394" friendlyPos="true" />  <!--b'Umm Al Kharj Stop 1' -->
+<busStop id="5578" lane="123371230#1_0" startPos="84.355" endPos="101.226" friendlyPos="true" />  <!--b'Pink Lady Saloon' -->
+<busStop id="5582" lane="123371230#3_0" startPos="115.77" endPos="138.924" friendlyPos="true" />  <!--b'Hamad Ambulance Sub ' -->
+<busStop id="5364" lane="25931300#3_0" startPos="145.215" endPos="174.258" friendlyPos="true" />  <!--b'Muaither North Stop ' -->
+<busStop id="5397" lane="491618045#0_0" startPos="12.0" endPos="14.4" friendlyPos="true" />  <!--b'Muaither Stop 1' -->
+<busStop id="5393" lane="491618045#9_0" startPos="21.76" endPos="26.112000000000002" friendlyPos="true" />  <!--b'Al Qaswa Transport' -->
+<busStop id="5377" lane="490609587#4_0" startPos="162.52" endPos="195.024" friendlyPos="true" />  <!--b'Al Hasna Abayat' -->
+<busStop id="5579" lane="25943042#5_0" startPos="58.54" endPos="70.248" friendlyPos="true" />  <!--b'Al Suaiwamra Street' -->
+<busStop id="5527" lane="137676713#3_0" startPos="58.71" endPos="70.452" friendlyPos="true" />  <!--b'Salwa Gardens' -->
+<busStop id="3276" lane="-146659961#1_0" startPos="43.285" endPos="51.94199999999999" friendlyPos="true" />  <!--b'Al Ghadriya Street' -->
+<busStop id="2028" lane="188683003#4_0" startPos="11.37" endPos="13.643999999999998" friendlyPos="true" />  <!--b'House 77' -->
+<busStop id="3502" lane="112386456#0_0" startPos="14.785" endPos="17.742" friendlyPos="true" />  <!--b'La Gazele' -->
+<busStop id="6041" lane="25936951#5_0" startPos="81.565" endPos="97.878" friendlyPos="true" />  <!--b'Palm Island Ferry' -->
+<busStop id="1805" lane="747812509#0_0" startPos="2364.525" endPos="2837.4300000000003" friendlyPos="true" />  <!--b'Ruqayah School' -->
+<busStop id="1116" lane="95601625#2_0" startPos="15.485" endPos="18.582" friendlyPos="true" />  <!--b'Qatar Bowling Centre' -->
+<busStop id="9797" lane="-188099579#0_0" startPos="226.93" endPos="272.31600000000003" friendlyPos="true" />  <!--b'Al Shamal Police Sta' -->
+<busStop id="9759" lane="-133979847#15_0" startPos="1102.22" endPos="1322.664" friendlyPos="true" />  <!--b'Al Sulaim Farm' -->
+<busStop id="9751" lane="-133979847#8_0" startPos="1171.745" endPos="1406.0939999999998" friendlyPos="true" />  <!--b'Al Ghuwairiyah Turn' -->
+<busStop id="33161" lane="112052724#0_0" startPos="180.695" endPos="216.834" friendlyPos="true" />  <!--b' Landmark Mall' -->
+<busStop id="3353" lane="25936919#1_0" startPos="96.44" endPos="115.728" friendlyPos="true" />  <!--b'Al Esraa Polyclinic' -->
+<busStop id="9528" lane="156016714#12_0" startPos="41.625" endPos="49.95" friendlyPos="true" />  <!--b'Al Corniche Street' -->
+<busStop id="6437" lane="490717124#2_0" startPos="203.945" endPos="244.73399999999998" friendlyPos="true" />  <!--b'Qatar Sports Club' -->
+<busStop id="2117" lane="107337222#0_0" startPos="39.885" endPos="47.861999999999995" friendlyPos="true" />  <!--b'Rumailah Hospital' -->
+<busStop id="9724" lane="188097530_0" startPos="51.96" endPos="62.352000000000004" friendlyPos="true" />  <!--b'Al Huwaila Turn' -->
+<busStop id="9728" lane="225239816#4_0" startPos="2628.345" endPos="3154.0139999999997" friendlyPos="true" />  <!--b'Sidriyat Al Kheesha' -->
+<busStop id="9732" lane="222036826_0" startPos="85.15" endPos="102.18" friendlyPos="true" />  <!--b'Al Juthay Turn' -->
+<busStop id="9736" lane="225239816#6_0" startPos="2394.185" endPos="2873.022" friendlyPos="true" />  <!--b'Al Ghashamiya Turn' -->
+<busStop id="9753" lane="225239822#4_0" startPos="329.035" endPos="394.84200000000004" friendlyPos="true" />  <!--b'Al Ghariya Turn' -->
+<busStop id="9749" lane="225239812#0_0" startPos="1187.73" endPos="1425.276" friendlyPos="true" />  <!--b'South Athba Turn' -->
+<busStop id="9532" lane="155241585#0_0" startPos="1044.72" endPos="1253.664" friendlyPos="true" />  <!--b'Al Thakhira Road Sto' -->
+<busStop id="9471" lane="480289738_0" startPos="469.885" endPos="563.862" friendlyPos="true" />  <!--b'Al Shamal Health Cen' -->
+<busStop id="3272" lane="623954190#8_0" startPos="58.185" endPos="69.822" friendlyPos="true" />  <!--b'Al Markhiya Street' -->
+<busStop id="3414" lane="160074025#4_0" startPos="0.37" endPos="0.444" friendlyPos="true" />  <!--b'House 75' -->
+<busStop id="5189" lane="178063611#13_0" startPos="28.88" endPos="34.656" friendlyPos="true" />  <!--b'Umm Al Zubar Stop 1' -->
+<busStop id="5185" lane="178063593#2_0" startPos="52.64" endPos="63.168" friendlyPos="true" />  <!--b'Bu Silla Stop 1' -->
+<busStop id="5181" lane="178063594#3_0" startPos="120.85" endPos="145.01999999999998" friendlyPos="true" />  <!--b'Garafat Al Rayyan St' -->
+<busStop id="5129" lane="249244259#2_0" startPos="24.01" endPos="28.812" friendlyPos="true" />  <!--b'KFC' -->
+<busStop id="3509" lane="667015209#0_0" startPos="59.875" endPos="71.85" friendlyPos="true" />  <!--b'Omar Bin Khattab Sto' -->
+<busStop id="3575" lane="-491444237#10_0" startPos="33.09" endPos="39.708000000000006" friendlyPos="true" />  <!--b'Al Yanbu Stop 1' -->
+<busStop id="2071" lane="10571845#3_0" startPos="324.645" endPos="389.57399999999996" friendlyPos="true" />  <!--b'Al Jazeera Televisio' -->
+<busStop id="1063" lane="490722185#0_0" startPos="25.345" endPos="30.413999999999998" friendlyPos="true" />  <!--b'Khalifa Stop 2' -->
+<busStop id="3959" lane="-492148207#0_0" startPos="42.96" endPos="51.552" friendlyPos="true" />  <!--b'Solez Trading' -->
+<busStop id="3873" lane="-113814995#12_0" startPos="60.645" endPos="72.774" friendlyPos="true" />  <!--b'House 13' -->
+<busStop id="6748" lane="480227246#0_0" startPos="8.845" endPos="10.614" friendlyPos="true" />  <!--b'Al Markhiya Sports C' -->
+<busStop id="6752" lane="23807567#8_0" startPos="117.62" endPos="141.144" friendlyPos="true" />  <!--b'Edison International' -->
+<busStop id="9472" lane="256140486#1_0" startPos="244.29" endPos="293.148" friendlyPos="true" />  <!--b'Umm Slal Ali Turn' -->
+<busStop id="9496" lane="256140486#14_0" startPos="853.66" endPos="1024.392" friendlyPos="true" />  <!--b'Al Khor Turn' -->
+<busStop id="9704" lane="225239806#5_0" startPos="677.205" endPos="812.6460000000001" friendlyPos="true" />  <!--b'North Camp Turn' -->
+<busStop id="3452" lane="160074004#6_0" startPos="39.13" endPos="46.956" friendlyPos="true" />  <!--b'Amar Bin Al Aas Stre' -->
+<busStop id="3733" lane="-95601597#0_0" startPos="53.285" endPos="63.94199999999999" friendlyPos="true" />  <!--b'Al Hitmi Al Jadeed' -->
+<busStop id="3416" lane="160074025#9_0" startPos="19.535" endPos="23.442" friendlyPos="true" />  <!--b'Abu Khalid Grocery' -->
+<busStop id="3418" lane="25937248#2_0" startPos="44.915" endPos="53.897999999999996" friendlyPos="true" />  <!--b'House 20' -->
+<busStop id="1709" lane="25920600#0_0" startPos="63.545" endPos="76.254" friendlyPos="true" />  <!--b'Sana' -->
+<busStop id="1809" lane="111848814#3_0" startPos="20.145" endPos="24.174" friendlyPos="true" />  <!--b'National Museum' -->
+<busStop id="2593" lane="158426726#2_0" startPos="34.815" endPos="41.778" friendlyPos="true" />  <!--b'Al Arouba Stop 1' -->
+<busStop id="3963" lane="158426527#6_0" startPos="86.65" endPos="103.98" friendlyPos="true" />  <!--b'Shaza Fashion' -->
+<busStop id="1120" lane="490765922#0_0" startPos="68.785" endPos="82.542" friendlyPos="true" />  <!--b'Athletes Village' -->
+<busStop id="9708" lane="225239806#7_0" startPos="442.005" endPos="530.406" friendlyPos="true" />  <!--b'Umm Thugaib' -->
+<busStop id="9750" lane="133979847#8_0" startPos="1171.845" endPos="1406.214" friendlyPos="true" />  <!--b'Al Ghuwairiyah Turn' -->
+<busStop id="9766" lane="133979847#20_0" startPos="710.725" endPos="852.87" friendlyPos="true" />  <!--b'Umm Quaraiba Turn' -->
+<busStop id="9776" lane="188110305_0" startPos="42.135" endPos="50.562" friendlyPos="true" />  <!--b'Al Shamal' -->
+<busStop id="5101" lane="133050071#0_0" startPos="98.165" endPos="117.798" friendlyPos="true" />  <!--b'Duhail Hypermarket' -->
+<busStop id="9720" lane="225239816#1_0" startPos="704.275" endPos="845.13" friendlyPos="true" />  <!--b'Al Kaban Turn' -->
+<busStop id="9748" lane="225239816#8_0" startPos="1164.14" endPos="1396.968" friendlyPos="true" />  <!--b'South Athba Turn' -->
+<busStop id="9752" lane="225239819#0_0" startPos="836.89" endPos="1004.268" friendlyPos="true" />  <!--b'Al Ghariya Turn' -->
+<busStop id="9737" lane="225239812#2_0" startPos="2327.315" endPos="2792.7780000000002" friendlyPos="true" />  <!--b'Al Ghashamiya Turn' -->
+<busStop id="9729" lane="225239812#4_0" startPos="2440.7" endPos="2928.8399999999997" friendlyPos="true" />  <!--b'Sidriyat Al Kheesha' -->
+<busStop id="9725" lane="188097531_0" startPos="313.505" endPos="376.206" friendlyPos="true" />  <!--b'Al Huwaila Turn' -->
+<busStop id="9721" lane="225239812#7_0" startPos="1165.8" endPos="1398.96" friendlyPos="true" />  <!--b'Al Kaban Turn' -->
+<busStop id="9717" lane="225239810#0_0" startPos="1352.945" endPos="1623.5339999999999" friendlyPos="true" />  <!--b'Al Waab Turn' -->
+<busStop id="3349" lane="25936919#5_0" startPos="322.62" endPos="387.144" friendlyPos="true" />  <!--b'Al Markhiya Sports C' -->
+<busStop id="7116" lane="-178612675#1_0" startPos="31.16" endPos="37.392" friendlyPos="true" />  <!--b'Kilometer 3.8' -->
+<busStop id="3448" lane="160074004#1_0" startPos="37.825" endPos="45.39" friendlyPos="true" />  <!--b'Al Nibras Street' -->
+<busStop id="3456" lane="-160072592#0_0" startPos="43.125" endPos="51.75" friendlyPos="true" />  <!--b'Jeddah Studio' -->
+<busStop id="6032" lane="26108303#1_0" startPos="93.67" endPos="112.404" friendlyPos="true" />  <!--b'General Post Office' -->
+<busStop id="717" lane="95475511#16_0" startPos="81.485" endPos="97.782" friendlyPos="true" />  <!--b'Fishing Port' -->
+<busStop id="1813" lane="489949057#3_0" startPos="133.155" endPos="159.786" friendlyPos="true" />  <!--b'Rafco' -->
+<busStop id="9478" lane="256140486#4_0" startPos="786.385" endPos="943.662" friendlyPos="true" />  <!--b'Umm Obrariyah Turn' -->
+<busStop id="9774" lane="253384739#0_0" startPos="1274.815" endPos="1529.778" friendlyPos="true" />  <!--b'Al Zubara Fort' -->
+<busStop id="9799" lane="188099690#0_0" startPos="37.13" endPos="44.556000000000004" friendlyPos="true" />  <!--b'Abu Dhalouf' -->
+<busStop id="9793" lane="-188099579#6_0" startPos="28.44" endPos="34.128" friendlyPos="true" />  <!--b'Al Shamal Health Cen' -->
+<busStop id="9780" lane="129287644#0_0" startPos="67.43" endPos="80.91600000000001" friendlyPos="true" />  <!--b'Dhow R/A' -->
+<busStop id="9741" lane="225239812#2_0" startPos="2327.315" endPos="2792.7780000000002" friendlyPos="true" />  <!--b'Al Marrouna Turn' -->
+<busStop id="9576" lane="155242185#2_0" startPos="66.615" endPos="79.93799999999999" friendlyPos="true" />  <!--b'Al Khor Community Tu' -->
+<busStop id="9580" lane="319531521#1_0" startPos="79.28" endPos="95.136" friendlyPos="true" />  <!--b'Al Thakhira Stop 1' -->
+<busStop id="9585" lane="-319531399#2_0" startPos="13.33" endPos="15.996" friendlyPos="true" />  <!--b'Al Thakhira Stop 2' -->
+<busStop id="9535" lane="155241591#4_0" startPos="467.005" endPos="560.406" friendlyPos="true" />  <!--b'Al Thakhira Road Sto' -->
+<busStop id="9509" lane="155241139#18_0" startPos="407.545" endPos="489.05400000000003" friendlyPos="true" />  <!--b'Umm Suwaiyah' -->
+<busStop id="9501" lane="161422690#0_0" startPos="786.625" endPos="943.95" friendlyPos="true" />  <!--b'Al Khor Road' -->
+<busStop id="7157" lane="224166567#8_0" startPos="160.475" endPos="192.57" friendlyPos="true" />  <!--b'Umm Slal Mohammed St' -->
+<busStop id="7113" lane="178755703#3_0" startPos="44.595" endPos="53.513999999999996" friendlyPos="true" />  <!--b'Tebah Petrol Station' -->
+<busStop id="8612" lane="225198632#2_0" startPos="3307.735" endPos="3969.282" friendlyPos="true" />  <!--b'2nd R/A' -->
+<busStop id="9946" lane="48003382#0_0" startPos="246.61" endPos="295.932" friendlyPos="true" />  <!--b'Al Jaber Optician' -->
+<busStop id="9948" lane="48003382#3_0" startPos="163.365" endPos="196.038" friendlyPos="true" />  <!--b'Al Razi Street' -->
+<busStop id="9950" lane="48003382#5_0" startPos="99.11" endPos="118.932" friendlyPos="true" />  <!--b'Civil Defence' -->
+<busStop id="9954" lane="152645476#3_0" startPos="87.38" endPos="104.856" friendlyPos="true" />  <!--b'Majlis Al Taawon Sto' -->
+<busStop id="9956" lane="121901933#4_0" startPos="67.965" endPos="81.558" friendlyPos="true" />  <!--b'Al Wakra Health Cent' -->
+<busStop id="9960" lane="250836591#0_0" startPos="60.475" endPos="72.57000000000001" friendlyPos="true" />  <!--b'Rayyan Beauty Saloon' -->
+<busStop id="4563" lane="488108330#4_0" startPos="39.49" endPos="47.388000000000005" friendlyPos="true" />  <!--b'Regus Business Cente' -->
+<busStop id="3460" lane="-160072592#4_0" startPos="77.765" endPos="93.318" friendlyPos="true" />  <!--b'Mosque' -->
+<busStop id="6470" lane="95742005#4_0" startPos="31.98" endPos="38.376000000000005" friendlyPos="true" />  <!--b'Honda Show Room' -->
+<busStop id="2710" lane="106549580#0_0" startPos="72.71" endPos="87.252" friendlyPos="true" />  <!--b'Rus Abu Aboud Street' -->
+<busStop id="1912" lane="165440045#5_0" startPos="126.285" endPos="151.542" friendlyPos="true" />  <!--b'Rafco' -->
+<busStop id="9796" lane="-188099579#0_0" startPos="226.93" endPos="272.31600000000003" friendlyPos="true" />  <!--b'Al Shamal Police Sta' -->
+<busStop id="9760" lane="225239805#1_0" startPos="732.76" endPos="879.312" friendlyPos="true" />  <!--b'Athba Al Shamaliyah' -->
+<busStop id="9765" lane="133979926#0_0" startPos="1355.38" endPos="1626.4560000000001" friendlyPos="true" />  <!--b'Al Zughab' -->
+<busStop id="9757" lane="225239822#1_0" startPos="766.775" endPos="920.13" friendlyPos="true" />  <!--b'North Athba Turn' -->
+<busStop id="3160" lane="625452111#0_0" startPos="60.65" endPos="72.78" friendlyPos="true" />  <!--b'Rawdat Umm Lekba Str' -->
+<busStop id="7120" lane="619251036#4_0" startPos="23.685" endPos="28.421999999999997" friendlyPos="true" />  <!--b'Al Kharaitiyat Stop ' -->
+<busStop id="8537" lane="225198631#4_0" startPos="574.265" endPos="689.1179999999999" friendlyPos="true" />  <!--b'Al Rayyan Plantation' -->
+<busStop id="9912" lane="153178177#0_0" startPos="116.755" endPos="140.106" friendlyPos="true" />  <!--b'Al Sharq Villages' -->
+<busStop id="9962" lane="250836591#5_0" startPos="85.96" endPos="103.15199999999999" friendlyPos="true" />  <!--b'Bin Hiji Services' -->
+<busStop id="9966" lane="251731183#2_0" startPos="22.09" endPos="26.508" friendlyPos="true" />  <!--b'Amazon Gym' -->
+<busStop id="9972" lane="251731740#4_0" startPos="97.255" endPos="116.70599999999999" friendlyPos="true" />  <!--b'Darb Decoration' -->
+<busStop id="9974" lane="121901905#1_0" startPos="112.5" endPos="135.0" friendlyPos="true" />  <!--b'Al Janoub Stop 1' -->
+<busStop id="9978" lane="524089898#4_0" startPos="710.23" endPos="852.2760000000001" friendlyPos="true" />  <!--b'Al Seleen Petrol Sta' -->
+<busStop id="99978" lane="221404885_0" startPos="954.735" endPos="1145.682" friendlyPos="true" />  <!--b'Amwaj' -->
+<busStop id="9980" lane="177973282#0_0" startPos="166.075" endPos="199.29" friendlyPos="true" />  <!--b'Umm Said Road Stop 1' -->
+<busStop id="9986" lane="13411788#2_0" startPos="281.745" endPos="338.094" friendlyPos="true" />  <!--b'Mesaieed Health Cent' -->
+<busStop id="9996" lane="625102145#0_0" startPos="47.375" endPos="56.85" friendlyPos="true" />  <!--b'Mesaieed Camps' -->
+<busStop id="3732" lane="95601597#0_0" startPos="53.285" endPos="63.94199999999999" friendlyPos="true" />  <!--b'Al Hitmi Al Jadeed' -->
+<busStop id="5594" lane="149931040#2_0" startPos="71.305" endPos="85.566" friendlyPos="true" />  <!--b'Muaither North Stree' -->
+<busStop id="2740" lane="158426364#2_0" startPos="89.965" endPos="107.958" friendlyPos="true" />  <!--b'Old Airport Arrival' -->
+<busStop id="4258" lane="158426420#1_0" startPos="115.905" endPos="139.086" friendlyPos="true" />  <!--b'Al Safeer Centre' -->
+<busStop id="2589" lane="158426413#2_0" startPos="47.37" endPos="56.843999999999994" friendlyPos="true" />  <!--b' Al Mana Leasing com' -->
+<busStop id="3871" lane="-113814995#8_0" startPos="47.1" endPos="56.52" friendlyPos="true" />  <!--b'House 70' -->
+<busStop id="9700" lane="256140486#17_0" startPos="330.86" endPos="397.03200000000004" friendlyPos="true" />  <!--b'Al Khor Gardens' -->
+<busStop id="9775" lane="-253384739#0_0" startPos="1274.815" endPos="1529.778" friendlyPos="true" />  <!--b'Al Zubara Fort' -->
+<busStop id="9709" lane="225239810#3_0" startPos="471.83" endPos="566.196" friendlyPos="true" />  <!--b'Umm Thugaib' -->
+<busStop id="9705" lane="225239810#5_0" startPos="721.025" endPos="865.23" friendlyPos="true" />  <!--b'North Camp Turn' -->
+<busStop id="9497" lane="226871350#3_0" startPos="618.95" endPos="742.74" friendlyPos="true" />  <!--b'Al Khor Turn' -->
+<busStop id="9493" lane="226871350#5_0" startPos="748.99" endPos="898.788" friendlyPos="true" />  <!--b'Umm Qarn Farm' -->
+<busStop id="9761" lane="133979926#1_0" startPos="740.995" endPos="889.194" friendlyPos="true" />  <!--b'Athba Al Shamaliyah' -->
+<busStop id="5128" lane="160009269#17_0" startPos="60.58" endPos="72.696" friendlyPos="true" />  <!--b'Al Ittihad Stop 1' -->
+<busStop id="9534" lane="155241585#0_0" startPos="1044.72" endPos="1253.664" friendlyPos="true" />  <!--b'Al Thakhira Road Sto' -->
+<busStop id="9536" lane="155241585#1_0" startPos="161.74" endPos="194.08800000000002" friendlyPos="true" />  <!--b'Sealand Hypermarket' -->
+<busStop id="9467" lane="188248557#6_0" startPos="68.225" endPos="81.86999999999999" friendlyPos="true" />  <!--b'Abu Fesseela Street' -->
+<busStop id="7145" lane="619229549#1_0" startPos="212.7" endPos="255.23999999999998" friendlyPos="true" />  <!--b'House 719' -->
+<busStop id="8589" lane="-620983004#4_0" startPos="1398.83" endPos="1678.596" friendlyPos="true" />  <!--b'Al Shahaniya Army Ca' -->
+<busStop id="1067" lane="95741941#1_0" startPos="277.535" endPos="333.04200000000003" friendlyPos="true" />  <!--b'Khalifa Stop 1' -->
+<busStop id="9920" lane="153178177#6_0" startPos="79.07" endPos="94.88399999999999" friendlyPos="true" />  <!--b'Table Tennis Trainin' -->
+<busStop id="4248" lane="158426276#2_0" startPos="47.495" endPos="56.994" friendlyPos="true" />  <!--b'United Al Mana Show ' -->
+<busStop id="3957" lane="-158426150#2_0" startPos="12.135" endPos="14.562" friendlyPos="true" />  <!--b'House 51' -->
+<busStop id="5640" lane="521198974#0_0" startPos="127.515" endPos="153.018" friendlyPos="true" />  <!--b'Outside Manai Auto W' -->
+<busStop id="3867" lane="26587460#6_0" startPos="42.325" endPos="50.790000000000006" friendlyPos="true" />  <!--b'Al Sadd Plaza' -->
+<busStop id="6232" lane="489425038_0" startPos="166.085" endPos="199.30200000000002" friendlyPos="true" />  <!--b'Qatar Sports Club' -->
+<busStop id="6744" lane="23807567#3_0" startPos="401.545" endPos="481.85400000000004" friendlyPos="true" />  <!--b'Qurtuba Street' -->
+<busStop id="9712" lane="155348934#1_0" startPos="241.63" endPos="289.956" friendlyPos="true" />  <!--b'Al Zubara Turn' -->
+<busStop id="9714" lane="258044185#1_0" startPos="140.12" endPos="168.144" friendlyPos="true" />  <!--b'Al Zubara Interchang' -->
+<busStop id="9512" lane="625117934#3_0" startPos="3.35" endPos="4.0200000000000005" friendlyPos="true" />  <!--b'Water Tower R/A' -->
+<busStop id="9463" lane="188248556#3_0" startPos="109.55" endPos="131.46" friendlyPos="true" />  <!--b'Al Waan Car Accesori' -->
+<busStop id="9461" lane="224166567#5_0" startPos="70.775" endPos="84.93" friendlyPos="true" />  <!--b'Al Jaber Auto Electr' -->
+<busStop id="7153" lane="224166567#14_0" startPos="65.67" endPos="78.804" friendlyPos="true" />  <!--b'Thamco Caretti' -->
+<busStop id="7149" lane="224166565#1_0" startPos="92.285" endPos="110.74199999999999" friendlyPos="true" />  <!--b'Barzan Pharmacy' -->
+<busStop id="7141" lane="619229548#1_0" startPos="38.955" endPos="46.745999999999995" friendlyPos="true" />  <!--b'Mehraj Plaza' -->
+<busStop id="7125" lane="619251044#6_0" startPos="25.905" endPos="31.086000000000002" friendlyPos="true" />  <!--b'Al Emam Qudama Mosqu' -->
+<busStop id="7121" lane="490943448#1_0" startPos="64.125" endPos="76.95" friendlyPos="true" />  <!--b'Al Kharatiyat Villag' -->
+<busStop id="6358" lane="490160963#3_0" startPos="54.29" endPos="65.148" friendlyPos="true" />  <!--b' QGPC' -->
+<busStop id="7115" lane="490987516#3_0" startPos="62.06" endPos="74.47200000000001" friendlyPos="true" />  <!--b'Doha Driving Centre' -->
+<busStop id="8591" lane="-489354977#2_0" startPos="1366.915" endPos="1640.298" friendlyPos="true" />  <!--b'Al Nasriniya Turn' -->
+<busStop id="9769" lane="456256498#0_0" startPos="100.465" endPos="120.558" friendlyPos="true" />  <!--b'Noble Trading' -->
+<busStop id="9916" lane="153178177#2_0" startPos="80.845" endPos="97.014" friendlyPos="true" />  <!--b'Doha Sailing Club' -->
+<busStop id="9924" lane="154116709#2_0" startPos="21.585" endPos="25.902" friendlyPos="true" />  <!--b'Qatar Aeronotic Acad' -->
+<busStop id="4559" lane="488108330#7_0" startPos="83.765" endPos="100.518" friendlyPos="true" />  <!--b'Al Safeer Centre' -->
+<busStop id="2713" lane="-25938209#0_0" startPos="24.12" endPos="28.944000000000003" friendlyPos="true" />  <!--b'Al Assma Trading & C' -->
+<busStop id="3444" lane="25936655#2_0" startPos="42.425" endPos="50.91" friendlyPos="true" />  <!--b'Al Jazira Al Arabiya' -->
+<busStop id="3457" lane="-160072592#0_0" startPos="43.125" endPos="51.75" friendlyPos="true" />  <!--b'Al Faisal Complex' -->
+<busStop id="3453" lane="160074021#1_0" startPos="131.905" endPos="158.286" friendlyPos="true" />  <!--b'Amar Bin Al Aas Stre' -->
+<busStop id="3449" lane="160074021#6_0" startPos="76.155" endPos="91.386" friendlyPos="true" />  <!--b'Al Nibras Street' -->
+<busStop id="5126" lane="160009269#6_0" startPos="81.245" endPos="97.494" friendlyPos="true" />  <!--b'Al Gharafa Complex' -->
+<busStop id="3725" lane="234951622#4_0" startPos="111.945" endPos="134.334" friendlyPos="true" />  <!--b'Al Mana & Partner' -->
+<busStop id="1711" lane="165487315_0" startPos="63.205" endPos="75.846" friendlyPos="true" />  <!--b'Rus Abu Aboud Street' -->
+<busStop id="4852" lane="158426276#5_0" startPos="29.615" endPos="35.538" friendlyPos="true" />  <!--b'Teysser Car Show Roo' -->
+<busStop id="2597" lane="25991666#4_0" startPos="27.015" endPos="32.418" friendlyPos="true" />  <!--b'Abha Stop 1' -->
+<busStop id="9476" lane="256140486#2_0" startPos="587.845" endPos="705.414" friendlyPos="true" />  <!--b'Al Sakhama Street' -->
+<busStop id="9718" lane="133979847#1_0" startPos="766.12" endPos="919.344" friendlyPos="true" />  <!--b'Al Dawoudiyah Turn' -->
+<busStop id="9735" lane="236381788#19_0" startPos="100.225" endPos="120.27" friendlyPos="true" />  <!--b'Al Ghuwairiyah Munic' -->
+<busStop id="9758" lane="133979847#14_0" startPos="203.8" endPos="244.56" friendlyPos="true" />  <!--b'Al Sulaim Farm' -->
+<busStop id="9701" lane="226871350#1_0" startPos="699.31" endPos="839.1719999999999" friendlyPos="true" />  <!--b'Al Khor Gardens' -->
+<busStop id="9489" lane="226871350#6_0" startPos="909.405" endPos="1091.286" friendlyPos="true" />  <!--b'Simaisma Turn' -->
+<busStop id="9485" lane="226871350#8_0" startPos="490.79" endPos="588.9480000000001" friendlyPos="true" />  <!--b'Umm Garn Turn' -->
+<busStop id="9483" lane="190095669_0" startPos="52.065" endPos="62.477999999999994" friendlyPos="true" />  <!--b'Umm Al Amad Turn' -->
+<busStop id="9479" lane="226871350#13_0" startPos="968.415" endPos="1162.098" friendlyPos="true" />  <!--b'Umm Obrariyah Turn' -->
+<busStop id="3164" lane="490789769_0" startPos="88.37" endPos="106.04400000000001" friendlyPos="true" />  <!--b'Al Duhail' -->
+<busStop id="5100" lane="619526501_0" startPos="451.71" endPos="542.052" friendlyPos="true" />  <!--b'Q Tel Tower' -->
+<busStop id="9979" lane="121901927#2_0" startPos="637.785" endPos="765.342" friendlyPos="true" />  <!--b'Al Seleen Petrol Sta' -->
+<busStop id="9965" lane="250805826#1_0" startPos="35.395" endPos="42.474000000000004" friendlyPos="true" />  <!--b'Thamco Caretti' -->
+<busStop id="9955" lane="152645477#2_0" startPos="101.51" endPos="121.81200000000001" friendlyPos="true" />  <!--b'Majlis Al Taawon Sto' -->
+<busStop id="9951" lane="48003379#1_0" startPos="58.41" endPos="70.092" friendlyPos="true" />  <!--b'Seef Petrol Station' -->
+<busStop id="9947" lane="48003379#7_0" startPos="385.98" endPos="463.17600000000004" friendlyPos="true" />  <!--b'Al Adalah Street' -->
+<busStop id="9913" lane="154027200#3_0" startPos="138.305" endPos="165.966" friendlyPos="true" />  <!--b'Al Sharq Villages' -->
+<busStop id="9029" lane="-25930390#12_0" startPos="69.12" endPos="82.944" friendlyPos="true" />  <!--b'Al Wukair Grocery St' -->
+<busStop id="9019" lane="157510291#2_0" startPos="248.0" endPos="297.6" friendlyPos="true" />  <!--b'Al Wukair Stop 1' -->
+<busStop id="99952" lane="48003383#3_0" startPos="145.675" endPos="174.81" friendlyPos="true" />  <!--b'Technical Commision' -->
+<busStop id="99954" lane="48003383#7_0" startPos="61.475" endPos="73.77000000000001" friendlyPos="true" />  <!--b' Papa John Pizza Hou' -->
+<busStop id="99956" lane="48003383#11_0" startPos="138.06" endPos="165.672" friendlyPos="true" />  <!--b' Al Ahli Bank' -->
+<busStop id="7172" lane="178570061#2_0" startPos="68.13" endPos="81.756" friendlyPos="true" />  <!--b'Al Khebayab Stop 1' -->
+<busStop id="7192" lane="178210176#0_0" startPos="503.83" endPos="604.596" friendlyPos="true" />  <!--b'Zekreet Stop 2' -->
+<busStop id="99708" lane="224158565#2_0" startPos="63.935" endPos="76.72200000000001" friendlyPos="true" />  <!--b' Woqood Petrol Stati' -->
+<busStop id="99473" lane="224154798#2_0" startPos="148.035" endPos="177.642" friendlyPos="true" />  <!--b'Umm Slal Ali Police ' -->
+<busStop id="7024" lane="490698037#9_0" startPos="126.985" endPos="152.382" friendlyPos="true" />  <!--b'Jerman Nermaiyah Nor' -->
+<busStop id="7032" lane="224833565#3_0" startPos="107.07" endPos="128.48399999999998" friendlyPos="true" />  <!--b'Al Duhail Street' -->
+<busStop id="7044" lane="224833568#1_0" startPos="29.285" endPos="35.142" friendlyPos="true" />  <!--b'Al Kheesa New Road S' -->
+<busStop id="7060" lane="-224735448#2_0" startPos="23.98" endPos="28.776" friendlyPos="true" />  <!--b'Al Duhail Girls Scho' -->
+<busStop id="7017" lane="623202967#0_0" startPos="161.825" endPos="194.19" friendlyPos="true" />  <!--b'Jerman Nermaiyah Sou' -->
+<busStop id="7013" lane="490698043#1_0" startPos="246.96" endPos="296.35200000000003" friendlyPos="true" />  <!--b'Rose Valley Compound' -->
+<busStop id="88331" lane="155823347#2_0" startPos="196.29" endPos="235.548" friendlyPos="true" />  <!--b'Abu Nakhla Stop 5' -->
+<busStop id="9957" lane="121901934#0_0" startPos="68.125" endPos="81.75" friendlyPos="true" />  <!--b'Al Wakra Health Cent' -->
+<busStop id="9949" lane="492139872#1_0" startPos="18.935" endPos="22.721999999999998" friendlyPos="true" />  <!--b'QNB' -->
+<busStop id="8488" lane="230257881#3_0" startPos="1149.235" endPos="1379.0819999999999" friendlyPos="true" />  <!--b'Fahahil Main' -->
+<busStop id="8489" lane="237988231#5_0" startPos="1114.015" endPos="1336.8180000000002" friendlyPos="true" />  <!--b'Fahahil Main' -->
+<busStop id="8485" lane="230257883#3_0" startPos="297.945" endPos="357.534" friendlyPos="true" />  <!--b'Fahahil South' -->
+<busStop id="7189" lane="178210175#5_0" startPos="149.995" endPos="179.994" friendlyPos="true" />  <!--b'Zekreet Stop 3' -->
+<busStop id="7185" lane="-188738273#3_0" startPos="40.025" endPos="48.03" friendlyPos="true" />  <!--b'Al Kharaitiyat Famil' -->
+<busStop id="7056" lane="224735425#7_0" startPos="37.235" endPos="44.682" friendlyPos="true" />  <!--b'Al Duhail Boys Schoo' -->
+<busStop id="7064" lane="490991943#4_0" startPos="90.55" endPos="108.66" friendlyPos="true" />  <!--b'Green Wall' -->
+<busStop id="6865" lane="81641996#7_0" startPos="178.645" endPos="214.37400000000002" friendlyPos="true" />  <!--b'College Turn' -->
+<busStop id="6753" lane="81641996#24_0" startPos="161.66" endPos="193.992" friendlyPos="true" />  <!--b'Al Amara Street' -->
+<busStop id="8636" lane="157102665_0" startPos="2843.89" endPos="3412.6679999999997" friendlyPos="true" />  <!--b'Telecommunication To' -->
+<busStop id="8641" lane="756356231#2_0" startPos="486.665" endPos="583.998" friendlyPos="true" />  <!--b'Al Jemailiyah Hospit' -->
+<busStop id="9529" lane="156016722#2_0" startPos="257.615" endPos="309.13800000000003" friendlyPos="true" />  <!--b'Al Corniche Street' -->
+<busStop id="55102" lane="491138853#9_0" startPos="149.25" endPos="179.1" friendlyPos="true" />  <!--b'Beverly Hills Garden' -->
+<busStop id="5564" lane="137676973#4_0" startPos="230.23" endPos="276.276" friendlyPos="true" />  <!--b'Al Sailiya Stop 1' -->
+<busStop id="4522" lane="155991117#6_0" startPos="74.365" endPos="89.238" friendlyPos="true" />  <!--b'Control Tower' -->
+<busStop id="9000" lane="152645488#4_0" startPos="91.72" endPos="110.064" friendlyPos="true" />  <!--b'Al Muftha Villages' -->
+<busStop id="9004" lane="152645483#6_0" startPos="164.975" endPos="197.97" friendlyPos="true" />  <!--b'Water Pumping Statio' -->
+<busStop id="99006" lane="484776322_0" startPos="139.24" endPos="167.08800000000002" friendlyPos="true" />  <!--b' Ezdan 5' -->
+<busStop id="99008" lane="214240274#5_0" startPos="30.4" endPos="36.48" friendlyPos="true" />  <!--b' Ezdan 6' -->
+<busStop id="8484" lane="258018552#0_0" startPos="106.625" endPos="127.95" friendlyPos="true" />  <!--b'Fahahil South' -->
+<busStop id="7177" lane="178570061#4_0" startPos="133.195" endPos="159.834" friendlyPos="true" />  <!--b'Al Nefailiyat Stop 1' -->
+<busStop id="99712" lane="-224158563_0" startPos="706.89" endPos="848.268" friendlyPos="true" />  <!--b' AHE Labor Camp' -->
+<busStop id="99717" lane="224158563_0" startPos="705.795" endPos="846.954" friendlyPos="true" />  <!--b' Gulf Contructing Co' -->
+<busStop id="99709" lane="-224158565#2_0" startPos="63.935" endPos="76.72200000000001" friendlyPos="true" />  <!--b' Woqood Petrol Stati' -->
+<busStop id="7021" lane="60838543#7_0" startPos="173.69" endPos="208.428" friendlyPos="true" />  <!--b'Duhail Shooting Rang' -->
+<busStop id="56628" lane="95186407#4_0" startPos="162.265" endPos="194.718" friendlyPos="true" />  <!--b'Cemetery  Stop 1' -->
+<busStop id="8897" lane="155241342#5_0" startPos="54.615" endPos="65.53800000000001" friendlyPos="true" />  <!--b'Al Khor South' -->
+<busStop id="9005" lane="152645479#4_0" startPos="136.845" endPos="164.214" friendlyPos="true" />  <!--b'Water Pumping Statio' -->
+<busStop id="7160" lane="178205426#0_0" startPos="62.095" endPos="74.514" friendlyPos="true" />  <!--b'Excear Pharmacy' -->
+<busStop id="7164" lane="178205426#4_0" startPos="91.21" endPos="109.452" friendlyPos="true" />  <!--b'Zekreet Street' -->
+<busStop id="8609" lane="225198632#1_0" startPos="564.545" endPos="677.454" friendlyPos="true" />  <!--b'Al Dousari Zoo' -->
+<busStop id="25530" lane="25991657#5_0" startPos="55.705" endPos="66.846" friendlyPos="true" />  <!--b'Building E 22A' -->
+<busStop id="558" lane="619296474#6_0" startPos="347.745" endPos="417.294" friendlyPos="true" />  <!--b'Barwa City Stop 2' -->
+<busStop id="6552" lane="25936932#3_0" startPos="227.495" endPos="272.994" friendlyPos="true" />  <!--b'Al Amara Street' -->
+<busStop id="6869" lane="81641996#1_0" startPos="383.77" endPos="460.524" friendlyPos="true" />  <!--b'Al Jamiaa Street' -->
+<busStop id="8600" lane="225198627_0" startPos="79.055" endPos="94.86600000000001" friendlyPos="true" />  <!--b'Camel Race Track' -->
+<busStop id="8637" lane="538451011#6_0" startPos="2546.85" endPos="3056.22" friendlyPos="true" />  <!--b'Telecommunication To' -->
+<busStop id="8633" lane="538451011#5_0" startPos="331.685" endPos="398.022" friendlyPos="true" />  <!--b'Al Sinnah Turn' -->
+<busStop id="8580" lane="-25932007#5_0" startPos="51.87" endPos="62.244" friendlyPos="true" />  <!--b'Al Shahaniya Stop 2' -->
+<busStop id="8344" lane="443151161#4_0" startPos="734.78" endPos="881.736" friendlyPos="true" />  <!--b'Abu Nakhla Labor Cam' -->
+<busStop id="8378" lane="-228526540#3_0" startPos="53.905" endPos="64.686" friendlyPos="true" />  <!--b'Al Karaana' -->
+<busStop id="8661" lane="-224527209#2_0" startPos="4000.3" endPos="4800.360000000001" friendlyPos="true" />  <!--b'Al Rufayq Turn' -->
+<busStop id="9777" lane="-188099805#5_0" startPos="100.11" endPos="120.132" friendlyPos="true" />  <!--b'Al Shamal Stop 1' -->
+<busStop id="5432" lane="479761700#1_0" startPos="67.735" endPos="81.282" friendlyPos="true" />  <!--b'Beverley Hills Garde' -->
+<busStop id="2121" lane="489670478#4_0" startPos="173.045" endPos="207.654" friendlyPos="true" />  <!--b'Athletes Village' -->
+<busStop id="55108" lane="154136363#3_0" startPos="300.3" endPos="360.36" friendlyPos="true" />  <!--b'Al Sailiya Street St' -->
+<busStop id="8330" lane="153849740#2_0" startPos="372.595" endPos="447.11400000000003" friendlyPos="true" />  <!--b'Al Sailiya Villages ' -->
+<busStop id="8336" lane="153849737_0" startPos="424.29" endPos="509.148" friendlyPos="true" />  <!--b'Al Sailiya Villages ' -->
+<busStop id="55109" lane="321065219#4_0" startPos="172.56" endPos="207.072" friendlyPos="true" />  <!--b'Al Sailiya Stop 1' -->
+<busStop id="55107" lane="321065219#5_0" startPos="372.525" endPos="447.03" friendlyPos="true" />  <!--b'Al Sailiya Stop 2' -->
+<busStop id="99018" lane="214237461#2_0" startPos="5.37" endPos="6.444" friendlyPos="true" />  <!--b' Ezdan 21' -->
+<busStop id="9020" lane="-25930390#0_0" startPos="102.185" endPos="122.622" friendlyPos="true" />  <!--b'Al Wukair Grocery' -->
+<busStop id="9024" lane="25930390#6_0" startPos="117.355" endPos="140.82600000000002" friendlyPos="true" />  <!--b'Al Wukair Stop 1' -->
+<busStop id="9028" lane="25930390#12_0" startPos="69.12" endPos="82.944" friendlyPos="true" />  <!--b'Al Wukair Grocery 2' -->
+<busStop id="9033" lane="-25930390#16_0" startPos="39.865" endPos="47.838" friendlyPos="true" />  <!--b'Al Wukair West' -->
+<busStop id="9025" lane="-25930390#6_0" startPos="117.355" endPos="140.82600000000002" friendlyPos="true" />  <!--b'Al Wukair Grocery' -->
+<busStop id="9021" lane="-25930390#0_0" startPos="102.185" endPos="122.622" friendlyPos="true" />  <!--b'Al Wukair' -->
+<busStop id="55100" lane="491465654#2_0" startPos="88.37" endPos="106.04400000000001" friendlyPos="true" />  <!--b' Theba Garden' -->
+<busStop id="8387" lane="443151159_0" startPos="5515.38" endPos="6618.456" friendlyPos="true" />  <!--b'Al Ranzani' -->
+<busStop id="8492" lane="250991248_0" startPos="53.05" endPos="63.66" friendlyPos="true" />  <!--b'Fahahil North' -->
+<busStop id="7168" lane="490987514#3_0" startPos="94.13" endPos="112.95599999999999" friendlyPos="true" />  <!--b'Izghawa' -->
+<busStop id="7184" lane="188738273#3_0" startPos="40.025" endPos="48.03" friendlyPos="true" />  <!--b'Al Kharaitiyat Famil' -->
+<busStop id="7188" lane="178210176#0_0" startPos="503.83" endPos="604.596" friendlyPos="true" />  <!--b'Zekreet Stop 1' -->
+<busStop id="99716" lane="-224158563_0" startPos="706.89" endPos="848.268" friendlyPos="true" />  <!--b' Gulf Contructing Co' -->
+<busStop id="99472" lane="224154796_0" startPos="651.17" endPos="781.404" friendlyPos="true" />  <!--b'Umm Slal Ali Police ' -->
+<busStop id="7012" lane="490423339#3_0" startPos="103.365" endPos="124.038" friendlyPos="true" />  <!--b'Rose Valley Compound' -->
+<busStop id="7016" lane="490698037#6_0" startPos="359.78" endPos="431.736" friendlyPos="true" />  <!--b'Jerman Nermaiyah Sou' -->
+<busStop id="7020" lane="490698037#7_0" startPos="211.19" endPos="253.428" friendlyPos="true" />  <!--b'Duhail Shooting Rang' -->
+<busStop id="7040" lane="224833565#4_0" startPos="335.945" endPos="403.134" friendlyPos="true" />  <!--b'Arab League Street' -->
+<busStop id="7065" lane="490991943#6_0" startPos="50.155" endPos="60.186" friendlyPos="true" />  <!--b'Green Wall' -->
+<busStop id="88341" lane="25930889#0_0" startPos="205.58" endPos="246.69600000000003" friendlyPos="true" />  <!--b'Abu Nakhla Stop 1' -->
+<busStop id="8665" lane="194774611#0_0" startPos="76.99" endPos="92.38799999999999" friendlyPos="true" />  <!--b'Al Kozan Turn' -->
+<busStop id="8582" lane="133958450_0" startPos="43.405" endPos="52.086" friendlyPos="true" />  <!--b'Al Shahaniya Stop 1' -->
+<busStop id="9977" lane="228173291#3_0" startPos="139.395" endPos="167.274" friendlyPos="true" />  <!--b'Al Janoub Street' -->
+<busStop id="9971" lane="121901910#1_0" startPos="65.48" endPos="78.57600000000001" friendlyPos="true" />  <!--b'Al Wakra South' -->
+<busStop id="9969" lane="121901910#7_0" startPos="47.615" endPos="57.138000000000005" friendlyPos="true" />  <!--b'Zam Zam Supermarket' -->
+<busStop id="2614" lane="479802004#1_0" startPos="61.18" endPos="73.416" friendlyPos="true" />  <!--b'Al Meera Coop' -->
+<busStop id="9008" lane="518269035_0" startPos="120.115" endPos="144.138" friendlyPos="true" />  <!--b'Al Wukair Petrol Sta' -->
+<busStop id="99016" lane="-618976041#0_0" startPos="71.975" endPos="86.36999999999999" friendlyPos="true" />  <!--b' Ezdan 23' -->
+<busStop id="8379" lane="154774602#0_0" startPos="973.0" endPos="1167.6" friendlyPos="true" />  <!--b'Al Karaana' -->
+<busStop id="8373" lane="88314571#0_0" startPos="99.75" endPos="119.7" friendlyPos="true" />  <!--b'Mekainis Police Stat' -->
+<busStop id="8341" lane="246561409#1_0" startPos="465.71" endPos="558.852" friendlyPos="true" />  <!--b'Abu Nakhla Petrol St' -->
+<busStop id="8325" lane="257979544#1_0" startPos="418.315" endPos="501.978" friendlyPos="true" />  <!--b'Abu Nakhla City' -->
+<busStop id="55110" lane="324858138#0_0" startPos="54.24" endPos="65.08800000000001" friendlyPos="true" />  <!--b'Barwa Housing Al Sai' -->
+<busStop id="55105" lane="137676991_0" startPos="511.215" endPos="613.458" friendlyPos="true" />  <!--b' New Housing' -->
+<busStop id="8493" lane="258026214#1_0" startPos="70.67" endPos="84.804" friendlyPos="true" />  <!--b'Fahahil North' -->
+<busStop id="5102" lane="178063588#1_0" startPos="94.695" endPos="113.63399999999999" friendlyPos="true" />  <!--b'Al Mashabiyah Street' -->
+<busStop id="7176" lane="178570061#5_0" startPos="13.04" endPos="15.648" friendlyPos="true" />  <!--b'Al Nefailiyat Stop 2' -->
+<busStop id="7195" lane="178210176#4_0" startPos="98.43" endPos="118.11600000000001" friendlyPos="true" />  <!--b'Zekreet Stop 1' -->
+<busStop id="7193" lane="178210175#3_0" startPos="192.465" endPos="230.958" friendlyPos="true" />  <!--b'Zekreet Stop 2' -->
+<busStop id="7173" lane="-178570061#2_0" startPos="67.85" endPos="81.41999999999999" friendlyPos="true" />  <!--b'Al Khebayab Stop 2' -->
+<busStop id="5163" lane="178205427#19_0" startPos="135.37" endPos="162.44400000000002" friendlyPos="true" />  <!--b'Zekreet Street' -->
+<busStop id="5107" lane="178011159#0_0" startPos="239.045" endPos="286.854" friendlyPos="true" />  <!--b'Al Maszhabiya Stop 1' -->
+<busStop id="5199" lane="234851750#0_0" startPos="103.36" endPos="124.032" friendlyPos="true" />  <!--b'House 30' -->
+<busStop id="13" lane="145740872#5_0" startPos="32.865" endPos="39.438" friendlyPos="true" />  <!--b'Hilton' -->
+<busStop id="15" lane="150370168#1_0" startPos="29.655" endPos="35.586" friendlyPos="true" />  <!--b'Beverly Hills' -->
+<busStop id="11" lane="489849475#4_0" startPos="54.585" endPos="65.50200000000001" friendlyPos="true" />  <!--b'CCD Shopping Mall' -->
+<busStop id="9097" lane="-239057293#6_0" startPos="348.035" endPos="417.64200000000005" friendlyPos="true" />  <!--b'R.A.F. Family Accomm' -->
+<busStop id="4704" lane="60893886#3_0" startPos="19.185" endPos="23.022" friendlyPos="true" />  <!--b'Al Eiman Street' -->
+<busStop id="4738" lane="-206486631_0" startPos="201.385" endPos="241.66199999999998" friendlyPos="true" />  <!--b'Al Intelaq Street' -->
+<busStop id="4742" lane="-206486631_0" startPos="201.385" endPos="241.66199999999998" friendlyPos="true" />  <!--b'MOFA' -->
+<busStop id="95550" lane="625173303#1_0" startPos="224.825" endPos="269.78999999999996" friendlyPos="true" />  <!--b'Al Khor Workers Spor' -->
+<busStop id="8604" lane="617457779_0" startPos="2107.435" endPos="2528.922" friendlyPos="true" />  <!--b'2nd R/A' -->
+<busStop id="4332" lane="154084382#3_0" startPos="120.755" endPos="144.906" friendlyPos="true" />  <!--b'Acadonia Flowers' -->
+<busStop id="4336" lane="25948448#1_0" startPos="291.85" endPos="350.22" friendlyPos="true" />  <!--b'Zaid Bin Thabit Stre' -->
+<busStop id="6000" lane="256042753#0_0" startPos="251.535" endPos="301.842" friendlyPos="true" />  <!--b'Mowasalat' -->
+<busStop id="5671" lane="323098444#7_0" startPos="232.85" endPos="279.42" friendlyPos="true" />  <!--b'Grand Mall' -->
+<busStop id="55659" lane="623161501#6_0" startPos="183.04" endPos="219.648" friendlyPos="true" />  <!--b'Mowasalat clinic' -->
+<busStop id="3465" lane="160072600#10_0" startPos="7.62" endPos="9.144" friendlyPos="true" />  <!--b'MOI' -->
+<busStop id="4734" lane="-60893786#5_0" startPos="43.685" endPos="52.422000000000004" friendlyPos="true" />  <!--b'Suhar Street' -->
+<busStop id="4730" lane="-211954205#3_0" startPos="87.75" endPos="105.3" friendlyPos="true" />  <!--b'Al Shoufan Street' -->
+<busStop id="4750" lane="-206489305#1_0" startPos="37.535" endPos="45.041999999999994" friendlyPos="true" />  <!--b'Al Thumana Health Ce' -->
+<busStop id="604" lane="95475498#5_0" startPos="66.46" endPos="79.752" friendlyPos="true" />  <!--b'Ruqayah School' -->
+<busStop id="602" lane="188147840#5_0" startPos="37.055" endPos="44.466" friendlyPos="true" />  <!--b'A Ring Road Stop 1' -->
+<busStop id="7000" lane="-188099579#5_0" startPos="112.6" endPos="135.12" friendlyPos="true" />  <!--b'Al Shamal Depot' -->
+<busStop id="9567" lane="191107921#1_0" startPos="96.425" endPos="115.71" friendlyPos="true" />  <!--b'Al Khor Community So' -->
+<busStop id="39965" lane="-658314090#1_0" startPos="19.115" endPos="22.938" friendlyPos="true" />  <!--b' Versailles' -->
+<busStop id="1505" lane="491197640#7_0" startPos="45.275" endPos="54.33" friendlyPos="true" />  <!--b'Al Doha Al Jadeed St' -->
+<busStop id="95595" lane="192109602#0_0" startPos="3000.135" endPos="3600.1620000000003" friendlyPos="true" />  <!--b'Simsima' -->
+<busStop id="1508" lane="111614727#0_0" startPos="37.245" endPos="44.693999999999996" friendlyPos="true" />  <!--b'Zurara Bin Amr Stree' -->
+<busStop id="5518" lane="154376576#4_0" startPos="72.9" endPos="87.48" friendlyPos="true" />  <!--b'Ibn Thalha Stop 1' -->
+<busStop id="55665" lane="323048457#8_0" startPos="179.1" endPos="214.92" friendlyPos="true" />  <!--b'Labor Camp Stop 1' -->
+<busStop id="5639" lane="87826027#0_0" startPos="152.1" endPos="182.51999999999998" friendlyPos="true" />  <!--b'Muntaza Street Stop ' -->
+<busStop id="95596" lane="-192109602#0_0" startPos="2998.53" endPos="3598.2360000000003" friendlyPos="true" />  <!--b'Simsima' -->
+<busStop id="4437" lane="87826027#3_0" startPos="125.955" endPos="151.14600000000002" friendlyPos="true" />  <!--b'Iranian School' -->
+<busStop id="1412" lane="754143920_0" startPos="14.18" endPos="17.016" friendlyPos="true" />  <!--b'Al Farabi Street' -->
+<busStop id="2416" lane="188272191#6_0" startPos="22.74" endPos="27.287999999999997" friendlyPos="true" />  <!--b'Al Meera Co Op' -->
+<busStop id="4024" lane="162074405#2_0" startPos="114.38" endPos="137.256" friendlyPos="true" />  <!--b'Doha Specialized Den' -->
+<busStop id="5627" lane="159798924#1_0" startPos="136.785" endPos="164.142" friendlyPos="true" />  <!--b'Abou Hamour' -->
+<busStop id="5309" lane="-255416228#2_0" startPos="76.595" endPos="91.914" friendlyPos="true" />  <!--b'Al Naeem Street' -->
+<busStop id="5301" lane="490546661#0_0" startPos="16.79" endPos="20.148" friendlyPos="true" />  <!--b'Al Hamd Street' -->
+<busStop id="5368" lane="491632370#13_0" startPos="34.54" endPos="41.448" friendlyPos="true" />  <!--b'Al Rayyan Post Offic' -->
+<busStop id="2421" lane="490988909#1_0" startPos="42.78" endPos="51.336" friendlyPos="true" />  <!--b'The Center' -->
+<busStop id="5373" lane="480267437#2_0" startPos="171.07" endPos="205.284" friendlyPos="true" />  <!--b'Regency Travel' -->
+<busStop id="5449" lane="25935387#1_0" startPos="137.3" endPos="164.76000000000002" friendlyPos="true" />  <!--b'Beverly Hills Al Ray' -->
+<busStop id="12" lane="145740872#1_0" startPos="62.49" endPos="74.988" friendlyPos="true" />  <!--b'Ooredoo Tower' -->
+<busStop id="14" lane="228664602#1_0" startPos="37.655" endPos="45.186" friendlyPos="true" />  <!--b'Retaj Al Rayyan' -->
+<busStop id="16" lane="693529363#0_0" startPos="94.125" endPos="112.95" friendlyPos="true" />  <!--b'MMUP' -->
+<busStop id="22" lane="107939213#2_0" startPos="99.4" endPos="119.28" friendlyPos="true" />  <!--b'General Post Office ' -->
+<busStop id="5696" lane="176157419#3_0" startPos="92.985" endPos="111.582" friendlyPos="true" />  <!--b'Barwa Mesaimeer' -->
+<busStop id="56612" lane="211949661#0_0" startPos="502.69" endPos="603.2280000000001" friendlyPos="true" />  <!--b'New Health Center' -->
+<busStop id="8596" lane="188145744#2_0" startPos="8.275" endPos="9.93" friendlyPos="true" />  <!--b'Cuban Hospital' -->
+<busStop id="94492" lane="344872646#2_0" startPos="84.97" endPos="101.964" friendlyPos="true" />  <!--b'USB Company' -->
+<busStop id="94489" lane="-344872646#2_0" startPos="84.97" endPos="101.964" friendlyPos="true" />  <!--b'USB Company' -->
+<busStop id="95584" lane="129287623#3_0" startPos="1279.755" endPos="1535.7060000000001" friendlyPos="true" />  <!--b'Al Qahab Community' -->
+<busStop id="39964" lane="658314090#1_0" startPos="19.115" endPos="22.938" friendlyPos="true" />  <!--b' Versailles' -->
+<busStop id="9928" lane="-219484718#0_0" startPos="391.18" endPos="469.416" friendlyPos="true" />  <!--b'New Airport South' -->
+<busStop id="9929" lane="492650237#1_0" startPos="127.73" endPos="153.276" friendlyPos="true" />  <!--b'New Airport South' -->
+<busStop id="5254" lane="479621758#9_0" startPos="174.49" endPos="209.388" friendlyPos="true" />  <!--b'Al Shaqab Gate  7' -->
+<busStop id="85587" lane="620935103#4_0" startPos="110.565" endPos="132.678" friendlyPos="true" />  <!--b'Al Meera Coop.' -->
+<busStop id="88893" lane="625133357#2_0" startPos="55.845" endPos="67.014" friendlyPos="true" />  <!--b'Ansar Gallery' -->
+<busStop id="4433" lane="163696516#3_0" startPos="301.585" endPos="361.902" friendlyPos="true" />  <!--b'House 209' -->
+<busStop id="22519" lane="162074400#6_0" startPos="66.405" endPos="79.686" friendlyPos="true" />  <!--b'Al Muntazah Park' -->
+<busStop id="4028" lane="162074405#5_0" startPos="35.76" endPos="42.912" friendlyPos="true" />  <!--b'House 158' -->
+<busStop id="5660" lane="207698264#12_0" startPos="659.53" endPos="791.4359999999999" friendlyPos="true" />  <!--b'Cemetery Stop 2' -->
+<busStop id="5664" lane="323048457#12_0" startPos="161.455" endPos="193.746" friendlyPos="true" />  <!--b'Mowasalat' -->
+<busStop id="55663" lane="323074055#3_0" startPos="139.23" endPos="167.076" friendlyPos="true" />  <!--b'Camp Gate 1' -->
+<busStop id="5668" lane="323048457#12_0" startPos="161.455" endPos="193.746" friendlyPos="true" />  <!--b'Mowasalat Hq' -->
+<busStop id="55661" lane="323074053#4_0" startPos="211.14" endPos="253.368" friendlyPos="true" />  <!--b'KDTC' -->
+<busStop id="7057" lane="491163862#1_0" startPos="68.375" endPos="82.05" friendlyPos="true" />  <!--b'Al Duhail Boys Schoo' -->
+<busStop id="7053" lane="486650906#4_0" startPos="171.115" endPos="205.33800000000002" friendlyPos="true" />  <!--b'Al Kheesa New Road S' -->
+<busStop id="7049" lane="486650906#6_0" startPos="163.905" endPos="196.686" friendlyPos="true" />  <!--b'Al Kheesa New Road S' -->
+<busStop id="2716" lane="25938209#5_0" startPos="31.92" endPos="38.304" friendlyPos="true" />  <!--b'House 88' -->
+<busStop id="5652" lane="206084149#7_0" startPos="60.375" endPos="72.45" friendlyPos="true" />  <!--b'Ansar Gallery Entran' -->
+<busStop id="88892" lane="155342121#3_0" startPos="252.725" endPos="303.27" friendlyPos="true" />  <!--b'Ansar Gallery' -->
+<busStop id="95556" lane="155270685#0_0" startPos="2070.55" endPos="2484.6600000000003" friendlyPos="true" />  <!--b'Um Gain Farm' -->
+<busStop id="95579" lane="192109598#2_0" startPos="1091.17" endPos="1309.404" friendlyPos="true" />  <!--b'Al Qahab Community' -->
+<busStop id="95555" lane="155270688#1_0" startPos="601.755" endPos="722.106" friendlyPos="true" />  <!--b'Um Gain Farm' -->
+<busStop id="6033" lane="246166209#0_0" startPos="248.63" endPos="298.356" friendlyPos="true" />  <!--b'General Post Office' -->
+<busStop id="9526" lane="156016714#5_0" startPos="41.585" endPos="49.902" friendlyPos="true" />  <!--b'Fish Market' -->
+<busStop id="9570" lane="625335934#9_0" startPos="174.105" endPos="208.926" friendlyPos="true" />  <!--b'Dolphin ' -->
+<busStop id="39963" lane="158426527#2_0" startPos="45.525" endPos="54.629999999999995" friendlyPos="true" />  <!--b'House 66' -->
+<busStop id="1212" lane="111614732#3_0" startPos="78.415" endPos="94.09800000000001" friendlyPos="true" />  <!--b'Elementary Court' -->
+<busStop id="1313" lane="111614805#2_0" startPos="37.07" endPos="44.484" friendlyPos="true" />  <!--b'Al Reem Pharmacy' -->
+<busStop id="5641" lane="25948477#3_0" startPos="74.75" endPos="89.7" friendlyPos="true" />  <!--b'Medical Commission' -->
+<busStop id="556" lane="619296474#3_0" startPos="260.59" endPos="312.70799999999997" friendlyPos="true" />  <!--b'Barwa City Stop 1' -->
+<busStop id="5698" lane="211949661#0_0" startPos="502.69" endPos="603.2280000000001" friendlyPos="true" />  <!--b'Barwa Mesaimeer' -->
+<busStop id="5531" lane="206292114_0" startPos="174.325" endPos="209.19" friendlyPos="true" />  <!--b'Paris Gallery' -->
+<busStop id="7045" lane="486650901#2_0" startPos="190.165" endPos="228.19799999999998" friendlyPos="true" />  <!--b'Al Kheesa New Road S' -->
+<busStop id="5522" lane="239719183#0_0" startPos="178.39" endPos="214.06799999999998" friendlyPos="true" />  <!--b'Al Nasir Street' -->
+<busStop id="5663" lane="323098444#3_0" startPos="342.865" endPos="411.438" friendlyPos="true" />  <!--b'Mowasalat' -->
+<busStop id="5659" lane="207698334#1_0" startPos="233.38" endPos="280.056" friendlyPos="true" />  <!--b'Cemetery Stop 1' -->
+<busStop id="7041" lane="486668576#1_0" startPos="97.305" endPos="116.766" friendlyPos="true" />  <!--b'Arab League Street' -->
+<busStop id="2420" lane="111614780#2_0" startPos="186.98" endPos="224.37599999999998" friendlyPos="true" />  <!--b'Al Muntazah Park' -->
+<busStop id="4746" lane="-206489305#3_0" startPos="110.405" endPos="132.486" friendlyPos="true" />  <!--b'Sri Lankan Embassy' -->
+<busStop id="94496" lane="189172360#1_0" startPos="36.78" endPos="44.136" friendlyPos="true" />  <!--b'Simaisma Health Cent' -->
+<busStop id="9487" lane="-161639997#16_0" startPos="30.93" endPos="37.116" friendlyPos="true" />  <!--b'Umm Garn Village' -->
+<busStop id="1208" lane="111614805#5_0" startPos="32.205" endPos="38.646" friendlyPos="true" />  <!--b'Euro Dollar' -->
+<busStop id="2114" lane="158753199#0_0" startPos="107.575" endPos="129.09" friendlyPos="true" />  <!--b'Arabia Gulf' -->
+<busStop id="8613" lane="225198632#2_0" startPos="3307.735" endPos="3969.282" friendlyPos="true" />  <!--b'1st R/A' -->
+<busStop id="5251" lane="61163710#2_0" startPos="83.985" endPos="100.782" friendlyPos="true" />  <!--b'Al Shaqab Gate  7' -->
+<busStop id="5667" lane="323048457#12_0" startPos="161.455" endPos="193.746" friendlyPos="true" />  <!--b'Mowasalat HQ' -->
+<busStop id="4129" lane="163696517#3_0" startPos="163.56" endPos="196.272" friendlyPos="true" />  <!--b'Qatar Steel' -->
+<busStop id="4125" lane="163696517#6_0" startPos="88.37" endPos="106.04400000000001" friendlyPos="true" />  <!--b'Royal Medical Center' -->
+<busStop id="1513" lane="188147857#1_0" startPos="79.205" endPos="95.04599999999999" friendlyPos="true" />  <!--b'Al Farabi Street' -->
+<busStop id="45" lane="-106271802#1_0" startPos="10.205" endPos="12.246" friendlyPos="true" />  <!--b'Ezdan' -->
+<busStop id="8395" lane="257998412#6_0" startPos="189.785" endPos="227.742" friendlyPos="true" />  <!--b'Abu Samra' -->
+<busStop id="6055" lane="160401767_0" startPos="29.64" endPos="35.568" friendlyPos="true" />  <!--b' Samsung Tower' -->
+<busStop id="4172" lane="488274800_0" startPos="2.17" endPos="2.604" friendlyPos="true" />  <!--b'El Amadi Hospital' -->
+<busStop id="33164" lane="107737492#2_0" startPos="203.875" endPos="244.65" friendlyPos="true" />  <!--b'Lulu Hypermarket Gha' -->
+<busStop id="40" lane="105591497#0_0" startPos="38.865" endPos="46.638000000000005" friendlyPos="true" />  <!--b'Gate Mall' -->
+<busStop id="18" lane="490578914_0" startPos="103.515" endPos="124.218" friendlyPos="true" />  <!--b'ASAS Tower' -->
+<busStop id="5515" lane="154376576#0_0" startPos="21.95" endPos="26.34" friendlyPos="true" />  <!--b'Karamaa' -->
+<busStop id="2275" lane="489449171#1_0" startPos="66.94" endPos="80.328" friendlyPos="true" />  <!--b'Al Wadi Manpower Com' -->
+<busStop id="9520" lane="-156177683#2_0" startPos="25.41" endPos="30.492" friendlyPos="true" />  <!--b'QNB' -->
+<busStop id="8528" lane="-225198631#8_0" startPos="21.28" endPos="25.536" friendlyPos="true" />  <!--b'Sheikh Faizal Al Tha' -->
+<busStop id="1028" lane="490956628#4_0" startPos="119.285" endPos="143.142" friendlyPos="true" />  <!--b'Al Bayraq Street' -->
+<busStop id="9017" lane="157510287#3_0" startPos="121.205" endPos="145.446" friendlyPos="true" />  <!--b'Al Wukair Model For ' -->
+<busStop id="95526" lane="256326710_0" startPos="93.27" endPos="111.92399999999999" friendlyPos="true" />  <!--b'Al Corniche Street' -->
+<busStop id="9513" lane="625117933#0_0" startPos="168.02" endPos="201.62400000000002" friendlyPos="true" />  <!--b'Al Khor Road Stop 1' -->
+<busStop id="324" lane="-25949045#4_0" startPos="54.265" endPos="65.118" friendlyPos="true" />  <!--b'Gate 97/Al Umran Str' -->
+<busStop id="330" lane="25948659#0_0" startPos="320.25" endPos="384.3" friendlyPos="true" />  <!--b'Al Khayam Bakery/Str' -->
+<busStop id="5220" lane="-25977288#4_0" startPos="57.335" endPos="68.802" friendlyPos="true" />  <!--b'Al Rayhan Street' -->
+<busStop id="5104" lane="178011160#1_0" startPos="40.745" endPos="48.894" friendlyPos="true" />  <!--b'Al Gharafa Stadium ' -->
+<busStop id="41" lane="-105591497#1_0" startPos="55.43" endPos="66.516" friendlyPos="true" />  <!--b'Gate Mall' -->
+<busStop id="6059" lane="156809129#5_0" startPos="40.675" endPos="48.809999999999995" friendlyPos="true" />  <!--b'QGPC Street' -->
+<busStop id="6036" lane="26108303#5_0" startPos="120.585" endPos="144.702" friendlyPos="true" />  <!--b'Palm Island Ferry' -->
+<busStop id="24" lane="151536304#6_0" startPos="60.56" endPos="72.672" friendlyPos="true" />  <!--b'Pearl Boulevard Stop' -->
+<busStop id="28" lane="-223992139#4_0" startPos="44.95" endPos="53.940000000000005" friendlyPos="true" />  <!--b'Lagoona Mall' -->
+<busStop id="4835" lane="492022535#1_0" startPos="721.995" endPos="866.394" friendlyPos="true" />  <!--b'Nabina Trading' -->
+<busStop id="4632" lane="206082716#6_0" startPos="77.775" endPos="93.33000000000001" friendlyPos="true" />  <!--b'Al Emadi Car Show Ro' -->
+<busStop id="559" lane="619296473#4_0" startPos="94.085" endPos="112.90199999999999" friendlyPos="true" />  <!--b'Barwa City Stop 4' -->
+<busStop id="557" lane="619296473#11_0" startPos="80.57" endPos="96.684" friendlyPos="true" />  <!--b'Barwa City Stop 5' -->
+<busStop id="6266" lane="10571842#4_0" startPos="322.07" endPos="386.484" friendlyPos="true" />  <!--b'Khalifa Street Stop ' -->
+<busStop id="95591" lane="192109602#0_0" startPos="3000.135" endPos="3600.1620000000003" friendlyPos="true" />  <!--b'Umm Birka Turn' -->
+<busStop id="9016" lane="521095431#1_0" startPos="258.115" endPos="309.738" friendlyPos="true" />  <!--b'Al Wukair Model' -->
+<busStop id="9001" lane="152645482#5_0" startPos="8.595" endPos="10.314" friendlyPos="true" />  <!--b'Al Wakra Hospital' -->
+<busStop id="334" lane="480310529#1_0" startPos="56.145" endPos="67.37400000000001" friendlyPos="true" />  <!--b'Ras Tec/Al Umran Str' -->
+<busStop id="5741" lane="88315722#4_0" startPos="206.795" endPos="248.154" friendlyPos="true" />  <!--b'Qatar Foundation War' -->
+<busStop id="333" lane="25949045#6_0" startPos="53.87" endPos="64.644" friendlyPos="true" />  <!--b'Gate 97/Al Umran Str' -->
+<busStop id="337" lane="480476117#3_0" startPos="315.68" endPos="378.81600000000003" friendlyPos="true" />  <!--b'Vodafone/Kasarat Str' -->
+<busStop id="338" lane="25949078#0_0" startPos="96.19" endPos="115.428" friendlyPos="true" />  <!--b'Tristar Transmission' -->
+<busStop id="339" lane="25949078#2_0" startPos="233.12" endPos="279.744" friendlyPos="true" />  <!--b'Drema Cafeteria/Stre' -->
+<busStop id="340" lane="-620666626#3_0" startPos="66.855" endPos="80.226" friendlyPos="true" />  <!--b'Emarald Cafeteria/St' -->
+<busStop id="5370" lane="490361701#4_0" startPos="134.825" endPos="161.79" friendlyPos="true" />  <!--b'Jassasiya Street' -->
+<busStop id="55216" lane="61163661#0_0" startPos="37.855" endPos="45.425999999999995" friendlyPos="true" />  <!--b'Al Athaar Street' -->
+<busStop id="42" lane="142038989#2_0" startPos="59.93" endPos="71.916" friendlyPos="true" />  <!--b'Dana Club' -->
+<busStop id="37" lane="490184969#4_0" startPos="58.88" endPos="70.656" friendlyPos="true" />  <!--b'Intercontinental Doh' -->
+<busStop id="3" lane="-224001581#3_0" startPos="52.885" endPos="63.461999999999996" friendlyPos="true" />  <!--b'General Post Office ' -->
+<busStop id="19" lane="120647151_0" startPos="73.06" endPos="87.672" friendlyPos="true" />  <!--b'Pearl Boulevard Stop' -->
+<busStop id="26" lane="120647145_0" startPos="77.055" endPos="92.46600000000001" friendlyPos="true" />  <!--b'Pearl Boulevard Stop' -->
+<busStop id="38" lane="490578910#4_0" startPos="119.94" endPos="143.928" friendlyPos="true" />  <!--b'ASAS Tower Stop 1' -->
+<busStop id="25" lane="161667907#2_0" startPos="1.62" endPos="1.9440000000000002" friendlyPos="true" />  <!--b'Beverly Hills' -->
+<busStop id="4833" lane="492022535#1_0" startPos="721.995" endPos="866.394" friendlyPos="true" />  <!--b'Ramez Shopping' -->
+<busStop id="4827" lane="121902745#2_0" startPos="105.155" endPos="126.186" friendlyPos="true" />  <!--b'Al Rawnaq Trading' -->
+<busStop id="4565" lane="480255700#15_0" startPos="33.87" endPos="40.644" friendlyPos="true" />  <!--b'Al Masar Trading' -->
+<busStop id="9537" lane="155241591#1_0" startPos="133.125" endPos="159.75" friendlyPos="true" />  <!--b'Sealand Hypermarket' -->
+<busStop id="9521" lane="625108223#7_0" startPos="29.995" endPos="35.994" friendlyPos="true" />  <!--b'Mosque' -->
+<busStop id="9505" lane="624917132#2_0" startPos="945.24" endPos="1134.288" friendlyPos="true" />  <!--b'Al Khor Gardens' -->
+<busStop id="4456" lane="-154127584#3_0" startPos="47.5" endPos="57.0" friendlyPos="true" />  <!--b'Asad Bin Al Furat St' -->
+<busStop id="5525" lane="239719183#2_0" startPos="194.735" endPos="233.68200000000002" friendlyPos="true" />  <!--b'Othman Bin Afan ' -->
+<busStop id="8583" lane="-620951801#2_0" startPos="75.47" endPos="90.564" friendlyPos="true" />  <!--b'Al Shahaniya' -->
+<busStop id="8505" lane="190811798#4_0" startPos="289.525" endPos="347.42999999999995" friendlyPos="true" />  <!--b'Wajba Palace' -->
+<busStop id="5106" lane="178011160#4_0" startPos="120.3" endPos="144.36" friendlyPos="true" />  <!--b'Al Maszhabiyah Stree' -->
+<busStop id="18009" lane="165309583#4_0" startPos="54.71" endPos="65.652" friendlyPos="true" />  <!--b'Double Tree' -->
+<busStop id="9926" lane="-291092751_0" startPos="76.865" endPos="92.238" friendlyPos="true" />  <!--b'New Airport' -->
+<busStop id="9921" lane="154027260#0_0" startPos="65.955" endPos="79.146" friendlyPos="true" />  <!--b'Qatar Petroleum' -->
+<busStop id="220" lane="154043491#2_0" startPos="1269.385" endPos="1523.262" friendlyPos="true" />  <!--b' Al Bidda Street' -->
+<busStop id="30" lane="158470157#0_0" startPos="40.23" endPos="48.275999999999996" friendlyPos="true" />  <!--b'Sheraton Hotel' -->
+<busStop id="32" lane="490561627#0_0" startPos="52.49" endPos="62.988" friendlyPos="true" />  <!--b'Movenpick Hotel' -->
+<busStop id="34" lane="658171212#0_0" startPos="4.87" endPos="5.844" friendlyPos="true" />  <!--b'Retaj Al Rayyan Hote' -->
+<busStop id="20" lane="120647167#0_0" startPos="62.44" endPos="74.928" friendlyPos="true" />  <!--b'Pearl Boulevard Stop' -->
+<busStop id="39" lane="702222180#2_0" startPos="36.12" endPos="43.343999999999994" friendlyPos="true" />  <!--b'Bilal Tower' -->
+<busStop id="46664" lane="488345109#3_0" startPos="98.595" endPos="118.314" friendlyPos="true" />  <!--b'Al Humana' -->
+<busStop id="5313" lane="255416197#0_0" startPos="85.055" endPos="102.066" friendlyPos="true" />  <!--b'Halima Alsa Adia pri' -->
+<busStop id="5499" lane="479772628#2_0" startPos="81.845" endPos="98.214" friendlyPos="true" />  <!--b'Race Course R/A' -->
+<busStop id="9525" lane="625108223#0_0" startPos="166.175" endPos="199.41000000000003" friendlyPos="true" />  <!--b'Star Laundry' -->
+<busStop id="9515" lane="155241269#4_0" startPos="193.29" endPos="231.94799999999998" friendlyPos="true" />  <!--b'Al Khor Sports Club' -->
+<busStop id="8533" lane="225198631#5_0" startPos="110.92" endPos="133.104" friendlyPos="true" />  <!--b'KCT Al Khayat Cont. ' -->
+<busStop id="55106" lane="154136363#0_0" startPos="184.915" endPos="221.898" friendlyPos="true" />  <!--b'Al Sailiya Stop 1' -->
+<busStop id="5540" lane="88315653#0_0" startPos="180.675" endPos="216.81" friendlyPos="true" />  <!--b'Forensic Department' -->
+<busStop id="5542" lane="-246215030_0" startPos="321.515" endPos="385.818" friendlyPos="true" />  <!--b'CEID' -->
+<busStop id="9099" lane="-239058026_0" startPos="184.635" endPos="221.56199999999998" friendlyPos="true" />  <!--b'Ras Abu Funtas' -->
+<busStop id="5217" lane="-61163661#1_0" startPos="13.76" endPos="16.512" friendlyPos="true" />  <!--b'Al Khaleej Libray' -->
+<busStop id="2709" lane="220600306#5_0" startPos="80.595" endPos="96.714" friendlyPos="true" />  <!--b'Al Emadi Trading Co' -->
+<busStop id="17008" lane="138945427#4_0" startPos="60.345" endPos="72.414" friendlyPos="true" />  <!--b'MOME' -->
+<busStop id="18015" lane="492169608#2_0" startPos="36.345" endPos="43.614" friendlyPos="true" />  <!--b'Union Pharmacy' -->
+<busStop id="55641" lane="521198976#2_0" startPos="140.705" endPos="168.846" friendlyPos="true" />  <!--b'HSBC Atm Booth' -->
+<busStop id="23" lane="10571842#2_0" startPos="88.07" endPos="105.684" friendlyPos="true" />  <!--b'Khalifa Street Stop ' -->
+<busStop id="33165" lane="160009329#0_0" startPos="186.76" endPos="224.112" friendlyPos="true" />  <!--b'Lulu Hypermarket Gha' -->
+<busStop id="4560" lane="-480255700#19_0" startPos="29.98" endPos="35.976" friendlyPos="true" />  <!--b'Malik Bin Awf Street' -->
+<busStop id="36" lane="490184969#4_0" startPos="58.88" endPos="70.656" friendlyPos="true" />  <!--b'Intercontinental Doh' -->
+<busStop id="2376" lane="-491633489#5_0" startPos="57.975" endPos="69.57000000000001" friendlyPos="true" />  <!--b'Qatari Bin Al Fujaah' -->
+<busStop id="5517" lane="480304672#1_0" startPos="90.365" endPos="108.43799999999999" friendlyPos="true" />  <!--b'Al Noor Petrol Stati' -->
+<busStop id="9514" lane="625127851#1_0" startPos="135.85" endPos="163.01999999999998" friendlyPos="true" />  <!--b'Al Khor Sports Club' -->
+<busStop id="85582" lane="620951801#2_0" startPos="75.47" endPos="90.564" friendlyPos="true" />  <!--b'Al Shahaniya' -->
+<busStop id="8529" lane="225198631#10_0" startPos="338.29" endPos="405.94800000000004" friendlyPos="true" />  <!--b'Sheikh Faizal Al Tha' -->
+<busStop id="9773" lane="188099805#15_0" startPos="67.51" endPos="81.012" friendlyPos="true" />  <!--b'Al Shamal' -->
+<busStop id="5362" lane="25935270#3_0" startPos="132.885" endPos="159.462" friendlyPos="true" />  <!--b'Al Qalaa Street' -->
+<busStop id="5216" lane="25936692#1_0" startPos="115.77" endPos="138.924" friendlyPos="true" />  <!--b'Al Beday Stop 1' -->
+<busStop id="5372" lane="490361710#5_0" startPos="56.875" endPos="68.25" friendlyPos="true" />  <!--b'Al Shaafi' -->
+<busStop id="44" lane="-106271802#0_0" startPos="61.16" endPos="73.392" friendlyPos="true" />  <!--b'Ezdan' -->
+<busStop id="17000" lane="48865767#1_0" startPos="85.945" endPos="103.13399999999999" friendlyPos="true" />  <!--b'Kabayan Supermarket' -->
+<busStop id="18001" lane="95475491#0_0" startPos="92.15" endPos="110.58000000000001" friendlyPos="true" />  <!--b'Al Saadi Trading' -->
+<busStop id="27" lane="490560753#0_0" startPos="79.28" endPos="95.136" friendlyPos="true" />  <!--b'Nano Zanon' -->
+<busStop id="4241" lane="158194864#0_0" startPos="56.58" endPos="67.896" friendlyPos="true" />  <!--b'Focus Medical Center' -->
+<busStop id="5502" lane="154370571#1_0" startPos="42.215" endPos="50.658" friendlyPos="true" />  <!--b'Hetten Model' -->
+<busStop id="3289" lane="480240252#5_0" startPos="36.645" endPos="43.974000000000004" friendlyPos="true" />  <!--b'Khalifa Town Coop' -->
+<busStop id="9524" lane="625108224#0_0" startPos="78.155" endPos="93.786" friendlyPos="true" />  <!--b'Abdulla Bin Al Misna' -->
+<busStop id="9518" lane="-180218952#1_0" startPos="51.35" endPos="61.620000000000005" friendlyPos="true" />  <!--b'Al Khor Town Road St' -->
+<busStop id="55660" lane="256042774#6_0" startPos="160.485" endPos="192.58200000000002" friendlyPos="true" />  <!--b'KDTC' -->
+<busStop id="55662" lane="256042774#7_0" startPos="121.03" endPos="145.236" friendlyPos="true" />  <!--b'Mowasalat clinic' -->
+<busStop id="313" lane="521193029#3_0" startPos="111.94" endPos="134.328" friendlyPos="true" />  <!--b'Hydrofit/Street 33' -->
+<busStop id="315" lane="620666626#3_0" startPos="66.855" endPos="80.226" friendlyPos="true" />  <!--b'Topdesign/Street 27' -->
+<busStop id="4561" lane="480255700#19_0" startPos="29.905" endPos="35.886" friendlyPos="true" />  <!--b'Malik Bin Awf Street' -->
+<busStop id="4557" lane="480255690#9_0" startPos="30.67" endPos="36.804" friendlyPos="true" />  <!--b'National Education C' -->
+<busStop id="9527" lane="156016722#8_0" startPos="186.845" endPos="224.214" friendlyPos="true" />  <!--b'Fish Market' -->
+<busStop id="5543" lane="740806766#6_0" startPos="149.43" endPos="179.316" friendlyPos="true" />  <!--b'Hetten Model' -->
+<busStop id="55632" lane="112969389#3_0" startPos="129.02" endPos="154.824" friendlyPos="true" />  <!--b' Paradise Residentia' -->
+<busStop id="5498" lane="479772628#2_0" startPos="81.845" endPos="98.214" friendlyPos="true" />  <!--b'Race Course R/A' -->
+<busStop id="5177" lane="178011157_0" startPos="161.1" endPos="193.32" friendlyPos="true" />  <!--b'Al Meera Coop Termin' -->
+<busStop id="5536" lane="239724151#2_0" startPos="29.135" endPos="34.962" friendlyPos="true" />  <!--b'Salwa Petrol Station' -->
+<busStop id="5538" lane="239724151#5_0" startPos="135.995" endPos="163.19400000000002" friendlyPos="true" />  <!--b'Military Compound' -->
+<busStop id="314" lane="25948596#2_0" startPos="193.125" endPos="231.75" friendlyPos="true" />  <!--b'Falcon Carpentry/Str' -->
+<busStop id="318" lane="480476118#1_0" startPos="362.705" endPos="435.246" friendlyPos="true" />  <!--b'Olive Fashion/Kasara' -->
+<busStop id="319" lane="620679032#1_0" startPos="162.725" endPos="195.26999999999998" friendlyPos="true" />  <!--b'Speed Track Spare/Ka' -->
+<busStop id="320" lane="25948687#0_0" startPos="103.905" endPos="124.686" friendlyPos="true" />  <!--b'Labor Court/Kasarat ' -->
+<busStop id="323" lane="-480310529#1_0" startPos="56.145" endPos="67.37400000000001" friendlyPos="true" />  <!--b'Ras Tec/Al Umran Str' -->
+<busStop id="325" lane="-25949045#1_0" startPos="43.035" endPos="51.641999999999996" friendlyPos="true" />  <!--b'Kaharama Water Tank/' -->
+<busStop id="327" lane="234539447#2_0" startPos="158.435" endPos="190.122" friendlyPos="true" />  <!--b'NBK Interchange/East' -->
+<busStop id="366" lane="323074055#3_0" startPos="139.23" endPos="167.076" friendlyPos="true" />  <!--b'Gate 6 Labour Camp/K' -->
+<busStop id="368" lane="189032198#4_0" startPos="42.605" endPos="51.126" friendlyPos="true" />  <!--b'Madina Group/East In' -->
+<busStop id="373" lane="-189032175#0_0" startPos="195.57" endPos="234.684" friendlyPos="true" />  <!--b'Sports Corner/Street' -->
+<busStop id="398" lane="235369894#2_0" startPos="72.68" endPos="87.21600000000001" friendlyPos="true" />  <!--b'Gate 41/Street 41' -->
+<busStop id="399" lane="624553137#0_0" startPos="258.13" endPos="309.756" friendlyPos="true" />  <!--b'Dubai Supermarket/St' -->
+<busStop id="2732" lane="-95328703#2_0" startPos="33.41" endPos="40.092" friendlyPos="true" />  <!--b'La Villa Building' -->
+<busStop id="5533" lane="222087788#2_0" startPos="91.075" endPos="109.29" friendlyPos="true" />  <!--b'Beverly Hills Garden' -->
+<busStop id="5448" lane="684487495_0" startPos="50.965" endPos="61.158" friendlyPos="true" />  <!--b'Lilies Flowers & Cho' -->
+<busStop id="5341" lane="-490718482#11_0" startPos="23.53" endPos="28.236" friendlyPos="true" />  <!--b'Al Meera' -->
+<busStop id="5446" lane="257975560#2_0" startPos="141.1" endPos="169.32" friendlyPos="true" />  <!--b'Beema' -->
+<busStop id="5333" lane="-490718482#6_0" startPos="44.155" endPos="52.986000000000004" friendlyPos="true" />  <!--b'Logic Mall' -->
+<busStop id="5329" lane="-490718482#0_0" startPos="42.96" endPos="51.552" friendlyPos="true" />  <!--b'Umm Al Dome Stop 1' -->
+<busStop id="5595" lane="490614678#5_0" startPos="35.655" endPos="42.786" friendlyPos="true" />  <!--b'Al Sedaira Stop 1' -->
+<busStop id="3464" lane="25937263#4_0" startPos="118.57" endPos="142.284" friendlyPos="true" />  <!--b'Al Medahky Services ' -->
+<busStop id="94477" lane="-224154817#0_0" startPos="401.39" endPos="481.668" friendlyPos="true" />  <!--b'Trags Company' -->
+<busStop id="99402" lane="206331947#2_0" startPos="31.28" endPos="37.536" friendlyPos="true" />  <!--b'Center Point Stop 2' -->
+<busStop id="303" lane="-624521630#0_0" startPos="146.58" endPos="175.89600000000002" friendlyPos="true" />  <!--b'Building I1/Al Barah' -->
+<busStop id="8324" lane="153849740#2_0" startPos="372.595" endPos="447.11400000000003" friendlyPos="true" />  <!--b'Abu Nakhla City' -->
+<busStop id="9482" lane="256140486#6_0" startPos="646.79" endPos="776.1479999999999" friendlyPos="true" />  <!--b'Umm Al Amad Turn' -->
+<busStop id="99981" lane="361066195#0_0" startPos="116.81" endPos="140.172" friendlyPos="true" />  <!--b'Amwaj' -->
+<busStop id="9992" lane="13411777#1_0" startPos="160.075" endPos="192.08999999999997" friendlyPos="true" />  <!--b'Police Sports Club S' -->
+<busStop id="46679" lane="479819957#9_0" startPos="258.11" endPos="309.732" friendlyPos="true" />  <!--b'Al Thumama Bus Stop ' -->
+<busStop id="46675" lane="87826059#2_0" startPos="244.43" endPos="293.31600000000003" friendlyPos="true" />  <!--b'Al Thumama Bus Stop ' -->
+<busStop id="44467" lane="488509914#0_0" startPos="170.015" endPos="204.01799999999997" friendlyPos="true" />  <!--b'Teysser Petrol Stati' -->
+<busStop id="44463" lane="619553810_0" startPos="3.94" endPos="4.728" friendlyPos="true" />  <!--b'Najma Street Stop 2 ' -->
+<busStop id="44459" lane="488345108#11_0" startPos="314.12" endPos="376.944" friendlyPos="true" />  <!--b'Najma St. Bus Stop 3' -->
+<busStop id="4176" lane="95186730#2_0" startPos="33.64" endPos="40.368" friendlyPos="true" />  <!--b'Al Nuija Street' -->
+<busStop id="2525" lane="-158194852#6_0" startPos="4.44" endPos="5.328" friendlyPos="true" />  <!--b'Ibn Dirham' -->
+<busStop id="372" lane="-189032175#1_0" startPos="194.795" endPos="233.754" friendlyPos="true" />  <!--b'Al Fardan Marine/Str' -->
+<busStop id="393" lane="476108265#9_0" startPos="3.21" endPos="3.852" friendlyPos="true" />  <!--b'Street 38 Gate/New I' -->
+<busStop id="395" lane="480316875#1_0" startPos="91.155" endPos="109.386" friendlyPos="true" />  <!--b'Humaila Medical/New ' -->
+<busStop id="397" lane="480315955#2_0" startPos="49.715" endPos="59.658" friendlyPos="true" />  <!--b'Chemical Factory 1/N' -->
+<busStop id="404" lane="189032242#1_0" startPos="118.86" endPos="142.632" friendlyPos="true" />  <!--b'Al Tazamun Cafeteria' -->
+<busStop id="301" lane="-624521630#5_0" startPos="144.235" endPos="173.08200000000002" friendlyPos="true" />  <!--b'Building 1/Al Baraha' -->
+<busStop id="304" lane="527665757#1_0" startPos="241.04" endPos="289.248" friendlyPos="true" />  <!--b'J & P /Umm Al Saneem' -->
+<busStop id="56613" lane="176157419#4_0" startPos="381.79" endPos="458.148" friendlyPos="true" />  <!--b'Health Center' -->
+<busStop id="88602" lane="95475538#1_0" startPos="131.24" endPos="157.488" friendlyPos="true" />  <!--b'A Ring Road Stop 1' -->
+<busStop id="85665" lane="323048457#8_0" startPos="179.1" endPos="214.92" friendlyPos="true" />  <!--b'Labor Camp Stop 1' -->
+<busStop id="8608" lane="225198632#1_0" startPos="564.545" endPos="677.454" friendlyPos="true" />  <!--b'Al Dousari Zoo' -->
+<busStop id="9562" lane="282209435#2_0" startPos="124.32" endPos="149.184" friendlyPos="true" />  <!--b'North Hospital' -->
+<busStop id="44456" lane="479085490_0" startPos="28.42" endPos="34.104" friendlyPos="true" />  <!--b'Teysser Petrol Stati' -->
+<busStop id="46668" lane="206486732#0_0" startPos="216.595" endPos="259.914" friendlyPos="true" />  <!--b'Al Thumama Bus Stop3' -->
+<busStop id="356" lane="25949192#12_0" startPos="194.82" endPos="233.784" friendlyPos="true" />  <!--b'Al Assar Technical/S' -->
+<busStop id="405" lane="-189032175#3_0" startPos="125.36" endPos="150.43200000000002" friendlyPos="true" />  <!--b'Najum Al Huda/Street' -->
+<busStop id="378" lane="189032196#0_0" startPos="76.665" endPos="91.998" friendlyPos="true" />  <!--b'FAZ Hypermarket/Kasa' -->
+<busStop id="377" lane="189032188#1_0" startPos="266.985" endPos="320.382" friendlyPos="true" />  <!--b'Khalid Cement/Kasara' -->
+<busStop id="406" lane="-25949101#5_0" startPos="109.91" endPos="131.892" friendlyPos="true" />  <!--b'MIXMAX/Kasarat Stree' -->
+<busStop id="382" lane="-242349037#6_0" startPos="111.52" endPos="133.824" friendlyPos="true" />  <!--b'Street 39/Kasarat St' -->
+<busStop id="388" lane="189032232#0_0" startPos="82.805" endPos="99.36600000000001" friendlyPos="true" />  <!--b'Gate 37/Street 52' -->
+<busStop id="7028" lane="618585028_0" startPos="86.345" endPos="103.614" friendlyPos="true" />  <!--b'Doha Institute for G' -->
+<busStop id="309" lane="521101429#1_0" startPos="208.915" endPos="250.69799999999998" friendlyPos="true" />  <!--b'Al Baraha Entrance/U' -->
+<busStop id="2222" lane="176157411#4_0" startPos="163.19" endPos="195.828" friendlyPos="true" />  <!--b'Mowasalat' -->
+<busStop id="5360" lane="25931300#0_0" startPos="77.49" endPos="92.988" friendlyPos="true" />  <!--b'Al Rayyan Veterinary' -->
+<busStop id="5330" lane="490718482#0_0" startPos="42.79" endPos="51.348" friendlyPos="true" />  <!--b'Al Khiyam Street' -->
+<busStop id="5575" lane="481979271#1_0" startPos="42.44" endPos="50.928" friendlyPos="true" />  <!--b'Karaama Mini Station' -->
+<busStop id="374" lane="242349017#1_0" startPos="72.455" endPos="86.946" friendlyPos="true" />  <!--b'Unicorn China/Street' -->
+<busStop id="407" lane="624545771#3_0" startPos="136.485" endPos="163.782" friendlyPos="true" />  <!--b'Gulf Ware House/West' -->
+<busStop id="383" lane="-242349010#1_0" startPos="16.645" endPos="19.974" friendlyPos="true" />  <!--b'Saif Qatar/Street 47' -->
+<busStop id="384" lane="-242349019_0" startPos="89.47" endPos="107.364" friendlyPos="true" />  <!--b'Al Nada/Street 49' -->
+<busStop id="385" lane="189032175#0_0" startPos="195.635" endPos="234.762" friendlyPos="true" />  <!--b'Nice Water Factory/S' -->
+<busStop id="402" lane="189032175#2_0" startPos="196.035" endPos="235.242" friendlyPos="true" />  <!--b'Bluetronic/Street 49' -->
+<busStop id="370" lane="-189032232#0_0" startPos="82.84" endPos="99.408" friendlyPos="true" />  <!--b'Gate 37/Street 52' -->
+<busStop id="380" lane="25938698#0_0" startPos="161.44" endPos="193.728" friendlyPos="true" />  <!--b'Street 33/Kasarat St' -->
+<busStop id="379" lane="480476118#1_0" startPos="362.705" endPos="435.246" friendlyPos="true" />  <!--b'Dopet/Kasarat Street' -->
+<busStop id="381" lane="479614258_0" startPos="49.9" endPos="59.879999999999995" friendlyPos="true" />  <!--b'Sparex Group/Kasarat' -->
+<busStop id="56659" lane="207691851#4_0" startPos="112.83" endPos="135.39600000000002" friendlyPos="true" />  <!--b'Barwa City Stop 6' -->
+<busStop id="88050" lane="-142038989#1_0" startPos="183.65" endPos="220.38" friendlyPos="true" />  <!--b'Park & Ride' -->
+<busStop id="5308" lane="25931865#1_0" startPos="81.85" endPos="98.22" friendlyPos="true" />  <!--b'Al Naheen Street' -->
+<busStop id="5577" lane="741055111#0_0" startPos="92.11" endPos="110.532" friendlyPos="true" />  <!--b'Muaither South Stree' -->
+<busStop id="9516" lane="415357575#1_0" startPos="22.015" endPos="26.418" friendlyPos="true" />  <!--b'Al Khor Health Centr' -->
+<busStop id="9517" lane="-180218979#0_0" startPos="61.155" endPos="73.386" friendlyPos="true" />  <!--b'Grand Mart' -->
+<busStop id="7026" lane="742339458#0_0" startPos="11.045" endPos="13.254" friendlyPos="true" />  <!--b'Qatar University Fou' -->
+<busStop id="8532" lane="-225198631#5_0" startPos="110.92" endPos="133.104" friendlyPos="true" />  <!--b'KCT Al Khayat Contra' -->
+<busStop id="8536" lane="-225198631#3_0" startPos="78.215" endPos="93.858" friendlyPos="true" />  <!--b'Al Rayyan Plantation' -->
+<busStop id="5574" lane="-481979271#1_0" startPos="42.44" endPos="50.928" friendlyPos="true" />  <!--b'Tuwar Al Hiraithi St' -->
+<busStop id="5576" lane="741055111#0_0" startPos="92.11" endPos="110.532" friendlyPos="true" />  <!--b'House 417' -->
+<busStop id="369" lane="189032198#10_0" startPos="50.225" endPos="60.27" friendlyPos="true" />  <!--b'Mosque/East Ind Stre' -->
+<busStop id="391" lane="624553137#2_0" startPos="83.55" endPos="100.25999999999999" friendlyPos="true" />  <!--b'ACES/Street 41' -->
+<busStop id="392" lane="476108265#6_0" startPos="223.01" endPos="267.61199999999997" friendlyPos="true" />  <!--b'Building No. 9/New I' -->
+<busStop id="394" lane="186277063#3_0" startPos="136.37" endPos="163.644" friendlyPos="true" />  <!--b'CNG Station/New Ind ' -->
+<busStop id="386" lane="189032175#1_0" startPos="194.815" endPos="233.778" friendlyPos="true" />  <!--b'Falcon Trading/Stree' -->
+<busStop id="387" lane="189032193#3_0" startPos="115.91" endPos="139.09199999999998" friendlyPos="true" />  <!--b'Tisco/Street 52' -->
+<busStop id="371" lane="189032173#4_0" startPos="43.63" endPos="52.356" friendlyPos="true" />  <!--b'Karajat Street Stop ' -->
+<busStop id="1" lane="142038989#1_0" startPos="185.68" endPos="222.816" friendlyPos="true" />  <!--b'QSC Stadium' -->
+<busStop id="5304" lane="-255416142#2_0" startPos="66.37" endPos="79.644" friendlyPos="true" />  <!--b'Mohammed Abdulaziz M' -->
+<busStop id="4634" lane="156964507#6_0" startPos="120.56" endPos="144.672" friendlyPos="true" />  <!--b'Nabina Trading' -->
+<busStop id="8584" lane="25932007#4_0" startPos="34.68" endPos="41.616" friendlyPos="true" />  <!--b'Al Shahaniya Stop 2' -->
+<busStop id="9006" lane="323415870#2_0" startPos="55.73" endPos="66.876" friendlyPos="true" />  <!--b'Ezdan 10' -->
+<busStop id="9987" lane="177950941#3_0" startPos="76.8" endPos="92.16" friendlyPos="true" />  <!--b'Mesaieed Health Cent' -->
+<busStop id="1520" lane="165499568#1_0" startPos="77.12" endPos="92.54400000000001" friendlyPos="true" />  <!--b'B Ring Road' -->
+<busStop id="9988" lane="13411747#1_0" startPos="203.6" endPos="244.32" friendlyPos="true" />  <!--b'Grand Mosque' -->
+<busStop id="2524" lane="190323552_0" startPos="63.76" endPos="76.512" friendlyPos="true" />  <!--b'Ibn Dirham' -->
+<busStop id="2526" lane="-25991628#1_0" startPos="13.475" endPos="16.17" friendlyPos="true" />  <!--b'Qubaa Street' -->
+<busStop id="341" lane="234395042#2_0" startPos="38.32" endPos="45.984" friendlyPos="true" />  <!--b'Garden Cafeteria/Str' -->
+<busStop id="343" lane="25948535#0_0" startPos="291.955" endPos="350.346" friendlyPos="true" />  <!--b'Hydrofit/Street 33' -->
+<busStop id="300" lane="624521632#0_0" startPos="291.935" endPos="350.322" friendlyPos="true" />  <!--b'Al Baraha Terminal/A' -->
+<busStop id="403" lane="189032206#11_0" startPos="72.99" endPos="87.588" friendlyPos="true" />  <!--b'Al Wakalat Stop 1/Al' -->
+<busStop id="9982" lane="13411788#0_0" startPos="190.38" endPos="228.456" friendlyPos="true" />  <!--b'Alcat Project' -->
+<busStop id="2532" lane="158194879#5_0" startPos="26.855" endPos="32.226" friendlyPos="true" />  <!--b'Al Mansoura' -->
+<busStop id="42268" lane="165499575#13_0" startPos="103.045" endPos="123.654" friendlyPos="true" />  <!--b'Al Fardan Garden' -->
+<busStop id="44452" lane="176155596#8_0" startPos="67.37" endPos="80.84400000000001" friendlyPos="true" />  <!--b'Hilal Paradise Compl' -->
+<busStop id="46666" lane="365935239#3_0" startPos="161.745" endPos="194.094" friendlyPos="true" />  <!--b'Najma Street  Bus St' -->
+<busStop id="9936" lane="-372557571#1_0" startPos="180.25" endPos="216.3" friendlyPos="true" />  <!--b'Ali Bin Ali Warehous' -->
+<busStop id="99400" lane="206331956#5_0" startPos="24.515" endPos="29.418" friendlyPos="true" />  <!--b'Center Point Stop 1' -->
+<busStop id="396" lane="480315956#35_0" startPos="72.79" endPos="87.34800000000001" friendlyPos="true" />  <!--b'Street 1 Stop 1/New ' -->
+<busStop id="302" lane="-624521630#2_0" startPos="46.51" endPos="55.812" friendlyPos="true" />  <!--b'Hala Restaurant/Al B' -->
+<busStop id="85671" lane="323098444#7_0" startPos="232.85" endPos="279.42" friendlyPos="true" />  <!--b'Grand Mall' -->
+<busStop id="400" lane="480311863#2_0" startPos="573.3" endPos="687.9599999999999" friendlyPos="true" />  <!--b'Customs Terminal/Sal' -->
+<busStop id="5305" lane="255416142#2_0" startPos="66.37" endPos="79.644" friendlyPos="true" />  <!--b'Mohammed Abdulaziz M' -->
+<busStop id="5332" lane="490718482#5_0" startPos="25.99" endPos="31.188" friendlyPos="true" />  <!--b'Royal Tea' -->
+<busStop id="5371" lane="490361706#2_0" startPos="66.55" endPos="79.86" friendlyPos="true" />  <!--b'Al Rayyan Post Offic' -->
+<busStop id="2721" lane="95328703#7_0" startPos="52.735" endPos="63.282" friendlyPos="true" />  <!--b'Al Quds School' -->
+<busStop id="2717" lane="103931311#2_0" startPos="126.495" endPos="151.794" friendlyPos="true" />  <!--b'Al Liwan Suites' -->
+<busStop id="2733" lane="487501226_0" startPos="19.545" endPos="23.454" friendlyPos="true" />  <!--b'Al Quds School' -->
+<busStop id="46672" lane="206486732#4_0" startPos="103.13" endPos="123.756" friendlyPos="true" />  <!--b'Al Thumama Bus Stop ' -->
+<busStop id="4256" lane="-95186916#2_0" startPos="61.13" endPos="73.35600000000001" friendlyPos="true" />  <!--b'Al Alaa Street' -->
+<busStop id="4260" lane="165499575#2_0" startPos="94.94" endPos="113.928" friendlyPos="true" />  <!--b' Commercial Bank' -->
+<busStop id="4264" lane="165499575#10_0" startPos="46.15" endPos="55.379999999999995" friendlyPos="true" />  <!--b'Al Sheefa Poly Clini' -->
+<busStop id="46676" lane="206486732#10_0" startPos="175.625" endPos="210.75" friendlyPos="true" />  <!--b'Al Thumama Bus Stop ' -->
+<busStop id="46680" lane="206486732#10_0" startPos="175.625" endPos="210.75" friendlyPos="true" />  <!--b'Al Thumama Bus Stop ' -->
+<busStop id="4754" lane="-211934806#1_0" startPos="62.99" endPos="75.58800000000001" friendlyPos="true" />  <!--b'Al Fadaill Street' -->
+<busStop id="4568" lane="480255700#6_0" startPos="46.87" endPos="56.244" friendlyPos="true" />  <!--b'Al Sabah Vegestable' -->
+<busStop id="2274" lane="489449171#2_0" startPos="67.29" endPos="80.748" friendlyPos="true" />  <!--b'Ibn Mahmoud Street S' -->
+<busStop id="999" lane="158194880#2_0" startPos="32.28" endPos="38.736000000000004" friendlyPos="true" />  <!--b'Al Ghanim Bus Statio' -->
+<busStop id="94482" lane="531827288#0_0" startPos="4.93" endPos="5.9159999999999995" friendlyPos="true" />  <!--b'Umm Al Amad Turn (Ri' -->
+<busStop id="50" lane="-753838793_0" startPos="209.525" endPos="251.43" friendlyPos="true" />  <!--b'Park & Ride' -->
+<busStop id="9403" lane="709781195_0" startPos="9.17" endPos="11.004" friendlyPos="true" />  <!--b'Ministry of Diffence' -->
+<busStop id="5221" lane="100646295#1_0" startPos="75.54" endPos="90.64800000000001" friendlyPos="true" />  <!--b'Wajbit Al Alseel Sto' -->
+<busStop id="99700" lane="531804486#1_0" startPos="36.665" endPos="43.998" friendlyPos="true" />  <!--b'Doha Festival City' -->
+<busStop id="425" lane="-480310530#0_0" startPos="51.395" endPos="61.67400000000001" friendlyPos="true" />  <!--b'Cars International G' -->
+<busStop id="432" lane="480476112#3_0" startPos="36.665" endPos="43.998" friendlyPos="true" />  <!--b'Al Binnah Street Sto' -->
+<busStop id="434" lane="218435899#4_0" startPos="54.635" endPos="65.562" friendlyPos="true" />  <!--b'Elegant Group' -->
+<busStop id="6005" lane="480284533#8_0" startPos="106.395" endPos="127.67399999999999" friendlyPos="true" />  <!--b'Barwa Commercial Ave' -->
+<busStop id="412" lane="-25949036#4_0" startPos="116.21" endPos="139.452" friendlyPos="true" />  <!--b'Street 23 Stop 1' -->
+<busStop id="413" lane="-25949036#3_0" startPos="229.92" endPos="275.904" friendlyPos="true" />  <!--b'Street 23 Stop 2' -->
+<busStop id="6012" lane="133958464#2_0" startPos="305.965" endPos="367.15799999999996" friendlyPos="true" />  <!--b'Ansar Gallery' -->
+<busStop id="342" lane="480476122_0" startPos="668.655" endPos="802.386" friendlyPos="true" />  <!--b'Street 33 Stop 1' -->
+<busStop id="348" lane="479619276#2_0" startPos="38.85" endPos="46.620000000000005" friendlyPos="true" />  <!--b'Karakajat STreet Sto' -->
+<busStop id="363" lane="-25949184#3_0" startPos="194.865" endPos="233.83800000000002" friendlyPos="true" />  <!--b'Al Shoof Complex' -->
+<busStop id="409" lane="-25949184#2_0" startPos="195.705" endPos="234.846" friendlyPos="true" />  <!--b'Dulsco Camp-24' -->
+<busStop id="332" lane="25949045#4_0" startPos="54.26" endPos="65.112" friendlyPos="true" />  <!--b'Sanford Camp/Al Umra' -->
+<busStop id="9961" lane="250806700#0_0" startPos="133.19" endPos="159.828" friendlyPos="true" />  <!--b'MMUP Al Wakra' -->
+<busStop id="44588" lane="488338980#2_0" startPos="12.695" endPos="15.234" friendlyPos="true" />  <!--b'House 306' -->
+<busStop id="4569" lane="-480237247#1_0" startPos="91.16" endPos="109.392" friendlyPos="true" />  <!--b'Hatay Turkey Restaur' -->
+<busStop id="9564" lane="282209435#1_0" startPos="52.505" endPos="63.006" friendlyPos="true" />  <!--b'Al Khor Community So' -->
+<busStop id="600" lane="158194880#1_0" startPos="55.61" endPos="66.732" friendlyPos="true" />  <!--b'Al Ghanim Bus Statio' -->
+<busStop id="9401" lane="324863258#0_0" startPos="164.13" endPos="196.956" friendlyPos="true" />  <!--b'Fish Market' -->
+<busStop id="4574" lane="480255700#1_0" startPos="54.63" endPos="65.55600000000001" friendlyPos="true" />  <!--b'Bun Al Ameed' -->
+<busStop id="438" lane="-480476112#3_0" startPos="36.665" endPos="43.998" friendlyPos="true" />  <!--b'Al Binnah Street Sto' -->
+<busStop id="6008" lane="624513845_0" startPos="22.095" endPos="26.514" friendlyPos="true" />  <!--b'Dorma Access Solutio' -->
+<busStop id="445" lane="-189032175#2_0" startPos="196.04" endPos="235.248" friendlyPos="true" />  <!--b'Bluetronic/Street 49' -->
+<busStop id="6004" lane="620951363#2_0" startPos="184.09" endPos="220.90800000000002" friendlyPos="true" />  <!--b'Dorma Access Solutio' -->
+<busStop id="389" lane="-234380309#2_0" startPos="104.07" endPos="124.88399999999999" friendlyPos="true" />  <!--b'Street 47 Stop 3' -->
+<busStop id="390" lane="-234380309#4_0" startPos="90.545" endPos="108.654" friendlyPos="true" />  <!--b'Street 47 Stop 4' -->
+<busStop id="351" lane="25949184#2_0" startPos="195.705" endPos="234.846" friendlyPos="true" />  <!--b'Gulf Steel Factories' -->
+<busStop id="8303" lane="-624521630#0_0" startPos="146.58" endPos="175.89600000000002" friendlyPos="true" />  <!--b'Building I1/Al Barah' -->
+<busStop id="8302" lane="-624521630#2_0" startPos="46.51" endPos="55.812" friendlyPos="true" />  <!--b'Hala Restaurant/Al B' -->
+<busStop id="414" lane="-742675029_0" startPos="89.645" endPos="107.574" friendlyPos="true" />  <!--b'Street 23 Stop 1' -->
+<busStop id="418" lane="25949036#4_0" startPos="116.21" endPos="139.452" friendlyPos="true" />  <!--b'REDCO Apartment' -->
+<busStop id="4576" lane="488349631#7_0" startPos="37.935" endPos="45.522000000000006" friendlyPos="true" />  <!--b'House 80' -->
+<busStop id="4564" lane="480237234#0_0" startPos="13.66" endPos="16.392" friendlyPos="true" />  <!--b'Al Hajaj restaurant' -->
+<busStop id="4573" lane="-488349631#1_0" startPos="22.055" endPos="26.466" friendlyPos="true" />  <!--b'House 89' -->
+<busStop id="331" lane="25949045#1_0" startPos="43.035" endPos="51.641999999999996" friendlyPos="true" />  <!--b'Aldar Printing Press' -->
+<busStop id="5661" lane="481593583#0_0" startPos="81.705" endPos="98.04599999999999" friendlyPos="true" />  <!--b'Al Leman Secondary ' -->
+<busStop id="99701" lane="491206478#5_0" startPos="93.04" endPos="111.64800000000001" friendlyPos="true" />  <!--b'Doha Festival City' -->
+<busStop id="44560" lane="-155988290#5_0" startPos="25.935" endPos="31.122" friendlyPos="true" />  <!--b'House 28' -->
+<busStop id="9932" lane="479822280_0" startPos="54.49" endPos="65.388" friendlyPos="true" />  <!--b'QEAF' -->
+<busStop id="9933" lane="256122422_0" startPos="116.92" endPos="140.304" friendlyPos="true" />  <!--b'QEAF' -->
+<busStop id="99720" lane="324863258#2_0" startPos="109.705" endPos="131.64600000000002" friendlyPos="true" />  <!--b'Fish Market' -->
+<busStop id="9474" lane="-224154769#0_0" startPos="45.125" endPos="54.15" friendlyPos="true" />  <!--b'Umm Slal Ali Village' -->
+<busStop id="4040" lane="154084383#7_0" startPos="5.505" endPos="6.606" friendlyPos="true" />  <!--b'D Ring Road Stop 1' -->
+<busStop id="4341" lane="25948184#0_0" startPos="220.445" endPos="264.534" friendlyPos="true" />  <!--b'Newton International' -->
+<busStop id="5544" lane="111424637#2_0" startPos="71.125" endPos="85.35" friendlyPos="true" />  <!--b'CAS Army Base' -->
+<busStop id="433" lane="25949192#10_0" startPos="195.54" endPos="234.648" friendlyPos="true" />  <!--b'Bin Muftah Street St' -->
+<busStop id="436" lane="-25949192#12_0" startPos="194.83" endPos="233.79600000000002" friendlyPos="true" />  <!--b'Porsche Service Cent' -->
+<busStop id="6010" lane="207593043#1_0" startPos="97.995" endPos="117.59400000000001" friendlyPos="true" />  <!--b'Wadi Al Utooriya St ' -->
+<busStop id="375" lane="-234380309#4_0" startPos="90.545" endPos="108.654" friendlyPos="true" />  <!--b'Street 47 Stop 1' -->
+<busStop id="376" lane="-234380309#2_0" startPos="104.07" endPos="124.88399999999999" friendlyPos="true" />  <!--b'Street 47 Stop 2' -->
+<busStop id="6003" lane="620951363#0_0" startPos="553.45" endPos="664.1400000000001" friendlyPos="true" />  <!--b'Joud Mall Doha' -->
+<busStop id="5689" lane="246227389#2_0" startPos="138.725" endPos="166.47" friendlyPos="true" />  <!--b'Kaharama' -->
+<busStop id="2517" lane="107060555#2_0" startPos="72.825" endPos="87.39" friendlyPos="true" />  <!--b'Al Muntaza Stop 1' -->
+<busStop id="8301" lane="-624521630#5_0" startPos="144.235" endPos="173.08200000000002" friendlyPos="true" />  <!--b'Building A1/Al Barah' -->
+<busStop id="415" lane="242349008#0_0" startPos="17.995" endPos="21.594" friendlyPos="true" />  <!--b'Afiya Industrial Pha' -->
+<busStop id="85001" lane="-239172009#4_0" startPos="81.055" endPos="97.266" friendlyPos="true" />  <!--b'Asian Town' -->
+<busStop id="365" lane="521198968#7_0" startPos="70.155" endPos="84.186" friendlyPos="true" />  <!--b'Jaidah Group 2/East ' -->
+<busStop id="56614" lane="207697573#3_0" startPos="228.755" endPos="274.506" friendlyPos="true" />  <!--b'Berla School' -->
+<busStop id="44580" lane="153940694#0_0" startPos="76.39" endPos="91.668" friendlyPos="true" />  <!--b'House 228' -->
+<busStop id="5367" lane="490361702#2_0" startPos="129.555" endPos="155.466" friendlyPos="true" />  <!--b'Aster' -->
+<busStop id="4722" lane="206082716#5_0" startPos="94.185" endPos="113.022" friendlyPos="true" />  <!--b'Ansar Gallery' -->
+<busStop id="94486" lane="-258042458#2_0" startPos="19.51" endPos="23.412000000000003" friendlyPos="true" />  <!--b'Al Meera Co-op' -->
+<busStop id="420" lane="242349029#2_0" startPos="202.415" endPos="242.898" friendlyPos="true" />  <!--b'Industrial Area Hosp' -->
+<busStop id="411" lane="25948733#2_0" startPos="94.68" endPos="113.61600000000001" friendlyPos="true" />  <!--b'Stark Motors' -->
+<busStop id="421" lane="242349029#4_0" startPos="279.925" endPos="335.91" friendlyPos="true" />  <!--b'United Supplies Comp' -->
+<busStop id="422" lane="624545779#0_0" startPos="206.74" endPos="248.08800000000002" friendlyPos="true" />  <!--b'Al Bariq Store' -->
+<busStop id="423" lane="624545779#2_0" startPos="211.37" endPos="253.644" friendlyPos="true" />  <!--b'Dart Engineering' -->
+<busStop id="424" lane="476108263#1_0" startPos="45.04" endPos="54.048" friendlyPos="true" />  <!--b'J&P Labour Camp' -->
+<busStop id="428" lane="624545771#10_0" startPos="211.495" endPos="253.794" friendlyPos="true" />  <!--b'Industrial Area Hosp' -->
+<busStop id="430" lane="-25949078#3_0" startPos="234.115" endPos="280.938" friendlyPos="true" />  <!--b'Schlumberger' -->
+<busStop id="431" lane="-25949078#2_0" startPos="233.12" endPos="279.744" friendlyPos="true" />  <!--b'ALMA Aluminum' -->
+<busStop id="429" lane="-95183910#0_0" startPos="245.765" endPos="294.918" friendlyPos="true" />  <!--b'Ghazan Qatar' -->
+<busStop id="4530" lane="488343775#5_0" startPos="111.73" endPos="134.07600000000002" friendlyPos="true" />  <!--b'Mosaic Gallery' -->
+<busStop id="447" lane="-479621072#1_0" startPos="59.215" endPos="71.058" friendlyPos="true" />  <!--b'Al Jaidah' -->
+<busStop id="5139" lane="479804869#2_0" startPos="142.495" endPos="170.994" friendlyPos="true" />  <!--b'Bani Hajer Stop 4' -->
+<busStop id="316" lane="-620666626#5_0" startPos="69.165" endPos="82.998" friendlyPos="true" />  <!--b'Street 27 Stop 1' -->
+<busStop id="435" lane="25949192#11_0" startPos="195.08" endPos="234.096" friendlyPos="true" />  <!--b'Street 16 Stop 1' -->
+<busStop id="2378" lane="159050458#1_0" startPos="92.005" endPos="110.40599999999999" friendlyPos="true" />  <!--b'Ibn Mahmoud Street S' -->
+<busStop id="2276" lane="159050458#1_0" startPos="92.005" endPos="110.40599999999999" friendlyPos="true" />  <!--b'Ibn Mahmoud Street S' -->
+<busStop id="9738" lane="236408689#0_0" startPos="51.275" endPos="61.53" friendlyPos="true" />  <!--b'Al Ghuwairiyah Coop' -->
+<busStop id="94488" lane="-161640402#1_0" startPos="38.39" endPos="46.068" friendlyPos="true" />  <!--b'Umm Garn Village' -->
+<busStop id="44565" lane="155988290#3_0" startPos="21.9" endPos="26.279999999999998" friendlyPos="true" />  <!--b'Building Truth 376' -->
+<busStop id="9475" lane="-224154822#0_0" startPos="45.025" endPos="54.03" friendlyPos="true" />  <!--b'Umm Slal Ali Village' -->
+<busStop id="4571" lane="480255700#1_0" startPos="54.63" endPos="65.55600000000001" friendlyPos="true" />  <!--b'VIP Edition Spa' -->
+<busStop id="9402" lane="188248585#1_0" startPos="22.995" endPos="27.594" friendlyPos="true" />  <!--b'Al Kharaitiyat' -->
+<busStop id="94485" lane="-623943292#0_0" startPos="149.645" endPos="179.574" friendlyPos="true" />  <!--b'Al Meera Co-op Stop ' -->
+<busStop id="441" lane="479799453#0_0" startPos="32.74" endPos="39.288000000000004" friendlyPos="true" />  <!--b'Alsalam Petrol Stati' -->
+<busStop id="437" lane="-25949192#11_0" startPos="195.07" endPos="234.084" friendlyPos="true" />  <!--b'Street 16 Stop 2' -->
+<busStop id="439" lane="-25949192#10_0" startPos="195.54" endPos="234.648" friendlyPos="true" />  <!--b'Bin Muftah Technical' -->
+<busStop id="6002" lane="489499555#0_0" startPos="113.565" endPos="136.278" friendlyPos="true" />  <!--b'Wadi Al Utooriya St ' -->
+<busStop id="6006" lane="-206260005#1_0" startPos="77.735" endPos="93.282" friendlyPos="true" />  <!--b'Palestine School' -->
+<busStop id="352" lane="25949184#3_0" startPos="194.865" endPos="233.83800000000002" friendlyPos="true" />  <!--b'Al Shoof Complex' -->
+<busStop id="353" lane="25949184#4_0" startPos="124.915" endPos="149.89800000000002" friendlyPos="true" />  <!--b'Street 24 Stop 3' -->
+<busStop id="349" lane="-25949184#1_0" startPos="196.11" endPos="235.33200000000002" friendlyPos="true" />  <!--b'Jerusalem Garage' -->
+<busStop id="417" lane="742675033#3_0" startPos="11.6" endPos="13.92" friendlyPos="true" />  <!--b'Eid Gaah' -->
+<busStop id="419" lane="25948731#2_0" startPos="283.185" endPos="339.822" friendlyPos="true" />  <!--b'Stark Motors' -->
+<busStop id="5699" lane="207697655#3_0" startPos="389.715" endPos="467.65799999999996" friendlyPos="true" />  <!--b'Birla School' -->
+<busStop id="5678" lane="625407448#1_0" startPos="370.965" endPos="445.15799999999996" friendlyPos="true" />  <!--b'Al Leman Secondary ' -->
+<busStop id="6007" lane="480284529#1_0" startPos="34.995" endPos="41.994" friendlyPos="true" />  <!--b'Telephony Technologi' -->
+<busStop id="5744" lane="88315580#2_0" startPos="32.955" endPos="39.546" friendlyPos="true" />  <!--b'Military Camp' -->
+<busStop id="347" lane="479619284#1_0" startPos="44.405" endPos="53.286" friendlyPos="true" />  <!--b'Yellow Taxi' -->
+<busStop id="416" lane="242349008#3_0" startPos="158.69" endPos="190.428" friendlyPos="true" />  <!--b'UDC Warehouse' -->
+<busStop id="426" lane="624545782#3_0" startPos="257.545" endPos="309.05400000000003" friendlyPos="true" />  <!--b'Al Bariq Store' -->
+<busStop id="427" lane="624545771#8_0" startPos="95.115" endPos="114.13799999999999" friendlyPos="true" />  <!--b'United Supplies Comp' -->
+<busStop id="55367" lane="490213893_0" startPos="61.44" endPos="73.728" friendlyPos="true" />  <!--b'Al Rayyan Road Stop ' -->
+<busStop id="46669" lane="479822481#1_0" startPos="113.625" endPos="136.35" friendlyPos="true" />  <!--b'Pearl School' -->
+<busStop id="3739" lane="-95601597#18_0" startPos="17.435" endPos="20.921999999999997" friendlyPos="true" />  <!--b'Dayana Beauty Center' -->
+<busStop id="408" lane="491197640#0_0" startPos="47.14" endPos="56.568" friendlyPos="true" />  <!--b'A Ring Road Stop 2' -->
+<busStop id="4029" lane="87807156#4_0" startPos="150.81" endPos="180.972" friendlyPos="true" />  <!--b'Asiri Fly Over' -->
+<busStop id="3960" lane="-492148204#2_0" startPos="64.26" endPos="77.11200000000001" friendlyPos="true" />  <!--b'Al Merqab Mall' -->
+<busStop id="6009" lane="489499555#2_0" startPos="63.03" endPos="75.636" friendlyPos="true" />  <!--b'Safai Mall' -->
+<busStop id="6014" lane="-521192936#4_0" startPos="83.46" endPos="100.15199999999999" friendlyPos="true" />  <!--b'Karwa Station' -->
+<busStop id="3632" lane="520732052#4_0" startPos="32.52" endPos="39.024" friendlyPos="true" />  <!--b'Lulu Hypermarket' -->
+<busStop id="5642" lane="218439251_0" startPos="73.87" endPos="88.644" friendlyPos="true" />  <!--b' Mhuseireb Auto Serv' -->
+<busStop id="5644" lane="521198969#0_0" startPos="134.3" endPos="161.16000000000003" friendlyPos="true" />  <!--b' Mohammed Abdulrahma' -->
+<busStop id="5646" lane="521198968#0_0" startPos="121.835" endPos="146.202" friendlyPos="true" />  <!--b' United Motors Cars ' -->
+<busStop id="9937" lane="373416632_0" startPos="547.515" endPos="657.018" friendlyPos="true" />  <!--b'Metro Station' -->
+<busStop id="5357" lane="25935365#1_0" startPos="202.78" endPos="243.336" friendlyPos="true" />  <!--b'Al Rayyan Road Stop ' -->
+<busStop id="5633" lane="25935270#9_0" startPos="145.05" endPos="174.06" friendlyPos="true" />  <!--b'Rayyan SEC Depot' -->
+<busStop id="3741" lane="-25947623_0" startPos="91.535" endPos="109.842" friendlyPos="true" />  <!--b'Bin Omran' -->
+<busStop id="4701" lane="480285106#13_0" startPos="129.005" endPos="154.80599999999998" friendlyPos="true" />  <!--b'Najma Street Stop 1' -->
+<busStop id="3468" lane="25937292#3_0" startPos="70.41" endPos="84.49199999999999" friendlyPos="true" />  <!--b'Al Saa Saloon' -->
+<busStop id="5647" lane="521198968#7_0" startPos="70.155" endPos="84.186" friendlyPos="true" />  <!--b'Jaida Heavy Equipmen' -->
+<busStop id="5638" lane="491144226#0_0" startPos="154.845" endPos="185.814" friendlyPos="true" />  <!--b'Mowasalat New Buildi' -->
+<busStop id="3961" lane="492148203_0" startPos="52.22" endPos="62.664" friendlyPos="true" />  <!--b'Doha Bank' -->
+<busStop id="5365" lane="491632371#1_0" startPos="204.54" endPos="245.44799999999998" friendlyPos="true" />  <!--b'Al Rayyan Road Stop ' -->
+<busStop id="5637" lane="521198967#2_0" startPos="91.645" endPos="109.97399999999999" friendlyPos="true" />  <!--b'Mosque (Markaz Table' -->
+<busStop id="5193" lane="178063611#8_0" startPos="156.235" endPos="187.48200000000003" friendlyPos="true" />  <!--b'Al Hazam Stop 1' -->
+<busStop id="3628" lane="620658844#1_0" startPos="46.21" endPos="55.452" friendlyPos="true" />  <!--b'Al Messila Petrol St' -->
+<busStop id="5138" lane="622805763#0_0" startPos="122.83" endPos="147.39600000000002" friendlyPos="true" />  <!--b'Bani Hajer Stop 1' -->
+<busStop id="5682" lane="619589395#1_0" startPos="57.305" endPos="68.766" friendlyPos="true" />  <!--b'Indian Cultural Cent' -->
+<busStop id="4526" lane="488343775#3_0" startPos="90.155" endPos="108.186" friendlyPos="true" />  <!--b'Shoprite Supermarket' -->
+<busStop id="3220" lane="258044818_0" startPos="21.405" endPos="25.686" friendlyPos="true" />  <!--b'House 69' -->
+<busStop id="8510" lane="491444530#24_0" startPos="3.525" endPos="4.23" friendlyPos="true" />  <!--b'Mall of Qatar' -->
+<busStop id="6015" lane="323074054#0_0" startPos="213.335" endPos="256.002" friendlyPos="true" />  <!--b'Karwa Station' -->
+<busStop id="5632" lane="491466217#2_0" startPos="78.12" endPos="93.744" friendlyPos="true" />  <!--b'United National' -->
+<busStop id="5636" lane="521198967#0_0" startPos="63.38" endPos="76.05600000000001" friendlyPos="true" />  <!--b'Auto Z' -->
+<busStop id="5147" lane="321070072#4_0" startPos="44.775" endPos="53.73" friendlyPos="true" />  <!--b'Big Mosque Stop 2' -->
+<busStop id="5151" lane="321070072#12_0" startPos="27.835" endPos="33.402" friendlyPos="true" />  <!--b'Bani Hajer Stop 3' -->
+<busStop id="2085" lane="156617182#0_0" startPos="42.695" endPos="51.234" friendlyPos="true" />  <!--b'Al Seena Street Stop' -->
+<busStop id="5264" lane="491625534_0" startPos="188.405" endPos="226.086" friendlyPos="true" />  <!--b'Al Rayyan Road Stop ' -->
+<busStop id="5645" lane="282120947#2_0" startPos="76.56" endPos="91.872" friendlyPos="true" />  <!--b'Traffic Tech (Gulf)' -->
+<busStop id="5648" lane="521198958#0_0" startPos="218.74" endPos="262.488" friendlyPos="true" />  <!--b' KIA Motor Show Room' -->
+<busStop id="5635" lane="491466217#8_0" startPos="92.54" endPos="111.048" friendlyPos="true" />  <!--b'Oilfield And Industr' -->
+<busStop id="90009" lane="491215548#1_0" startPos="80.035" endPos="96.042" friendlyPos="true" />  <!--b'Abdulrahman Bin Jasi' -->
+<busStop id="6011" lane="176157411#2_0" startPos="77.355" endPos="92.82600000000001" friendlyPos="true" />  <!--b'Dalla Driving Academ' -->
+<busStop id="6013" lane="206258711_0" startPos="49.6" endPos="59.52" friendlyPos="true" />  <!--b'Safari Mall' -->
+<busStop id="4589" lane="488338981#2_0" startPos="61.79" endPos="74.148" friendlyPos="true" />  <!--b'Oqba Bin Nafie Stree' -->
+<busStop id="61500" lane="688783979#3_0" startPos="3332.08" endPos="3998.496" friendlyPos="true" />  <!--b'DECC Station' -->
+<busStop id="3508" lane="25937767#1_0" startPos="43.255" endPos="51.906000000000006" friendlyPos="true" />  <!--b'Al Wabra STreet' -->
+<busStop id="335" lane="480310529#5_0" startPos="56.77" endPos="68.12400000000001" friendlyPos="true" />  <!--b'Gulf Ware Housing/Al' -->
+<busStop id="91600" lane="718466008#2_0" startPos="9.885" endPos="11.862" friendlyPos="true" />  <!--b'Al Wakra Station' -->
+<busStop id="50500" lane="-658648444_0" startPos="8.79" endPos="10.547999999999998" friendlyPos="true" />  <!--b'Economic Zone Statio' -->
+<busStop id="9952" lane="238449429_0" startPos="752.125" endPos="902.55" friendlyPos="true" />  <!--b'Al Wakra Metro Stati' -->
+<busStop id="5704" lane="480461089#1_0" startPos="29.92" endPos="35.904" friendlyPos="true" />  <!--b'Al Danube Restaurant' -->
+<busStop id="85663" lane="323098444#3_0" startPos="342.865" endPos="411.438" friendlyPos="true" />  <!--b'Mowasalat' -->
+<busStop id="446" lane="-479621072#4_0" startPos="54.185" endPos="65.022" friendlyPos="true" />  <!--b'Al Aser Auto Parts' -->
+<busStop id="5144" lane="256004407#1_0" startPos="17.385" endPos="20.862000000000002" friendlyPos="true" />  <!--b'Al Shaflahiya Stop 2' -->
+<busStop id="5366" lane="490361702#4_0" startPos="74.17" endPos="89.004" friendlyPos="true" />  <!--b'Al Jassasiya Stop 2' -->
+<busStop id="8339" lane="94053500#3_0" startPos="161.41" endPos="193.692" friendlyPos="true" />  <!--b'Police Training Head' -->
+<busStop id="5256" lane="25935366#5_0" startPos="162.1" endPos="194.51999999999998" friendlyPos="true" />  <!--b'Al Rayyan Road Stop ' -->
+<busStop id="5634" lane="491466217#5_0" startPos="64.695" endPos="77.63399999999999" friendlyPos="true" />  <!--b'Open Ground Stop 1' -->
+<busStop id="3928" lane="658221061#1_0" startPos="62.745" endPos="75.294" friendlyPos="true" />  <!--b'Fauchun Paris' -->
+<busStop id="91500" lane="635944828#0_0" startPos="52.715" endPos="63.258" friendlyPos="true" />  <!--b'Ras bu Fontas Statio' -->
+<busStop id="85667" lane="323048457#12_0" startPos="161.455" endPos="193.746" friendlyPos="true" />  <!--b'Mowasalat HQ' -->
+<busStop id="4025" lane="257973808#0_0" startPos="118.37" endPos="142.044" friendlyPos="true" />  <!--b'Nissan Show Room' -->
+<busStop id="2089" lane="166194495#1_0" startPos="49.96" endPos="59.952" friendlyPos="true" />  <!--b'Labor Office' -->
+<busStop id="2440" lane="217977369#4_0" startPos="101.62" endPos="121.944" friendlyPos="true" />  <!--b'Kharama Cmplex' -->
+</additional>

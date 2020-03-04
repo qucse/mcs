@@ -1,8 +1,11 @@
+from builtins import enumerate
+
 import numpy as np
 import sumolib
 import os
 import math
 import matplotlib.pyplot as plt
+import pyproj
 
 stops = np.genfromtxt("GTFS/stops.txt", delimiter=',',
                       dtype=[('stop_id', 'i8'), ('stop_name', 'S20'), ('stop_lat', 'f8'), (
@@ -12,16 +15,18 @@ tirps = np.genfromtxt("GTFS/trips.txt", delimiter=',',
                       dtype=[('route_id', 'i8'), ('service_id', 'i'), ('trip_id', 'i'), (
                           'direction_id', 'i'), ('shape_id', 'i8'), ('trip_headsign', 'S'), ('trip_short_name', 'S'),
                              ('wheelchair_accessible', 'i'), ('bikes_allowed', 'i')])
+shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8'), ('shape_pt_lat', 'f'),
+                                                                ('shape_pt_lon', 'f'), ('shape_pt_sequence', 'f')])
 
 stop_times = np.genfromtxt("GTFS/stop_times.txt", delimiter=',',
                            dtype=[('trip_id', 'i8'), ('arrival_time', None), ('departure_time', None), (
                                'stop_id', 'i'), ('stop_sequence', 'i8'), ('pickup_type', 'i'),
                                   ('drop_off_type', 'i')])
 
-# net = sumolib.net.readNet('maps/qatar.net.xml')
+net = sumolib.net.readNet('maps/qatar.net.xml') # dont change to shape_110 , infinte loop error at line 136 converttodumo
 
 
-net = sumolib.net.readNet('maps/shape_110.net.xml')
+# net = sumolib.net.readNet('maps/shape_110.net.xml')
 
 
 def haversine_dist(lat1, lng1, lat2, lng2):
@@ -65,7 +70,7 @@ def convert_to_sumo(stop_long, stop_lat, net):
 
 def get_shape_trips(shape_id):
     # given a shape_id all the included stops will be returned
-    return tirps[tirps['shape_id'] == 110]['trip_id']
+    return tirps[tirps['shape_id'] == shape_id]['trip_id']
 
 
 def get_trip_bus_stops_sequence(trip_id):
@@ -81,42 +86,61 @@ def write_additional_file(stops, filename='additional.xml'):
     additional.write(
         '<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">\n')
     for stop in stops:
-        length = float(str(stop[2]))
+        length = stop[2]
         additional.write(
             '<busStop id="' + str(stop[0]) + '" lane="' + str(stop[1]) + '" startPos="' + str(
-                length * 0.5) + '" endPos="' + str(
-                (length * 0.5) + 0.10 * length) + '" friendlyPos="true" />  <!--' + str(
+                length * 0.4) + '" endPos="' + str(
+                (length * 0.5) + min(max(0.10 * length, 200), 0.5 * length)) + '" friendlyPos="true" />  <!--' + str(
                 stop[3]) + ' -->  \n')
 
     additional.write('</additional>')
     additional.close()
 
 
-#
-# sumo_stops = []
-# for stop in stops:
-#     if stop[0] == -1:  # skipping the header
-#         continue
-#     lane_id, lane_length = convert_to_sumo(stop[3], stop[2], net)
-#     stop_id = stop[0]
-#     stop_name = stop[1]
-#     sumo_stops.append(
-#         {"stop_id": stop_id, "lane_id": lane_id, "lane_length": lane_length, "stop_name": stop_name})
+def write_routes(bus_stops_seq, filename='routes.routes.xml'):
+    # a function that writes a sequence of trips with their bus stops to a route file.
+    # bus_stops_seq should be an array where every element has the shape id at pos 0 , at array representing the bus sequence at pos 1
 
+    file = open(filename, 'w+')
+    file.write(
+        '<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">\n')
+    file.write(
+        '<vType id="bus" accel="2.6" decel="4.5" sigma="0" length="12" minGap="3" maxSpeed="70" color="1,1,0" guiShape="bus" personCapacity="25" vClass="bus"/>\n')
+
+    string = ''
+    for trip in bus_stops_seq:
+        string += '<flow id="' + str(trip[0]) + '" line="' + str(trip[
+                                                                     0]) + '" color="1,1,0" begin="0" end="7200" period="100" type="bus" >\n'
+        for (i, stop) in enumerate(trip[1]):
+            string += '<stop busStop="' + str(stop) + '" duration="30" until="' + str((10 + 100 * i)) + '" />\n'
+        string += '</flow>\n'
+    file.write(string)
+    file.write('</routes>')
+
+
+shape_ids = []
+for (i, shape) in enumerate(shapes):
+    if i == 0:
+        continue
+    shape_ids.append(shape[0])
+shape_ids = np.unique(shape_ids)
+
+# trips_stops = []
+# for shape in shape_ids:
+#     trips_stops.append([shape, get_trip_bus_stops_sequence(get_shape_trips(shape)[0])[:, 0]])
 #
-# additional.write(
-#     '<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">\n')
-#
-# for stop in sumo_stops:
-#     length = float(str(stop['lane_length']))
-#     additional.write(
-#         '<busStop id="' + str(stop['stop_id']) + '" lane="' + str(stop['lane_id']) + '" startPos="' + str(
-#             length / 0.5) + '" endPos="' + str((length / 0.5) + 0.10 * length) + '" friendlyPos="true" />  <!--' + str(
-#             stop['stop_name']) + ' -->  \n')
-#
-# additional.write('</additional>')
-# additional.close()
-#
+sumo_stops = []
+for stop in stops:
+    if stop[0] == -1:  # skipping the header
+        continue
+    lane_id, lane_length = convert_to_sumo(stop[3], stop[2], net)
+    stop_id = stop[0]
+    stop_name = stop[1]
+    # sumo_stops.append(
+    #     {"stop_id": stop_id, "lane_id": lane_id, "lane_length": lane_length, "stop_name": stop_name})
+    sumo_stops.append([stop_id, lane_id, lane_length, stop_name.decode()])
+sumo_stops = np.array(sumo_stops)
+##
 # # sumo_stops[0].update({'stop_id': sumo_stops[0]["stop_id"], 'lane_id': sumo_stops[0]["lane_id"],
 # #                       'lane_length': sumo_stops[0]["lane_length"], 'stop_name': sumo_stops[0]["stop_name"],
 # #                       "x": net.getLane(sumo_stops[0]["lane_id"]).getShape()[1][0],
@@ -147,5 +171,3 @@ def write_additional_file(stops, filename='additional.xml'):
 # plt.xlabel("distance (meters)")
 # plt.ylabel("number of stops")
 # plt.show()
-
-

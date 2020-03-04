@@ -1,1 +1,2 @@
-traceExporter.py --fcd-input ../simulation/fcd.xml --gpsdat-output ../simulation/gps-date.txt --persons --ignore-gaps -d 30
+traceExporter.py --fcd-input ../simulation/fcd.xml --gpsdat-output ../simulation/gps-date.txt --persons --ignore-gaps -d 10
+duarouter -n ../maps/qatar.net.xml -r route.routes.xml -a additional.xml -o repaired.routes.xml --ptline-routing --repair -e 100
