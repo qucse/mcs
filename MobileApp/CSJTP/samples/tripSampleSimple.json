@@ -1,0 +1,97 @@
+{
+	"TripPlan": {
+		"date": 1585558680000,
+		"origin": {
+			"name": "Origin",
+			"lon": 51.491031646728516,
+			"lat": 25.372723456709817,
+			"orig": "",
+			"vertexType": "NORMAL"
+		},
+		"destination": {
+			"name": "Destination",
+			"lon": 51.47300720214843,
+			"lat": 25.185680253645092,
+			"orig": "",
+			"vertexType": "NORMAL"
+		},
+		"itineraries": {
+			"duration": 7533,
+			"startTime": 1585558936000,
+			"endTime": 1585566469000,
+			"walkTime": 1896,
+			"transitTime": 5460,
+			"waitingTime": 177,
+			"walkDistance": 2415.3481729155783,
+			"walkLimitExceeded": false,
+			"elevationLost": 0.0,
+			"elevationGained": 0.0,
+			"transfers": 1,
+			"legs": {
+				"startTime": 1585559990000,
+				"endTime": 1585562870000,
+				"departureDelay": 0,
+				"arrivalDelay": 0,
+				"realTime": false,
+				"distance": 12147.230108032087,
+				"pathway": false,
+				"mode": "BUS",
+				"route": "102X",
+				"agencyName": "Mowasalat",
+				"agencyUrl": "http://www.kentkart.com",
+				"agencyTimeZoneOffset": 10800000,
+				"routeColor": "AC552E",
+				"routeType": 3,
+				"routeId": "1:01023",
+				"routeTextColor": "FFFFFF",
+				"interlineWithPreviousLeg": false,
+				"headsign": "Al Khor Community - Al Ghanim Bus Station via University Road",
+				"agencyId": "1",
+				"tripId": "1:15296",
+				"serviceDate": "20200330",
+				"fromBusStop": {
+					"name": "University R/A",
+					"stopId": "1:6873",
+					"lon": 51.49673,
+					"lat": 25.3668,
+					"arrival": 1585559989000,
+					"departure": 1585559990000,
+					"stopIndex": 22,
+					"stopSequence": 23,
+					"vertexType": "TRANSIT",
+					"boardAlightType": "DEFAULT"
+				},
+				"toBusStop": {
+					"name": "Al Doha Al Jadeed Street",
+					"stopId": "1:1505",
+					"lon": 51.5304792,
+					"lat": 25.2794941,
+					"arrival": 1585562870000,
+					"departure": 1585562870000,
+					"stopIndex": 34,
+					"stopSequence": 35,
+					"vertexType": "TRANSIT",
+					"boardAlightType": "DEFAULT"
+				},
+				"routeShortName": "102X",
+				"routeLongName": "Al Ghanim Bus Station-Dolphin",
+				"rentedBike": false,
+				"flexDrtAdvanceBookMin": 0.0,
+				"duration": 2880.0,
+				"transitLeg": true,
+				"steps": {
+					"distance": 276.13,
+					"relativeDirection": "DEPART",
+					"streetName": "service road",
+					"absoluteDirection": "EAST",
+					"stayOn": false,
+					"area": false,
+					"bogusName": false,
+					"lon": 51.492604,
+					"lat": 25.372575,
+					"elevation": []
+				}
+			}
+		}
+	}
+}
