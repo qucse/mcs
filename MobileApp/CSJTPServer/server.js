@@ -1,3 +1,4 @@
+const config = require('./configurations');
 const express = require('express'),
 	morgan = require('morgan'),
 	mongoose = require('mongoose'),
@@ -8,13 +9,14 @@ const app = express();
 app.use(morgan('dev'));
 app.use(express.json());
 
-const port = 1504;
+const port = config.port;
 
 app.use('/api', routes);
 
 const dbConnection = mongoose
 	.connect('mongodb://localhost:27017/CSJTP', {
-		useNewUrlParser: true
+		useNewUrlParser: true,
+		useUnifiedTopology: true
 	})
 	.then(() => {
 		app.listen(port, () => {

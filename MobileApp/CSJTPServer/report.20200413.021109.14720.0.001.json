@@ -1,0 +1,464 @@
+
+{
+  "header": {
+    "reportVersion": 1,
+    "event": "Allocation failed - JavaScript heap out of memory",
+    "trigger": "FatalError",
+    "filename": "report.20200413.021109.14720.0.001.json",
+    "dumpEventTime": "2020-04-13T02:11:09Z",
+    "dumpEventTimeStamp": "1586733069361",
+    "processId": 14720,
+    "cwd": "D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer",
+    "commandLine": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\server.js"
+    ],
+    "nodejsVersion": "v12.14.0",
+    "wordSize": 64,
+    "arch": "x64",
+    "platform": "win32",
+    "componentVersions": {
+      "node": "12.14.0",
+      "v8": "7.7.299.13-node.16",
+      "uv": "1.33.1",
+      "zlib": "1.2.11",
+      "brotli": "1.0.7",
+      "ares": "1.15.0",
+      "modules": "72",
+      "nghttp2": "1.39.2",
+      "napi": "5",
+      "llhttp": "1.1.4",
+      "http_parser": "2.8.0",
+      "openssl": "1.1.1d",
+      "cldr": "35.1",
+      "icu": "64.2",
+      "tz": "2019c",
+      "unicode": "12.1"
+    },
+    "release": {
+      "name": "node",
+      "lts": "Erbium",
+      "headersUrl": "https://nodejs.org/download/release/v12.14.0/node-v12.14.0-headers.tar.gz",
+      "sourceUrl": "https://nodejs.org/download/release/v12.14.0/node-v12.14.0.tar.gz",
+      "libUrl": "https://nodejs.org/download/release/v12.14.0/win-x64/node.lib"
+    },
+    "osName": "Windows_NT",
+    "osRelease": "10.0.18363",
+    "osVersion": "Windows 10 Home",
+    "osMachine": "x86_64",
+    "cpus": [
+      {
+        "model": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+        "speed": 2496,
+        "user": 6730703,
+        "nice": 0,
+        "sys": 6117328,
+        "idle": 75216812,
+        "irq": 1571968
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+        "speed": 2496,
+        "user": 8866046,
+        "nice": 0,
+        "sys": 5197687,
+        "idle": 74000765,
+        "irq": 105406
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+        "speed": 2496,
+        "user": 6943515,
+        "nice": 0,
+        "sys": 3954203,
+        "idle": 77166781,
+        "irq": 50468
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz",
+        "speed": 2496,
+        "user": 7492312,
+        "nice": 0,
+        "sys": 4232218,
+        "idle": 76339968,
+        "irq": 46843
+      }
+    ],
+    "networkInterfaces": [
+      {
+        "name": "VirtualBox Host-Only Network",
+        "internal": false,
+        "mac": "0a:00:27:00:00:08",
+        "address": "fe80::3def:4a9c:c049:43ad",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 8
+      },
+      {
+        "name": "VirtualBox Host-Only Network",
+        "internal": false,
+        "mac": "0a:00:27:00:00:08",
+        "address": "192.168.56.1",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "VirtualBox Host-Only Network #2",
+        "internal": false,
+        "mac": "0a:00:27:00:00:09",
+        "address": "fe80::e43a:1d95:5d6:2fa8",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 9
+      },
+      {
+        "name": "VirtualBox Host-Only Network #2",
+        "internal": false,
+        "mac": "0a:00:27:00:00:09",
+        "address": "192.168.99.1",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "Wi-Fi",
+        "internal": false,
+        "mac": "c8:3d:d4:a0:41:cd",
+        "address": "fe80::e0e9:f9df:7e2d:6275",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 16
+      },
+      {
+        "name": "Wi-Fi",
+        "internal": false,
+        "mac": "c8:3d:d4:a0:41:cd",
+        "address": "192.168.100.12",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4"
+      }
+    ],
+    "host": "DESKTOP-TBEG0A2"
+  },
+  "javascriptStack": {
+    "message": "No stack.",
+    "stack": [
+      "Unavailable."
+    ]
+  },
+  "nativeStack": [
+    {
+      "pc": "0x00007ff62a8b1729",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+10873"
+    },
+    {
+      "pc": "0x00007ff62a8b5b4c",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+28316"
+    },
+    {
+      "pc": "0x00007ff62a8b4b08",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+24152"
+    },
+    {
+      "pc": "0x00007ff62a9a369b",
+      "symbol": "v8::base::CPU::has_sse+37723"
+    },
+    {
+      "pc": "0x00007ff62b1a82de",
+      "symbol": "v8::Isolate::ReportExternalAllocationLimitReached+94"
+    },
+    {
+      "pc": "0x00007ff62b190321",
+      "symbol": "v8::SharedArrayBuffer::Externalize+833"
+    },
+    {
+      "pc": "0x00007ff62b05dbec",
+      "symbol": "v8::internal::Heap::EphemeronKeyWriteBarrierFromCode+1436"
+    },
+    {
+      "pc": "0x00007ff62b068f90",
+      "symbol": "v8::internal::Heap::ProtectUnprotectedMemoryChunks+1312"
+    },
+    {
+      "pc": "0x00007ff62b065ac4",
+      "symbol": "v8::internal::Heap::PageFlagsAreConsistent+3204"
+    },
+    {
+      "pc": "0x00007ff62b05b353",
+      "symbol": "v8::internal::Heap::CollectGarbage+1283"
+    },
+    {
+      "pc": "0x00007ff62b059b24",
+      "symbol": "v8::internal::Heap::AddRetainedMap+2356"
+    },
+    {
+      "pc": "0x00007ff62b07adf5",
+      "symbol": "v8::internal::Factory::NewFillerObject+53"
+    },
+    {
+      "pc": "0x00007ff62ade6e19",
+      "symbol": "v8::internal::interpreter::JumpTableTargetOffsets::iterator::operator=+4057"
+    },
+    {
+      "pc": "0x00007ff62b5d404d",
+      "symbol": "v8::internal::SetupIsolateDelegate::SetupHeap+567949"
+    },
+    {
+      "pc": "0x000000911205de9a",
+      "symbol": ""
+    }
+  ],
+  "javascriptHeap": {
+    "totalMemory": 2152095744,
+    "totalCommittedMemory": 2152095744,
+    "usedMemory": 2130970992,
+    "availableMemory": 50378768,
+    "memoryLimit": 2197815296,
+    "heapSpaces": {
+      "read_only_space": {
+        "memorySize": 262144,
+        "committedMemory": 262144,
+        "capacity": 261872,
+        "used": 32296,
+        "available": 229576
+      },
+      "new_space": {
+        "memorySize": 2097152,
+        "committedMemory": 2097152,
+        "capacity": 1047488,
+        "used": 226104,
+        "available": 821384
+      },
+      "old_space": {
+        "memorySize": 2110369792,
+        "committedMemory": 2110369792,
+        "capacity": 2094677776,
+        "used": 2092117008,
+        "available": 2560768
+      },
+      "code_space": {
+        "memorySize": 688128,
+        "committedMemory": 688128,
+        "capacity": 459584,
+        "used": 459584,
+        "available": 0
+      },
+      "map_space": {
+        "memorySize": 1052672,
+        "committedMemory": 1052672,
+        "capacity": 605200,
+        "used": 605200,
+        "available": 0
+      },
+      "large_object_space": {
+        "memorySize": 37576704,
+        "committedMemory": 37576704,
+        "capacity": 37527248,
+        "used": 37527248,
+        "available": 0
+      },
+      "code_large_object_space": {
+        "memorySize": 49152,
+        "committedMemory": 49152,
+        "capacity": 3552,
+        "used": 3552,
+        "available": 0
+      },
+      "new_large_object_space": {
+        "memorySize": 0,
+        "committedMemory": 0,
+        "capacity": 1047488,
+        "used": 0,
+        "available": 1047488
+      }
+    }
+  },
+  "resourceUsage": {
+    "userCpuSeconds": 119.875,
+    "kernelCpuSeconds": 6.875,
+    "cpuConsumptionPercent": 142.416,
+    "maxRss": 2227507200,
+    "pageFaults": {
+      "IORequired": 718885,
+      "IONotRequired": 0
+    },
+    "fsActivity": {
+      "reads": 836,
+      "writes": 188312
+    }
+  },
+  "libuv": [
+  ],
+  "environmentVariables": {
+    "=::": "::\\",
+    "=C:": "C:\\",
+    "ALLUSERSPROFILE": "C:\\ProgramData",
+    "APPDATA": "C:\\Users\\s7s\\AppData\\Roaming",
+    "ChocolateyInstall": "C:\\ProgramData\\chocolatey",
+    "ChocolateyLastPathUpdate": "132306180931974426",
+    "COLORTERM": "true",
+    "CommonProgramFiles": "C:\\Program Files\\Common Files",
+    "CommonProgramFiles(x86)": "C:\\Program Files (x86)\\Common Files",
+    "CommonProgramW6432": "C:\\Program Files\\Common Files",
+    "COMPOSE_CONVERT_WINDOWS_PATHS": "true",
+    "COMPUTERNAME": "DESKTOP-TBEG0A2",
+    "ComSpec": "C:\\Windows\\system32\\cmd.exe",
+    "DEBUG_COLORS": "true",
+    "DOCKER_CERT_PATH": "C:\\Users\\s7s\\.docker\\machine\\machines\\default",
+    "DOCKER_HOST": "tcp://192.168.99.100:2376",
+    "DOCKER_MACHINE_NAME": "default",
+    "DOCKER_TLS_VERIFY": "1",
+    "DOCKER_TOOLBOX_INSTALL_PATH": "D:\\Docker Toolbox",
+    "DriverData": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "FORCE_COLOR": "true",
+    "FPS_BROWSER_APP_PROFILE_STRING": "Internet Explorer",
+    "FPS_BROWSER_USER_PROFILE_STRING": "Default",
+    "HOMEDRIVE": "C:",
+    "HOMEPATH": "\\Users\\s7s",
+    "IDEA_INITIAL_DIRECTORY": "C:\\Windows\\System32",
+    "JAVA_HOME": "C:\\Program Files\\Java\\jdk1.8.0_241",
+    "LOCALAPPDATA": "C:\\Users\\s7s\\AppData\\Local",
+    "LOGONSERVER": "\\\\DESKTOP-TBEG0A2",
+    "MOCHA_COLORS": "1",
+    "NO_PROXY": "192.168.99.100",
+    "npm_config_color": "always",
+    "NUMBER_OF_PROCESSORS": "4",
+    "OneDrive": "C:\\Users\\Hussein Aly\\OneDrive",
+    "OneDriveConsumer": "C:\\Users\\Hussein Aly\\OneDrive",
+    "OS": "Windows_NT",
+    "Path": "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files\\nodejs\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\;C:\\Program Files (x86)\\Eclipse\\Sumo\\tools\\;D:\\Anaconda\\Library\\bin;D:\\Anaconda;D:\\Anaconda\\Scripts;C:\\Program Files\\Git\\cmd;C:\\Users\\Hussein Aly\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Hussein Aly\\AppData\\Local\\atom\\bin;C:\\Users\\Hussein Aly\\AppData\\Roaming\\npm;C:\\Users\\s7s\\AppData\\Local\\atom\\bin;D:\\Anaconda;D:\\Anaconda\\Scripts;D:\\Anaconda\\Library\\bin;C:\\php-7.4.2-Win32-vc15-x64;D:\\Docker Toolbox;D:\\programs\\apache-maven-3.6.3-bin\\apache-maven-3.6.3\\bin;",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "PROCESSOR_ARCHITECTURE": "AMD64",
+    "PROCESSOR_IDENTIFIER": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+    "PROCESSOR_LEVEL": "6",
+    "PROCESSOR_REVISION": "9e09",
+    "ProgramData": "C:\\ProgramData",
+    "ProgramFiles": "C:\\Program Files",
+    "ProgramFiles(x86)": "C:\\Program Files (x86)",
+    "ProgramW6432": "C:\\Program Files",
+    "PSModulePath": "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules",
+    "PUBLIC": "C:\\Users\\Public",
+    "PYTHONPATH": "C:\\Program Files (x86)\\Eclipse\\Sumo\\tools\\",
+    "SESSIONNAME": "Console",
+    "SUMO_HOME": "C:\\Program Files (x86)\\Eclipse\\Sumo\\",
+    "SystemDrive": "C:",
+    "SystemRoot": "C:\\Windows",
+    "TEMP": "C:\\Users\\s7s\\AppData\\Local\\Temp",
+    "TMP": "C:\\Users\\s7s\\AppData\\Local\\Temp",
+    "USERDOMAIN": "DESKTOP-TBEG0A2",
+    "USERDOMAIN_ROAMINGPROFILE": "DESKTOP-TBEG0A2",
+    "USERNAME": "Hussein Aly",
+    "USERPROFILE": "C:\\Users\\s7s",
+    "VBOX_MSI_INSTALL_PATH": "C:\\Program Files\\Oracle\\VirtualBox\\",
+    "VIPSHOME": "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release",
+    "windir": "C:\\Windows"
+  },
+  "sharedObjects": [
+    "C:\\Program Files\\nodejs\\node.exe",
+    "C:\\Windows\\SYSTEM32\\ntdll.dll",
+    "C:\\Windows\\System32\\KERNEL32.DLL",
+    "C:\\Windows\\System32\\KERNELBASE.dll",
+    "C:\\Windows\\System32\\WS2_32.dll",
+    "C:\\Windows\\System32\\RPCRT4.dll",
+    "C:\\Windows\\SYSTEM32\\dbghelp.dll",
+    "C:\\Windows\\System32\\ADVAPI32.dll",
+    "C:\\Windows\\System32\\ucrtbase.dll",
+    "C:\\Windows\\System32\\msvcrt.dll",
+    "C:\\Windows\\System32\\sechost.dll",
+    "C:\\Windows\\System32\\USER32.dll",
+    "C:\\Windows\\System32\\win32u.dll",
+    "C:\\Windows\\System32\\GDI32.dll",
+    "C:\\Windows\\System32\\gdi32full.dll",
+    "C:\\Windows\\System32\\msvcp_win.dll",
+    "C:\\Windows\\System32\\PSAPI.DLL",
+    "C:\\Windows\\System32\\CRYPT32.dll",
+    "C:\\Windows\\System32\\MSASN1.dll",
+    "C:\\Windows\\System32\\bcrypt.dll",
+    "C:\\Windows\\SYSTEM32\\IPHLPAPI.DLL",
+    "C:\\Windows\\SYSTEM32\\USERENV.dll",
+    "C:\\Windows\\System32\\profapi.dll",
+    "C:\\Windows\\SYSTEM32\\WINMM.dll",
+    "C:\\Windows\\SYSTEM32\\WINMMBASE.dll",
+    "C:\\Windows\\System32\\cfgmgr32.dll",
+    "C:\\Windows\\System32\\bcryptPrimitives.dll",
+    "C:\\Windows\\System32\\IMM32.DLL",
+    "C:\\Windows\\System32\\powrprof.dll",
+    "C:\\Windows\\System32\\UMPDC.dll",
+    "C:\\Windows\\SYSTEM32\\CRYPTBASE.DLL",
+    "C:\\Windows\\system32\\uxtheme.dll",
+    "C:\\Windows\\System32\\combase.dll",
+    "C:\\Windows\\system32\\mswsock.dll",
+    "C:\\Windows\\System32\\kernel.appcore.dll",
+    "C:\\Windows\\System32\\NSI.dll",
+    "C:\\Windows\\SYSTEM32\\dhcpcsvc6.DLL",
+    "C:\\Windows\\SYSTEM32\\dhcpcsvc.DLL",
+    "C:\\Windows\\SYSTEM32\\DNSAPI.dll",
+    "C:\\Windows\\system32\\napinsp.dll",
+    "C:\\Windows\\system32\\pnrpnsp.dll",
+    "C:\\Windows\\System32\\winrnr.dll",
+    "C:\\Windows\\system32\\NLAapi.dll",
+    "C:\\Windows\\system32\\wshbth.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\sharp.node",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libglib-2.0-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libvips-42.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libvips-cpp.dll",
+    "C:\\Windows\\System32\\ole32.dll",
+    "C:\\Windows\\System32\\SHELL32.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libcairo-2.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libintl-8.dll",
+    "C:\\Windows\\System32\\shcore.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libexif-12.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libexpat-1.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libfontconfig-1.dll",
+    "C:\\Windows\\System32\\windows.storage.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgif-7.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgio-2.0-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgmodule-2.0-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgobject-2.0-0.dll",
+    "C:\\Windows\\System32\\shlwapi.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libjpeg-62.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\liblcms2-2.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\liborc-0.4-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libpango-1.0-0.dll",
+    "C:\\Windows\\System32\\cryptsp.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libpangoft2-1.0-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libpng16-16.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libwebp-7.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libwebpdemux-2.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libwebpmux-3.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libz1.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libiconv-2.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libfreetype-6.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libpixman-1-0.dll",
+    "C:\\Windows\\SYSTEM32\\MSIMG32.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libffi-7.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libfribidi-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libharfbuzz.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgsf-1-114.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libtiff-5.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\librsvg-2-2.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgcc_s_seh-1.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libgdk_pixbuf-2.0-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libxml2-2.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libpangocairo-1.0-0.dll",
+    "\\\\?\\D:\\Qu Y4S2\\senior\\mcssp\\MobileApp\\CSJTPServer\\node_modules\\sharp\\build\\Release\\libpangowin32-1.0-0.dll",
+    "C:\\Windows\\System32\\rasadhlp.dll",
+    "C:\\Windows\\System32\\fwpuclnt.dll"
+  ]
+}

@@ -2,6 +2,7 @@
   package="com.csjtp">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
       android:name=".MainApplication"
@@ -13,7 +14,7 @@
       android:theme="@style/AppTheme">
       <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyDh8ORUL78HTXAEsP5KCHdqY7mrwjfKeIs"/>
+        android:value="AIzaSyDblo66nONoE8GRW79L-rB1CHveT4EWleE"/>
       <activity
         android:name=".MainActivity"
         android:label="@string/app_name"

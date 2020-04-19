@@ -1,0 +1,297 @@
+==================================================starting conversion===================================================
+starting on shape 0 of 110
+shape 110 done with difference 0.75%, remaining 109, took 00:00:03.07, remaining 0:05:34.677654
+starting on shape 1 of 110
+shape 120 done with difference 1.41%, remaining 108, took 00:00:02.67, remaining 0:05:10.088360
+starting on shape 2 of 110
+shape 121 done with difference 5.26%, remaining 107, took 00:00:02.77, remaining 0:05:01.972313
+starting on shape 3 of 110
+shape 200 done with difference 46.42%, remaining 106, took 00:00:02.76, remaining 0:04:56.118169
+starting on shape 4 of 110
+shape 201 done with difference 33.89%, remaining 105, took 00:00:02.82, remaining 0:04:54.554546
+starting on shape 5 of 110
+shape 210 done with difference 0.96%, remaining 104, took 00:00:03.14, remaining 0:05:08.922985
+starting on shape 6 of 110
+shape 211 done with difference 0.24%, remaining 103, took 00:00:03.29, remaining 0:05:22.468048
+starting on shape 7 of 110
+shape 220 done with difference 1.42%, remaining 102, took 00:00:03.13, remaining 0:05:19.317194
+starting on shape 8 of 110
+shape 310 done with difference 24.44%, remaining 101, took 00:00:03.90, remaining 0:05:55.254794
+starting on shape 9 of 110
+shape 320 done with difference 1.34%, remaining 100, took 00:00:03.61, remaining 0:05:56.577154
+starting on shape 10 of 110
+shape 321 done with difference 1.01%, remaining 99, took 00:00:03.23, remaining 0:05:36.623375
+starting on shape 11 of 110
+shape 330 done with difference 22.25%, remaining 98, took 00:00:04.15, remaining 0:06:10.189079
+starting on shape 12 of 110
+shape 331 done with difference 25.49%, remaining 97, took 00:00:04.58, remaining 0:06:45.533606
+starting on shape 13 of 110
+shape 340 done with difference 29.39%, remaining 96, took 00:00:05.51, remaining 0:07:44.998461
+starting on shape 14 of 110
+shape 400 done with difference 30.17%, remaining 95, took 00:00:04.02, remaining 0:07:00.951667
+starting on shape 15 of 110
+shape 401 done with difference 29.4%, remaining 94, took 00:00:03.21, remaining 0:05:59.124171
+starting on shape 16 of 110
+shape 410 done with difference 11.42%, remaining 93, took 00:00:04.62, remaining 0:06:32.658242
+starting on shape 17 of 110
+shape 420 done with difference 30.1%, remaining 92, took 00:00:03.27, remaining 0:05:44.492299
+starting on shape 18 of 110
+shape 421 done with difference 41.57%, remaining 91, took 00:00:03.44, remaining 0:05:26.679652
+starting on shape 19 of 110
+shape 430 done with difference 13.31%, remaining 90, took 00:00:05.43, remaining 0:06:45.738835
+starting on shape 20 of 110
+shape 450 done with difference 61.77%, remaining 89, took 00:00:04.07, remaining 0:06:21.904233
+starting on shape 21 of 110
+shape 490 done with difference 0.6%, remaining 88, took 00:00:04.12, remaining 0:06:10.034130
+starting on shape 22 of 110
+shape 550 done with difference 6.85%, remaining 87, took 00:00:03.87, remaining 0:05:51.473209
+starting on shape 23 of 110
+shape 560 done with difference 15.82%, remaining 86, took 00:00:04.73, remaining 0:06:17.071214
+starting on shape 24 of 110
+shape 570 done with difference 13.41%, remaining 85, took 00:00:06.06, remaining 0:07:23.828561
+starting on shape 25 of 110
+shape 750 done with difference 2.27%, remaining 84, took 00:00:02.37, remaining 0:05:18.720352
+starting on shape 26 of 110
+shape 760 done with difference 0.65%, remaining 83, took 00:00:02.90, remaining 0:04:37.839978
+starting on shape 27 of 110
+shape 940 done with difference 6.98%, remaining 82, took 00:00:03.49, remaining 0:04:40.536831
+starting on shape 28 of 110
+shape 1000 done with difference 0.17%, remaining 81, took 00:00:04.89, remaining 0:05:36.700094
+starting on shape 29 of 110
+shape 1001 done with difference 1.22%, remaining 80, took 00:00:04.21, remaining 0:05:34.685471
+starting on shape 30 of 110
+shape 1010 done with difference 0.04%, remaining 79, took 00:00:05.25, remaining 0:06:12.617080
+starting on shape 31 of 110
+shape 1011 done with difference 1.35%, remaining 78, took 00:00:04.44, remaining 0:05:57.008483
+starting on shape 32 of 110
+shape 1020 done with difference 31.34%, remaining 77, took 00:00:04.32, remaining 0:05:42.352076
+starting on shape 33 of 110
+shape 1021 done with difference 20.34%, remaining 76, took 00:00:04.11, remaining 0:05:25.281497
+starting on shape 34 of 110
+shape 1040 done with difference 21.51%, remaining 75, took 00:00:04.42, remaining 0:05:26.371074
+starting on shape 35 of 110
+shape 1041 done with difference 9.46%, remaining 74, took 00:00:04.51, remaining 0:05:27.754809
+starting on shape 36 of 110
+shape 1090 done with difference 52.31%, remaining 73, took 00:00:03.60, remaining 0:04:53.230325
+starting on shape 37 of 110
+shape 1091 done with difference 93.68%, remaining 72, took 00:00:03.30, remaining 0:04:23.296004
+starting on shape 38 of 110
+shape 1190 done with difference 83.04%, remaining 71, took 00:00:04.47, remaining 0:04:48.520699
+starting on shape 39 of 110
+shape 1230 done with difference 127.8%, remaining 70, took 00:00:02.60, remaining 0:03:53.080460
+starting on shape 40 of 110
+shape 1231 done with difference 6.59%, remaining 69, took 00:00:02.56, remaining 0:03:23.177082
+starting on shape 41 of 110
+shape 1290 done with difference 139.55%, remaining 68, took 00:00:03.86, remaining 0:03:51.463826
+starting on shape 42 of 110
+shape 1360 done with difference 1.33%, remaining 67, took 00:00:03.82, remaining 0:04:01.924685
+starting on shape 43 of 110
+shape 1361 done with difference 0.11%, remaining 66, took 00:00:04.94, remaining 0:04:42.333057
+starting on shape 44 of 110
+shape 1370 done with difference 0.24%, remaining 65, took 00:00:04.00, remaining 0:04:29.118215
+starting on shape 45 of 110
+shape 1371 done with difference 0.08%, remaining 64, took 00:00:04.04, remaining 0:04:21.785553
+starting on shape 46 of 110
+shape 1560 done with difference 2.99%, remaining 63, took 00:00:03.29, remaining 0:03:52.524963
+starting on shape 47 of 110
+shape 1561 done with difference 17.39%, remaining 62, took 00:00:03.20, remaining 0:03:33.549316
+starting on shape 48 of 110
+shape 1700 done with difference 25.61%, remaining 61, took 00:00:04.15, remaining 0:03:51.482264
+starting on shape 49 of 110
+shape 1701 done with difference 46.15%, remaining 60, took 00:00:04.32, remaining 0:04:03.421419
+starting on shape 50 of 110
+shape 1720 done with difference 8.93%, remaining 59, took 00:00:02.81, remaining 0:03:22.603297
+starting on shape 51 of 110
+shape 1721 done with difference 29.95%, remaining 58, took 00:00:02.91, remaining 0:03:04.007142
+starting on shape 52 of 110
+shape 2010 done with difference 0.86%, remaining 57, took 00:00:02.52, remaining 0:02:42.111501
+starting on shape 53 of 110
+shape 2011 done with difference 0.76%, remaining 56, took 00:00:02.58, remaining 0:02:31.744663
+starting on shape 54 of 110
+shape 3000 done with difference 31.39%, remaining 55, took 00:00:03.46, remaining 0:02:49.675206
+starting on shape 55 of 110
+shape 3001 done with difference 60.25%, remaining 54, took 00:00:03.33, remaining 0:02:53.143816
+starting on shape 56 of 110
+shape 3010 done with difference 23.04%, remaining 53, took 00:00:04.41, remaining 0:03:21.705185
+starting on shape 57 of 110
+shape 3040 done with difference 67.0%, remaining 52, took 00:00:03.97, remaining 0:03:22.063230
+starting on shape 58 of 110
+shape 3330 done with difference 0.64%, remaining 51, took 00:00:03.59, remaining 0:03:10.612005
+starting on shape 59 of 110
+shape 3331 done with difference 0.2%, remaining 50, took 00:00:03.63, remaining 0:03:04.278330
+starting on shape 60 of 110
+shape 7270 done with difference 0.1%, remaining 49, took 00:00:06.67, remaining 0:04:13.687429
+starting on shape 61 of 110
+shape 7271 done with difference 0.14%, remaining 48, took 00:00:06.49, remaining 0:04:40.021779
+starting on shape 62 of 110
+shape 7370 done with difference 38.74%, remaining 47, took 00:00:03.02, remaining 0:03:27.981662
+starting on shape 63 of 110
+shape 7371 done with difference 118.38%, remaining 46, took 00:00:02.91, remaining 0:02:48.770414
+starting on shape 64 of 110
+shape 7470 done with difference 2.69%, remaining 45, took 00:00:03.77, remaining 0:02:47.325422
+starting on shape 65 of 110
+shape 7570 done with difference 0.83%, remaining 44, took 00:00:03.55, remaining 0:02:39.899925
+starting on shape 66 of 110
+shape 7770 done with difference 0.8%, remaining 43, took 00:00:05.46, remaining 0:03:15.491558
+starting on shape 67 of 110
+shape 10010 done with difference 1.16%, remaining 42, took 00:00:03.62, remaining 0:02:51.403748
+starting on shape 68 of 110
+shape 10020 done with difference 19.72%, remaining 41, took 00:00:02.31, remaining 0:02:11.092584
+starting on shape 69 of 110
+shape 10230 done with difference 111.77%, remaining 40, took 00:00:03.84, remaining 0:02:20.797949
+starting on shape 70 of 110
+shape 10231 done with difference 94.92%, remaining 39, took 00:00:04.18, remaining 0:02:30.095002
+starting on shape 71 of 110
+shape 10430 done with difference 20.22%, remaining 38, took 00:00:04.08, remaining 0:02:30.551568
+starting on shape 72 of 110
+shape 10431 done with difference 8.07%, remaining 37, took 00:00:04.23, remaining 0:02:31.562493
+starting on shape 73 of 110
+shape 11920 done with difference 10.68%, remaining 36, took 00:00:02.32, remaining 0:01:55.557648
+starting on shape 74 of 110
+shape 11930 done with difference 26.33%, remaining 35, took 00:00:02.49, remaining 0:01:39.746212
+starting on shape 75 of 110
+shape 12920 done with difference 12.95%, remaining 34, took 00:00:02.40, remaining 0:01:29.206216
+starting on shape 76 of 110
+shape 12930 done with difference 21.28%, remaining 33, took 00:00:02.45, remaining 0:01:23.691139
+starting on shape 77 of 110
+shape 13610 done with difference 0.21%, remaining 32, took 00:00:03.53, remaining 0:01:37.127540
+starting on shape 78 of 110
+shape 13611 done with difference 0.34%, remaining 31, took 00:00:04.06, remaining 0:01:50.051162
+starting on shape 79 of 110
+shape 13710 done with difference 1.72%, remaining 30, took 00:00:03.70, remaining 0:01:48.776620
+starting on shape 80 of 110
+shape 13711 done with difference 0.02%, remaining 29, took 00:00:03.99, remaining 0:01:50.473161
+starting on shape 81 of 110
+shape 15610 done with difference 33.51%, remaining 28, took 00:00:03.93, remaining 0:01:48.353224
+starting on shape 82 of 110
+shape 15611 done with difference 23.38%, remaining 27, took 00:00:03.47, remaining 0:01:39.050144
+starting on shape 83 of 110
+shape 31020 done with difference 20.36%, remaining 26, took 00:00:02.85, remaining 0:01:24.676151
+starting on shape 84 of 110
+shape 31030 done with difference 14.42%, remaining 25, took 00:00:02.52, remaining 0:01:12.233208
+starting on shape 85 of 110
+shape 34020 done with difference 18.24%, remaining 24, took 00:00:02.81, remaining 0:01:08.343651
+starting on shape 86 of 110
+shape 34030 done with difference 9.97%, remaining 23, took 00:00:02.54, remaining 0:01:01.913244
+starting on shape 87 of 110
+shape 41020 done with difference 12.72%, remaining 22, took 00:00:02.79, remaining 0:01:00.265410
+starting on shape 88 of 110
+shape 41030 done with difference 11.76%, remaining 21, took 00:00:02.63, remaining 0:00:56.360284
+starting on shape 89 of 110
+shape 43020 done with difference 13.78%, remaining 20, took 00:00:02.79, remaining 0:00:54.695865
+starting on shape 90 of 110
+shape 43030 done with difference 7.86%, remaining 19, took 00:00:02.64, remaining 0:00:51.068845
+starting on shape 91 of 110
+shape 45020 done with difference 22.86%, remaining 18, took 00:00:02.44, remaining 0:00:46.187145
+starting on shape 92 of 110
+shape 55020 done with difference 42.25%, remaining 17, took 00:00:02.33, remaining 0:00:41.640999
+starting on shape 93 of 110
+shape 56020 done with difference 42.81%, remaining 16, took 00:00:02.64, remaining 0:00:40.687738
+starting on shape 94 of 110
+shape 57020 done with difference 15.84%, remaining 15, took 00:00:02.52, remaining 0:00:37.993129
+starting on shape 95 of 110
+<class 'traceback'>
+problem at shape 95 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 96 of 110
+<class 'traceback'>
+problem at shape 96 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+starting on shape 97 of 110
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+<class 'traceback'>
+problem at shape 97 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 98 of 110
+<class 'traceback'>
+problem at shape 98 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 99 of 110
+<class 'traceback'>
+problem at shape 99 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 100 of 110
+<class 'traceback'>
+problem at shape 100 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 101 of 110
+<class 'traceback'>
+problem at shape 101 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+starting on shape 102 of 110
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+<class 'traceback'>
+problem at shape 102 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 103 of 110
+<class 'traceback'>
+problem at shape 103 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 104 of 110
+<class 'traceback'>
+problem at shape 104 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+starting on shape 105 of 110
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+<class 'traceback'>
+problem at shape 105 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 106 of 110
+<class 'traceback'>
+problem at shape 106 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 107 of 110
+<class 'traceback'>
+problem at shape 107 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 108 of 110
+<class 'traceback'>
+problem at shape 108 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+starting on shape 109 of 110
+<class 'traceback'>
+problem at shape 109 with error index 0 is out of bounds for axis 0 with size 0
+Traceback (most recent call last):
+  File "D:/Qu Y4S2/senior/mcssp/Bus Route Detection/MapMatching/CRM_using_api.py", line 59, in main
+    trip_id = trip_shapes[trip_shapes[:, 1] == shape_id][0][0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+finished converting, took 00:05:43.76 , with avg difference of 22.58 %

@@ -1,0 +1,10 @@
+Loading net-file from 'D:\Qu Y4S2\senior\mcssp\busConvert\testing sim\full_system_testing_1_route\../../maps/qatar_bus.net.xml'... done (88977ms).
+Loading additional-files from 'D:\Qu Y4S2\senior\mcssp\busConvert\testing sim\full_system_testing_1_route\additional3.xml'... done (1728ms).
+Loading done.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Simulation started with time: 0.00
+Simulation ended at time: 10000.00
+Reason: The final simulation step has been reached.
