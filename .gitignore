@@ -13,3 +13,5 @@ gps-date.txt
 *.rar
 qatar.xml
 /busConvert/qsim/gps-data2.txt
+busConvert/qsim/gps_data.csv
+busConvert/qsim/gps-date2.txt
