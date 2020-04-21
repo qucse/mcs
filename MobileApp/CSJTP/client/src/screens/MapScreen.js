@@ -1,15 +1,22 @@
-import React, { useState } from 'react';
-import { StyleSheet, View } from 'react-native';
+/**
+ * - @file:  
+ * - @description:  
+ * 
+ * - @author: Abdelmonem Mohamed
+ */
+
+import React, { useState, useEffect } from 'react';
+import { View, Dimensions } from 'react-native';
 import GetLocation from 'react-native-get-location';
 import { Fab, Button, Icon, Toast } from 'native-base';
 import InputForm from '../components/InputForm';
 import Map from '../components/Map';
 import RNGooglePlaces from 'react-native-google-places';
 import OptionList from '../components/OptionList';
+const { width } = Dimensions.get('window');
 
 export default function MapScreen() {
-	const [ location, setLocation ] = useState();
-	const [ origin, setOrigin ] = useState(null);
+	const [ origin, setOrigin ] = useState();
 	const [ destination, setDestination ] = useState(null);
 	const [ date, setDate ] = useState();
 	const [ walkingDistance, setWalkingDistance ] = useState(0);
@@ -19,8 +26,8 @@ export default function MapScreen() {
 	const [ optionsShow, setOptionsShow ] = useState(false);
 	const [ selectedItinerary, setSelectedItinerary ] = useState();
 	const [ arriveBy, setArriveBy ] = useState(false);
-	const toKm = 1000;
-	let colors = [ 'yellow', 'violet', 'hotpink', 'purple', 'green', 'orange', 'blue', 'red' ];
+	const [ originDragMarker, setOriginDragMarker ] = useState(false);
+	const [ destinationDragMarker, setDestinationDragMarker ] = useState(false);
 
 	function requestCurrentLocation() {
 		return GetLocation.getCurrentPosition({
@@ -42,7 +49,9 @@ export default function MapScreen() {
 			.then((place) => {
 				return place;
 			})
-			.catch((error) => error);
+			.catch((error) => {
+				return null;
+			});
 	}
 
 	function msDateToTime(ms) {
@@ -68,6 +77,8 @@ export default function MapScreen() {
 	}
 
 	async function getStops() {
+		const toKm = 1000;
+		let colors = [ 'yellow', 'violet', 'hotpink', 'purple', 'green', 'orange', 'blue' ];
 		if (origin && destination && date && time) {
 			let url = `http://192.168.100.5:8080/otp/routers/default/plan?fromPlace=${origin.location
 					.latitude}%2C${origin.location.longitude}&toPlace=${destination.location.latitude}%2C${destination
@@ -90,10 +101,11 @@ export default function MapScreen() {
 				stops.plan.itineraries.forEach((itinerary, i) => {
 					let transfers = itinerary.transfers,
 						duration = secondsToTime(itinerary.duration),
-						waitingTime = (itinerary.waitingTime / 60).toFixed(2),
+						waitingTime = secondsToTime(itinerary.waitingTime),
 						walkingDistance = (itinerary.walkDistance / toKm).toFixed(2),
 						walkPoints = [],
 						busPoints = [],
+						heatPoints = [],
 						number = ++i,
 						startTime = msDateToTime(itinerary.startTime),
 						endTime = msDateToTime(itinerary.endTime),
@@ -116,7 +128,7 @@ export default function MapScreen() {
 									for: (step.distance / toKm).toFixed(2)
 								});
 							});
-							legs.push({ from, distance, steps, to, startTime, endTime, legType, color: 'grey' });
+							legs.push({ from, distance, steps, to, startTime, endTime, legType, color: '#c5c7c5' });
 						} else if (element.mode == 'BUS') {
 							let busNo = element.route,
 								busAgency = element.agencyName,
@@ -142,7 +154,7 @@ export default function MapScreen() {
 							});
 						}
 					});
-					colors = [ 'yellow', 'violet', 'hotpink', 'purple', 'green', 'orange', 'blue', 'red' ];
+					colors = [ 'yellow', 'violet', 'hotpink', 'purple', 'green', 'orange', 'blue' ];
 					let walkLegs = itinerary.legs.filter((leg) => leg.mode == 'WALK');
 					for (let i = 0; i < walkLegs.length; i++) {
 						walkPoints.push({
@@ -168,6 +180,16 @@ export default function MapScreen() {
 								longitude: bus.to.lon
 							}
 						});
+						heatPoints.push({
+							latitude: bus.from.lat,
+							longitude: bus.from.lon,
+							weight: Math.floor(Math.random() * 5) + 1
+						});
+						heatPoints.push({
+							latitude: bus.to.lat,
+							longitude: bus.to.lon,
+							weight: Math.floor(Math.random() * 5) + 1
+						});
 					});
 					initialItineraries.push({
 						transfers,
@@ -179,6 +201,7 @@ export default function MapScreen() {
 						legs,
 						startTime,
 						endTime,
+						heatPoints,
 						duration
 					});
 				});
@@ -195,6 +218,20 @@ export default function MapScreen() {
 		}
 	}
 
+	useEffect(() => {
+		requestCurrentLocation().then((location) => {
+			location.name =
+				'Latitude: ' + location.latitude.toFixed(2) + ', Longitude: ' + location.longitude.toFixed(2);
+			location.location = location;
+			setOrigin(location);
+		});
+		let date = new Date();
+		let month = date.getMonth();
+		month++;
+		setDate(date.getFullYear() + '-' + month + '-' + date.getDate());
+		setTime(date.getHours() + ':' + date.getMinutes());
+	}, []);
+
 	return (
 		<View>
 			<View>
@@ -202,7 +239,10 @@ export default function MapScreen() {
 					selectedItinerary={selectedItinerary}
 					origin={origin}
 					destination={destination}
-					requestCurrentLocation={requestCurrentLocation}
+					originDragMarker={originDragMarker}
+					destinationDragMarker={destinationDragMarker}
+					setOrigin={setOrigin}
+					setDestination={setDestination}
 				/>
 			</View>
 			<View
@@ -229,7 +269,39 @@ export default function MapScreen() {
 						arriveBy={arriveBy}
 						setArriveBy={setArriveBy}
 						requestCurrentLocation={requestCurrentLocation}
+						setDestinationDragMarker={setDestinationDragMarker}
+						setOriginDragMarker={setOriginDragMarker}
+						originDragMarker={originDragMarker}
+						destinationDragMarker={destinationDragMarker}
 					/>
+				)}
+				{!optionsShow &&
+				!formShow &&
+				itineraries.length > 0 && (
+					<Button
+						block
+						light
+						style={{ width: width }}
+						onPress={() => {
+							setOptionsShow(true);
+						}}
+					>
+						<Icon type="AntDesign" name="arrowdown" />
+					</Button>
+				)}
+				{optionsShow &&
+				!formShow &&
+				itineraries.length > 0 && (
+					<Button
+						block
+						light
+						style={{ width: width }}
+						onPress={() => {
+							setOptionsShow(false);
+						}}
+					>
+						<Icon type="AntDesign" name="arrowup" />
+					</Button>
 				)}
 				{optionsShow && (
 					<OptionList
@@ -240,7 +312,7 @@ export default function MapScreen() {
 				)}
 			</View>
 			<Fab
-				active={true}
+				active={false}
 				style={{ backgroundColor: '#2915d3' }}
 				position="bottomRight"
 				onPress={() => {
