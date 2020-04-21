@@ -1,0 +1,4 @@
+for api conversion
+mean = 22.6 %
+median = 13.31%
+p70 = 25.3 % 

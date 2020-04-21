@@ -3,3 +3,15 @@
 *.osm
 *.net.xml
 /busConvert/simulation/fcd.xml
+/busConvert/simulation/gps-date.txt
+fcd.xml
+/busConvert/qsim/fcd.xml
+/busConvert/qsim/gps-date.txt
+gps-date.txt
+/Bus Route Detection/map-matching
+/Bus Route Detection/MapMatching/qatar.xml
+*.rar
+qatar.xml
+/busConvert/qsim/gps-data2.txt
+busConvert/qsim/gps_data.csv
+busConvert/qsim/gps-date2.txt

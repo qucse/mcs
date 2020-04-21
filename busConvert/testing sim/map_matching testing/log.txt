@@ -1,0 +1,18 @@
+Loading net-file from 'D:\Qu Y4S2\senior\mcssp\busConvert\matching api testing sim\../maps/qatar_bus.net.xml'... done (59105ms).
+Loading additional-files from 'D:\Qu Y4S2\senior\mcssp\busConvert\matching api testing sim\additional3.xml'... done (303ms).
+Loading done.
+Simulation started with time: 0.00
+Warning: busStop '44463' on lane '619553810_0' is too short for vehicle '10010.0'.
+Warning: busStop '4172' on lane '488274800_0' is too short for vehicle '10010.0'.
+Warning: busStop '2525' on lane '-158194852#6_0' is too short for vehicle '10010.0'.
+Warning: busStop '9512' on lane '625117934#3_0' is too short for vehicle '1020.0'.
+Warning: busStop '8510' on lane '491444530#24_0' is too short for vehicle '1040.0'.
+Warning: busStop '99019' on lane '-484776316#1_0' is too short for vehicle '11920.0'.
+Warning: busStop '99017' on lane '-235376631#8_0' is too short for vehicle '11920.0'.
+Warning: busStop '3414' on lane '160074025#4_0' is too short for vehicle '1560.0'.
+Warning: busStop '94482' on lane '531827288#0_0' is too short for vehicle '1700.0'.
+Warning: busStop '393' on lane '476108265#9_0' is too short for vehicle '200.0'.
+Warning: busStop '5541' on lane '222088240#10_0' is too short for vehicle '3040.0'.
+Warning: Vehicle '110.0' performs emergency braking with decel=-7.00 wished=4.50 severity=1.00, time=291.00.
+Simulation ended at time: 10000.00
+Reason: The final simulation step has been reached.

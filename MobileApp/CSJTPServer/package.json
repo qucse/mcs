@@ -2,12 +2,15 @@
   "name": "csjtpserver",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "configurations.js",
   "dependencies": {
     "express": "^4.17.1",
     "ip": "^1.1.5",
     "mongoose": "^5.8.9",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0",
+    "staticmaps": "^1.3.2",
+    "stats-analysis": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {

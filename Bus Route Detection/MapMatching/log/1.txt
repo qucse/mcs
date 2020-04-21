@@ -1,0 +1,222 @@
+==================================================starting conversion===================================================
+starting on shape 0 of 110
+shape 110 done with accuracy 98.4350645975741, remaining 109, took 00:00:02.44, remaining 0:04:25.512343
+starting on shape 1 of 110
+shape 120 done with accuracy 71.77064557296725, remaining 108, took 00:00:02.34, remaining 0:04:17.886569
+starting on shape 2 of 110
+shape 121 done with accuracy 81.48039003400409, remaining 107, took 00:00:02.35, remaining 0:04:13.327992
+starting on shape 3 of 110
+shape 200 done with accuracy 28.869115194973975, remaining 106, took 00:00:02.33, remaining 0:04:09.037024
+starting on shape 4 of 110
+shape 201 done with accuracy 56.78983970561443, remaining 105, took 00:00:02.35, remaining 0:04:06.885793
+starting on shape 5 of 110
+shape 210 done with accuracy 96.62932311767744, remaining 104, took 00:00:02.46, remaining 0:04:10.410399
+starting on shape 6 of 110
+shape 211 done with accuracy 98.91666304559445, remaining 103, took 00:00:02.73, remaining 0:04:24.373093
+starting on shape 7 of 110
+problem at shape 7 with error 'map_matching'
+starting on shape 8 of 110
+shape 310 done with accuracy 77.20410680671525, remaining 101, took 00:00:03.05, remaining 0:04:43.767564
+starting on shape 9 of 110
+shape 320 done with accuracy 95.2852619713945, remaining 100, took 00:00:02.63, remaining 0:04:32.121608
+starting on shape 10 of 110
+shape 321 done with accuracy 98.21553555076773, remaining 99, took 00:00:02.58, remaining 0:04:22.636136
+starting on shape 11 of 110
+shape 330 done with accuracy 62.77121143003688, remaining 98, took 00:00:02.75, remaining 0:04:24.738212
+starting on shape 12 of 110
+shape 331 done with accuracy 74.21433541659839, remaining 97, took 00:00:02.75, remaining 0:04:24.224345
+starting on shape 13 of 110
+shape 340 done with accuracy 71.14314935171633, remaining 96, took 00:00:03.00, remaining 0:04:34.872689
+starting on shape 14 of 110
+shape 400 done with accuracy 59.55005422798744, remaining 95, took 00:00:02.68, remaining 0:04:23.183158
+starting on shape 15 of 110
+shape 401 done with accuracy 50.89991457611275, remaining 94, took 00:00:02.51, remaining 0:04:08.330930
+starting on shape 16 of 110
+shape 410 done with accuracy 76.65705937942995, remaining 93, took 00:00:02.97, remaining 0:04:20.950599
+starting on shape 17 of 110
+shape 420 done with accuracy 71.42347566174703, remaining 92, took 00:00:02.85, remaining 0:04:20.046639
+starting on shape 18 of 110
+shape 421 done with accuracy 61.988904204117546, remaining 91, took 00:00:02.67, remaining 0:04:10.092998
+starting on shape 19 of 110
+shape 430 done with accuracy 68.40838329348574, remaining 90, took 00:00:03.11, remaining 0:04:23.537352
+starting on shape 20 of 110
+shape 450 done with accuracy 41.74526338885516, remaining 89, took 00:00:02.81, remaining 0:04:15.458655
+starting on shape 21 of 110
+shape 490 done with accuracy 99.90386819109827, remaining 88, took 00:00:02.96, remaining 0:04:16.473261
+starting on shape 22 of 110
+shape 550 done with accuracy 92.2182636983183, remaining 87, took 00:00:02.64, remaining 0:04:01.530810
+starting on shape 23 of 110
+shape 560 done with accuracy 75.15105079398421, remaining 86, took 00:00:03.07, remaining 0:04:11.275527
+starting on shape 24 of 110
+shape 570 done with accuracy 43.89942810217601, remaining 85, took 00:00:03.75, remaining 0:04:43.702280
+starting on shape 25 of 110
+shape 750 done with accuracy 95.6364648481517, remaining 84, took 00:00:02.19, remaining 0:03:52.095916
+starting on shape 26 of 110
+shape 760 done with accuracy 100.18581833483728, remaining 83, took 00:00:02.42, remaining 0:03:35.060956
+starting on shape 27 of 110
+shape 940 done with accuracy 92.96953587852825, remaining 82, took 00:00:02.59, remaining 0:03:32.297087
+starting on shape 28 of 110
+shape 1000 done with accuracy 72.61260455029081, remaining 81, took 00:00:02.81, remaining 0:03:38.497947
+starting on shape 29 of 110
+shape 1001 done with accuracy 84.7893990645896, remaining 80, took 00:00:02.61, remaining 0:03:32.495787
+starting on shape 30 of 110
+shape 1010 done with accuracy 77.78305328797819, remaining 79, took 00:00:02.92, remaining 0:03:40.338199
+starting on shape 31 of 110
+shape 1011 done with accuracy 79.64286079084582, remaining 78, took 00:00:02.70, remaining 0:03:34.224547
+starting on shape 32 of 110
+shape 1020 done with accuracy 69.1049160700387, remaining 77, took 00:00:02.89, remaining 0:03:36.851982
+starting on shape 33 of 110
+shape 1021 done with accuracy 80.41741992129438, remaining 76, took 00:00:03.17, remaining 0:03:47.481588
+starting on shape 34 of 110
+shape 1040 done with accuracy 66.38422513810008, remaining 75, took 00:00:02.81, remaining 0:03:37.500702
+starting on shape 35 of 110
+shape 1041 done with accuracy 61.84680151519443, remaining 74, took 00:00:02.85, remaining 0:03:32.650431
+starting on shape 36 of 110
+shape 1090 done with accuracy 49.52739363456384, remaining 73, took 00:00:02.60, remaining 0:03:19.848091
+starting on shape 37 of 110
+shape 1091 done with accuracy 34.34038091440213, remaining 72, took 00:00:02.68, remaining 0:03:14.876310
+starting on shape 38 of 110
+shape 1190 done with accuracy 32.4766146877408, remaining 71, took 00:00:02.84, remaining 0:03:17.024506
+starting on shape 39 of 110
+shape 1230 done with accuracy 27.38405284551828, remaining 70, took 00:00:02.22, remaining 0:02:54.655920
+starting on shape 40 of 110
+shape 1231 done with accuracy 60.635759267116484, remaining 69, took 00:00:02.23, remaining 0:02:42.972696
+starting on shape 41 of 110
+shape 1290 done with accuracy 27.834370021038314, remaining 68, took 00:00:02.52, remaining 0:02:46.010053
+starting on shape 42 of 110
+shape 1360 done with accuracy 91.72629350454567, remaining 67, took 00:00:02.51, remaining 0:02:45.746164
+starting on shape 43 of 110
+shape 1361 done with accuracy 96.5361135202534, remaining 66, took 00:00:02.70, remaining 0:02:50.849862
+starting on shape 44 of 110
+shape 1370 done with accuracy 95.3750520887687, remaining 65, took 00:00:02.67, remaining 0:02:50.919037
+starting on shape 45 of 110
+shape 1371 done with accuracy 98.12221417719022, remaining 64, took 00:00:02.58, remaining 0:02:46.796597
+starting on shape 46 of 110
+shape 1560 done with accuracy 96.24612591832008, remaining 63, took 00:00:02.41, remaining 0:02:37.942453
+starting on shape 47 of 110
+shape 1561 done with accuracy 68.14197089039129, remaining 62, took 00:00:02.51, remaining 0:02:35.663199
+starting on shape 48 of 110
+shape 1700 done with accuracy 72.84945815100087, remaining 61, took 00:00:03.06, remaining 0:02:49.896520
+starting on shape 49 of 110
+shape 1701 done with accuracy 50.584379823113366, remaining 60, took 00:00:02.81, remaining 0:02:47.745428
+starting on shape 50 of 110
+shape 1720 done with accuracy 67.45886884210296, remaining 59, took 00:00:02.36, remaining 0:02:32.100143
+starting on shape 51 of 110
+shape 1721 done with accuracy 65.44392730471066, remaining 58, took 00:00:02.44, remaining 0:02:25.483317
+starting on shape 52 of 110
+shape 2010 done with accuracy 96.77845771154342, remaining 57, took 00:00:02.23, remaining 0:02:15.110646
+starting on shape 53 of 110
+shape 2011 done with accuracy 99.71241554049874, remaining 56, took 00:00:02.23, remaining 0:02:08.696802
+starting on shape 54 of 110
+shape 3000 done with accuracy 60.77118127141239, remaining 55, took 00:00:02.37, remaining 0:02:08.406944
+starting on shape 55 of 110
+shape 3001 done with accuracy 41.880010353747075, remaining 54, took 00:00:02.52, remaining 0:02:11.117779
+starting on shape 56 of 110
+shape 3010 done with accuracy 65.18204614517393, remaining 53, took 00:00:02.95, remaining 0:02:22.609434
+starting on shape 57 of 110
+shape 3040 done with accuracy 29.834579055290384, remaining 52, took 00:00:02.91, remaining 0:02:25.557693
+starting on shape 58 of 110
+shape 3330 done with accuracy 99.14636812779435, remaining 51, took 00:00:02.49, remaining 0:02:14.786512
+starting on shape 59 of 110
+shape 3331 done with accuracy 100.11124991231672, remaining 50, took 00:00:02.47, remaining 0:02:07.700853
+starting on shape 60 of 110
+shape 7270 done with accuracy 95.20854565122838, remaining 49, took 00:00:03.53, remaining 0:02:29.148752
+starting on shape 61 of 110
+shape 7271 done with accuracy 99.07634431516145, remaining 48, took 00:00:03.95, remaining 0:02:47.936777
+starting on shape 62 of 110
+shape 7370 done with accuracy 43.99962957614546, remaining 47, took 00:00:02.26, remaining 0:02:15.258972
+starting on shape 63 of 110
+shape 7371 done with accuracy 32.1565472367402, remaining 46, took 00:00:02.41, remaining 0:02:01.604106
+starting on shape 64 of 110
+shape 7470 done with accuracy 101.37647643819862, remaining 45, took 00:00:02.56, remaining 0:01:57.098663
+starting on shape 65 of 110
+shape 7570 done with accuracy 99.9786043178149, remaining 44, took 00:00:02.31, remaining 0:01:48.173232
+starting on shape 66 of 110
+shape 7770 done with accuracy 83.66036774586196, remaining 43, took 00:00:03.32, remaining 0:02:04.326187
+starting on shape 67 of 110
+shape 10010 done with accuracy 100.19103668018296, remaining 42, took 00:00:02.63, remaining 0:01:56.037224
+starting on shape 68 of 110
+shape 10020 done with accuracy 81.69743176957253, remaining 41, took 00:00:02.07, remaining 0:01:39.168432
+starting on shape 69 of 110
+shape 10230 done with accuracy 31.7991451192476, remaining 40, took 00:00:02.73, remaining 0:01:43.011347
+starting on shape 70 of 110
+shape 10231 done with accuracy 30.846434367352458, remaining 39, took 00:00:02.76, remaining 0:01:44.034187
+starting on shape 71 of 110
+shape 10430 done with accuracy 72.34877487351403, remaining 38, took 00:00:02.61, remaining 0:01:40.339829
+starting on shape 72 of 110
+shape 10431 done with accuracy 71.4187105778773, remaining 37, took 00:00:02.84, remaining 0:01:41.447053
+starting on shape 73 of 110
+shape 11920 done with accuracy 90.27096692212633, remaining 36, took 00:00:02.09, remaining 0:01:26.909456
+starting on shape 74 of 110
+shape 11930 done with accuracy 68.6399942340728, remaining 35, took 00:00:02.15, remaining 0:01:19.896424
+starting on shape 75 of 110
+shape 12920 done with accuracy 87.80829941214367, remaining 34, took 00:00:02.09, remaining 0:01:14.330080
+starting on shape 76 of 110
+shape 12930 done with accuracy 62.518998227638335, remaining 33, took 00:00:02.10, remaining 0:01:10.780745
+starting on shape 77 of 110
+shape 13610 done with accuracy 88.33863714053628, remaining 32, took 00:00:02.56, remaining 0:01:15.331846
+starting on shape 78 of 110
+shape 13611 done with accuracy 96.72106353050891, remaining 31, took 00:00:02.57, remaining 0:01:16.294272
+starting on shape 79 of 110
+shape 13710 done with accuracy 90.35695592835543, remaining 30, took 00:00:02.61, remaining 0:01:16.105306
+starting on shape 80 of 110
+shape 13711 done with accuracy 99.41468240644944, remaining 29, took 00:00:02.77, remaining 0:01:17.013556
+starting on shape 81 of 110
+shape 15610 done with accuracy 39.58853242700939, remaining 28, took 00:00:02.51, remaining 0:01:12.379751
+starting on shape 82 of 110
+shape 15611 done with accuracy 44.80908796356223, remaining 27, took 00:00:02.57, remaining 0:01:09.634743
+starting on shape 83 of 110
+shape 31020 done with accuracy 80.61639046192911, remaining 26, took 00:00:02.16, remaining 0:01:01.635515
+starting on shape 84 of 110
+shape 31030 done with accuracy 85.827785923282, remaining 25, took 00:00:02.12, remaining 0:00:56.112860
+starting on shape 85 of 110
+shape 34020 done with accuracy 81.95483949684613, remaining 24, took 00:00:02.13, remaining 0:00:52.488312
+starting on shape 86 of 110
+shape 34030 done with accuracy 90.28405109395341, remaining 23, took 00:00:02.12, remaining 0:00:49.529132
+starting on shape 87 of 110
+shape 41020 done with accuracy 86.45766514484373, remaining 22, took 00:00:02.13, remaining 0:00:47.127380
+starting on shape 88 of 110
+shape 41030 done with accuracy 87.39826389343558, remaining 21, took 00:00:02.13, remaining 0:00:44.865029
+starting on shape 89 of 110
+shape 43020 done with accuracy 86.75880453956314, remaining 20, took 00:00:02.10, remaining 0:00:42.394652
+starting on shape 90 of 110
+shape 43030 done with accuracy 90.52085681004431, remaining 19, took 00:00:02.14, remaining 0:00:40.497737
+starting on shape 91 of 110
+shape 45020 done with accuracy 77.49008143000493, remaining 18, took 00:00:02.10, remaining 0:00:38.115176
+starting on shape 92 of 110
+shape 55020 done with accuracy 63.96705486567173, remaining 17, took 00:00:02.08, remaining 0:00:35.719836
+starting on shape 93 of 110
+shape 56020 done with accuracy 69.38892311333703, remaining 16, took 00:00:02.17, remaining 0:00:34.195040
+starting on shape 94 of 110
+shape 57020 done with accuracy 85.9734045402808, remaining 15, took 00:00:02.11, remaining 0:00:31.871904
+starting on shape 95 of 110
+problem at shape 95 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 96 of 110
+problem at shape 96 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 97 of 110
+problem at shape 97 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 98 of 110
+problem at shape 98 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 99 of 110
+problem at shape 99 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 100 of 110
+problem at shape 100 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 101 of 110
+problem at shape 101 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 102 of 110
+problem at shape 102 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 103 of 110
+problem at shape 103 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 104 of 110
+problem at shape 104 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 105 of 110
+problem at shape 105 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 106 of 110
+problem at shape 106 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 107 of 110
+problem at shape 107 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 108 of 110
+problem at shape 108 with error index 0 is out of bounds for axis 0 with size 0
+starting on shape 109 of 110
+problem at shape 109 with error index 0 is out of bounds for axis 0 with size 0
+finished converting, took 00:04:04.99 , with avg accuracy of 78.70945863064145
