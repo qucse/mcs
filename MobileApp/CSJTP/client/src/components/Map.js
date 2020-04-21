@@ -26,6 +26,7 @@ export default function Map({
 	setOrigin,
 	setDestination
 }) {
+	
 	origin ? (origin = { latitude: origin.location.latitude, longitude: origin.location.longitude }) : null;
 	destination
 		? (destination = { latitude: destination.location.latitude, longitude: destination.location.longitude })
