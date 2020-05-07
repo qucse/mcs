@@ -1,6 +1,7 @@
 # Doha simulated public Transportation Dataset
 the output dataset for Doha public Transportation simulation is in this folder
 the dataset was generated using SUMO and GTFS data of Qatar public Transportation network obtained from Mowasalat Qatar using the following procedure :
+
 1- extract the bus stops location from GTFS data using stops.py script in busConvert folder
 
 2- generate the bus trips information using routes.py script in busConvert folder
