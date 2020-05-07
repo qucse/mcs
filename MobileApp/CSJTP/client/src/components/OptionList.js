@@ -12,14 +12,14 @@ export default function OptionList({ data, setSelectedItinerary, setOptionsShow 
 					padding: 10,
 					justifyContent: 'space-between',
 					alignItems: 'center',
-					backgroundColor: '#A9DAD6'
+					backgroundColor: '#dde0dd'
 				}}
 			>
 				<Text style={{ fontWeight: '600' }}> Itinerary #{item.number}</Text>
 				{expanded ? (
-					<Icon style={{ fontSize: 18 }} name="remove-circle" />
+					<Icon style={{ fontSize: 18 }} type="AntDesign" name="upcircle" />
 				) : (
-					<Icon style={{ fontSize: 18 }} name="add-circle" />
+					<Icon style={{ fontSize: 18 }} type="AntDesign" name="downcircle" />
 				)}
 			</View>
 		);
@@ -42,9 +42,9 @@ export default function OptionList({ data, setSelectedItinerary, setOptionsShow 
 					<Text style={{ fontWeight: '600' }}>Take Bus No. {item.busNo}</Text>
 				)}
 				{expanded ? (
-					<Icon style={{ fontSize: 18 }} name="remove-circle" />
+					<Icon style={{ fontSize: 18 }} type="AntDesign" name="upcircle" />
 				) : (
-					<Icon style={{ fontSize: 18 }} name="add-circle" />
+					<Icon style={{ fontSize: 18 }} type="AntDesign" name="downcircle" />
 				)}
 			</View>
 		);
@@ -60,17 +60,17 @@ export default function OptionList({ data, setSelectedItinerary, setOptionsShow 
 					renderHeader={renderHeaderSecond}
 					renderContent={renderContentSecond}
 				/>
-				<Text> End: {item.endTime}</Text>
-				<View style={{ backgroundColor: 'lightgray', margin: 4 }}>
+				<Text> Estimated Time of Arrival: {item.endTime}</Text>
+				<View style={{ backgroundColor: '#c5c7c5', margin: 4 }}>
 					<Text> Trip Summary: </Text>
 					<Text> - Number of Transfers: {item.transfers}</Text>
 					<Text> - Total Duration: {item.duration}</Text>
 					<Text> - Total Walking Distance: {item.walkingDistance}Km</Text>
-					<Text> - Total Waiting Time: {item.waitingTime}</Text>
+					<Text> - Average Waiting Time: {item.waitingTime}</Text>
 				</View>
 				<Button
 					style={{ marginTop: 4 }}
-					warning
+					block
 					onPress={() => {
 						setSelectedItinerary(item);
 						setOptionsShow(false);

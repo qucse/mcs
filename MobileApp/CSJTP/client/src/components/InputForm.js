@@ -1,6 +1,13 @@
+/**
+ * - @file:  
+ * - @description:  
+ * 
+ * - @author: Abdelmonem Mohamed
+ */
+
 import React, { useState } from 'react';
 import { StyleSheet, View, Dimensions } from 'react-native';
-import { Form, Item, Input, Icon, Text, Button, Switch } from 'native-base';
+import { Form, Item, Input, Icon, Text, Button, Switch, Toast, Picker } from 'native-base';
 import { Slider } from 'react-native-elements';
 import DateTimePicker from '@react-native-community/datetimepicker';
 
@@ -21,7 +28,11 @@ export default function InputForm({
 	setDestination,
 	setArriveBy,
 	requestCurrentLocation,
-	searchModal
+	searchModal,
+	setDestinationDragMarker,
+	setOriginDragMarker,
+	originDragMarker,
+	destinationDragMarker
 }) {
 	const [ dateShow, setDateShow ] = useState(false);
 	const [ timeShow, setTimeShow ] = useState(false);
@@ -46,14 +57,30 @@ export default function InputForm({
 					<Input
 						placeholder="Origin"
 						onTouchStart={() => {
-							searchModal().then((place) => setOrigin(place));
+							searchModal().then((place) => {
+								if (place) setOrigin(place);
+							});
 						}}
 						value={origin ? origin.name : null}
 					/>
-					<Button dark bordered style={{ marginRight: 1 }}>
+					<Button
+						dark
+						transparent
+						style={{ marginRight: 1 }}
+						onPress={() => {
+							setOriginDragMarker(!originDragMarker);
+							if (!originDragMarker) {
+								Toast.show({
+									text: 'Please Set The Location on The Map',
+									buttonText: 'Okay',
+									duration: 3000
+								});
+							}
+						}}
+					>
 						<Icon type="FontAwesome5" name="map-marked-alt" />
 					</Button>
-					<Button dark bordered>
+					<Button dark transparent>
 						<Icon
 							type="MaterialIcons"
 							name="my-location"
@@ -69,14 +96,30 @@ export default function InputForm({
 					<Input
 						placeholder="Destination"
 						onTouchStart={() => {
-							searchModal().then((place) => setDestination(place));
+							searchModal().then((place) => {
+								if (place) setDestination(place);
+							});
 						}}
 						value={destination ? destination.name : ''}
 					/>
-					<Button dark bordered style={{ marginRight: 1 }}>
+					<Button
+						dark
+						transparent
+						style={{ marginRight: 1 }}
+						onPress={() => {
+							setDestinationDragMarker(!destinationDragMarker);
+							if (!destinationDragMarker) {
+								Toast.show({
+									text: 'Please Set The Location on The Map',
+									buttonText: 'Okay',
+									duration: 3000
+								});
+							}
+						}}
+					>
 						<Icon type="FontAwesome5" name="map-marked-alt" />
 					</Button>
-					<Button dark bordered>
+					<Button dark transparent>
 						<Icon
 							type="MaterialIcons"
 							name="my-location"
@@ -90,7 +133,7 @@ export default function InputForm({
 				</Item>
 				<Item>
 					<View style={{ flex: 1, alignItems: 'stretch', justifyContent: 'center' }}>
-						<Text>Max Walking Distance: {walkingDistance} Km</Text>
+						<Text style={{ marginTop: 3 }}>Max Walking Distance: {walkingDistance} Km</Text>
 						<Slider
 							thumbTintColor={'#2915d3'}
 							value={walkingDistance}
@@ -102,6 +145,21 @@ export default function InputForm({
 					</View>
 				</Item>
 				<Item>
+					<Picker
+						mode="dropdown"
+						iosIcon={<Icon name="arrow-down" />}
+						style={{ width: 33 }}
+						placeholderStyle={{ color: '#bfc6ea' }}
+						placeholderIconColor="#007aff"
+						selectedValue={arriveBy}
+						onValueChange={(value) => {
+							setArriveBy(value);
+						}}
+					>
+						<Picker.Item label="Start By" value={false} />
+						<Picker.Item label="Arrive By" value={true} />
+					</Picker>
+
 					<Input placeholder="Date" disabled value={date ? date : null} />
 					<Icon
 						type="FontAwesome"
@@ -125,12 +183,7 @@ export default function InputForm({
 							}}
 						/>
 					)}
-					<Text>Arrive By:</Text>
-					<Switch
-						thumbColor={arriveBy ? '#2915d3' : '#f4f3f4'}
-						onValueChange={setArriveBy}
-						value={arriveBy}
-					/>
+
 					<Input placeholder="Time" disabled value={time ? time : null} />
 					<Icon
 						type="Feather"
