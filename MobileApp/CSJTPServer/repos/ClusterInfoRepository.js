@@ -22,14 +22,12 @@ class ClusterInfoRepository {
         }
     }
 
-
-
     async addCluster(cluster) {
         return await new ClusterInfo(cluster).save()
     }
 
     async getSimilar(cluster) {
-        console.log(cluster);
+        // compare 2 clusters passed on the passenger of each of them
         let res = await ClusterInfo.aggregate([
             {
                 '$project': {

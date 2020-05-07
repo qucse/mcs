@@ -82,23 +82,99 @@ class Testing {
             coord: [51.53517, 25.27983]
         };
 
-        let route = await utils.readFile('data/trip_11.csv');
-        route = route.map(x => {
-            let temp = x.split(',')
+        let route1 = await utils.readFile('data/trip_11.csv');
+        route1 = route1.map(x => {
+            let temp = x.split(',');
             return [parseFloat(temp[1]), parseFloat(temp[0])]
         });
+
         // console.log(route[2]);
         const polyline = {
-            coords: route.slice(0, route.length - 1),
+            coords: route1.slice(0, route1.length - 1),
             color: '#0000FFBB',
             width: 3,
         };
 
+        let route2 = await utils.readFile('data/trip_220.csv');
+        route2 = route2.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+
+        console.log(route2[0]);
+
+        // console.log(route[2]);
+        const polyline2 = {
+            coords: route2.slice(0, route2.length - 1),
+            color: '#16FF00',
+            width: 3,
+        };
+
+        let route3 = await utils.readFile('data/trip_31020.csv');
+
+        route3 = route3.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+        console.log(route3[0]);
+
+        const polyline3 = {
+            coords: route3.slice(0, route3.length - 1),
+            color: '#ff0008',
+            width: 3,
+        };
+
+        let route4 = await utils.readFile('data/trip_200.csv');
+        route4 = route4.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+        console.log(route4[0]);
+
+        const polyline4 = {
+            coords: route4.slice(0, route4.length - 1),
+            color: '#00d8ff',
+            width: 3,
+        };
+
+        let route5 = await utils.readFile('data/trip_10010.csv');
+        route5 = route5.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+        console.log(route5[0]);
+
+        const polyline5 = {
+            coords: route5.slice(0, route5.length - 1),
+            color: '#ff009e',
+            width: 3,
+        };
+
+
+        const text = {
+            coord: [51.5861, 25.3195],
+            text: `route: 10 expected 10`,
+            size: 30,
+            offsetX: 100,
+            offsetY: 100,
+            width: '10px',
+            fill: '#ff1900',
+            color: '#ff0008',
+            font: 'Calibri'
+        };
+
+        map.addText(text);
+
+
         map.addLine(polyline);
+        map.addLine(polyline2);
+        map.addLine(polyline3);
+        map.addLine(polyline4);
+        map.addLine(polyline5);
 
         map.addMarker(marker);
 
-        const zoom = 12;
+        const zoom = 11;
         const center = [51.5306, 25.2580];
 
         map.render(center, zoom)

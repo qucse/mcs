@@ -112,7 +112,6 @@ class TrackingService {
         return result
     }
 
-
     async mapMatch(sequence) {
         const xml = utils.gpx(sequence);
         const response = await fetch(config.map_matching_api + `gps_accuracy=${20}`, {

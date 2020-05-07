@@ -1,0 +1,46 @@
+Loading net-file from 'D:\Qu Y4S2\senior\mcssp\busConvert\testing sim\full_system_testing_5_routes\../../maps/qatar_bus.net.xml'... done (62435ms).
+Loading additional-files from 'D:\Qu Y4S2\senior\mcssp\busConvert\testing sim\full_system_testing_5_routes\additional3.xml'... done (257ms).
+Loading done.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 206258711. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 206258711. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at -239172009#4. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 165499575#10. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 165499575#10. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 488494821#3. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 488494821#3. Using edge end instead.
+Warning: Invalid departPos 230.00 given for stopping at 479822481#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -481979271#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -481979271#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -481979271#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -481979271#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -481979271#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -490718482#6. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at -490718482#6. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 491632370#13. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Warning: Invalid departPos 150.00 given for stopping at 158194880#1. Using edge end instead.
+Simulation started with time: 0.00
+Warning: busStop '393' on lane '476108265#9_0' is too short for vehicle '200.0'.
+Warning: busStop '44463' on lane '619553810_0' is too short for vehicle '10010.0'.
+Warning: busStop '4172' on lane '488274800_0' is too short for vehicle '10010.0'.
+Warning: busStop '2525' on lane '-158194852#6_0' is too short for vehicle '10010.0'.
+Simulation ended at time: 10000.00
+Reason: The final simulation step has been reached.

@@ -7,6 +7,7 @@ import similaritymeasures as sm
 import matplotlib.pyplot as plt
 import time
 import random
+
 shapes = np.genfromtxt('GTFS/shapes.txt', delimiter=",", dtype=[('shape_id', 'i8'), ('shape_pt_lat', 'f'),
                                                                 ('shape_pt_lon', 'f'), ('shape_pt_sequence', 'f')])
 stops = np.genfromtxt('stops_110.csv', delimiter=',')
@@ -18,9 +19,9 @@ shape_110 = shapes[shapes['shape_id'] == 110]
 np_load_old = np.load
 # modify the default parameters of np.load
 np.load = lambda *a, **k: np_load_old(*a, allow_pickle=True, **k)
-# trip_stops = np.load('qsim/trip_stops.npy')
+trip_stops = np.load('qsim/trip_stops.npy')
 sumo_stops = np.load('qsim/sumo_stops.npy')
-trip_stops = np.load('trip_110.npy')
+# trip_stops = np.load('trip_110.npy')
 
 
 geo_110 = []
@@ -326,32 +327,34 @@ def gen_random_person_trip(trip_stops):
 
     seed = int(time.time() % len(trip_stops) - 1)
     trip = trip_stops[seed]
-    starting_stop_id = trip[int((random.random() * 1000) % ((len(trip) - 1) / 2))]  # choose from first half of the stops only
+    starting_stop_id = trip[
+        int((random.random() * 1000) % ((len(trip) - 1) / 2))]  # choose from first half of the stops only
     starting_stop = get_stop_lane_id(starting_stop_id)[1]
     ending_stop_id = trip[int(
-        (random.random() * 1000) % ((len(trip) - 1) / 2) + ((len(trip) - 1) / 2))]  # choose from second half of the stops only
+        (random.random() * 1000) % ((len(trip) - 1) / 2) + (
+                    (len(trip) - 1) / 2))]  # choose from second half of the stops only
     ending_stop = get_stop_lane_id(ending_stop_id)[1]
     starting_xy = net.getLane(starting_stop).getShape()[0]
     start_neighboring = net.getNeighboringEdges(starting_xy[0], starting_xy[1], 10)
     starting_walk = start_neighboring[int((random.random() * 1000) % len(start_neighboring) - 1)]
-
 
     ending_xy = net.getLane(ending_stop).getShape()[0]
     end_neighboring = net.getNeighboringEdges(ending_xy[0], ending_xy[1], 10)
     ending_walk = end_neighboring[int((random.random() * 1000) % len(end_neighboring) - 1)]
     # from_bus = get_nearest_bus_stop(stops_lane_ids, from_xy[0], from_xy[1])[0].getEdge().getID()
     # to_bus = get_nearest_bus_stop(stops_lane_ids, to_xy[0], to_xy[1])[0].getEdge().getID()
-    return [starting_walk[0].getID(),net.getLane(starting_stop).getEdge().getID(), net.getLane(ending_stop).getEdge().getID(), ending_walk[0].getID()]
+    return [starting_walk[0].getID(), net.getLane(starting_stop).getEdge().getID(),
+            net.getLane(ending_stop).getEdge().getID(), ending_walk[0].getID()]
 
 
-def gen_rand_person_flows(output_file, number_of_flows):
+def gen_rand_person_flows( trip_stops, output_file, number_of_flows):
     random.seed(time.time())
     file = open(output_file, "w+")
     file.write(
         '<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">\n')
     for i in range(number_of_flows):
         print("making flow " + str(i))
-        trip = gen_random_person_trip(trip_stops[:,1])
+        trip = gen_random_person_trip(trip_stops[:, 1])
         # or if there is only one trip use  trip = gen_random_person_trip([trip_stops[1]])
         file.write('<personFlow id="person_' + str(i) + '" begin="0" end="7200" period="1200">\n')
         file.write('<walk from="' + trip[0] + '" to="' + trip[1] + '" />\n')
@@ -361,7 +364,6 @@ def gen_rand_person_flows(output_file, number_of_flows):
     file.write('</routes>')
     file.close()
 
-
 # write_to_file('routes.xml', 310)
 # shape_to_edge_sequence(310)
 # new_110 = fine_grain(110, shapes[shapes["shape_id"] == 110])
@@ -370,11 +372,18 @@ def gen_rand_person_flows(output_file, number_of_flows):
 # clean_110 = clean_sequence(edges_110, net)
 # shortest_path(net.getEdge("158194880#1"), net.getEdge("158426339#0"), net)
 # shortest_path(net.getEdge("95475538#1"), net.getEdge("165499564"), net)
-sampled_110 = geo_subsampling(shape_110[:, 1:3])
-sampled_110 = geo_subsampling(sampled_110)
-sampled_110 = geo_subsampling(sampled_110)
-sampled_edges_110 = shape_to_edge_sequence(sampled_110)
-path = get_path(sampled_edges_110)
-string = ''
-for edge in path:
-    string = string + edge + " "
+# sampled_110 = geo_subsampling(shape_110[:, 1:3])
+# sampled_110 = geo_subsampling(sampled_110)
+# sampled_110 = geo_subsampling(sampled_110)
+# sampled_edges_110 = shape_to_edge_sequence(sampled_110)
+# path = get_path(sampled_edges_110)
+# string = ''
+# for edge in path:
+#     string = string + edge + " "
+
+# Four trip simulation testing , make sure to have all the tirp stops, not one route only
+# fourTripsSimulation = []
+# fourTripsSimulation.append(trip_stops[trip_stops[:, 0] == 110][0])
+# fourTripsSimulation.append(trip_stops[trip_stops[:, 0] == 10010][0])
+# fourTripsSimulation.append(trip_stops[trip_stops[:, 0] == 31020][0])
+# fourTripsSimulation.append(trip_stops[trip_stops[:, 0] == 220][0])

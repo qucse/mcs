@@ -10,9 +10,7 @@ class APIServices {
 
     async liveLocation(req, res) {
         try {
-            console.log(req.params);
             const livePos = await clusterInfoRepo.liveLocation(parseInt(req.params.shapeId));
-            console.log(livePos);
             res.status(200).json(livePos);
         } catch (e) {
             console.log(e);

@@ -25,5 +25,7 @@ router.route('/bus/:shapeId')
 
 // TrajectoryPointRepository.init();
 // Testing.ckuster_point_on_trajectiry_test();
+// Testing.test_static_maps();
+
 repeatedProcess.startDynamic();
 module.exports = router;

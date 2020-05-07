@@ -85,9 +85,9 @@ class Repeated_process {
 
     async startDynamic() {
         // starts  and repeats the process of tracking gps trajectories in the system
-        let clusteringPeriod = 0.1 * 60000; // in minutes
-        let updatingPeriod = 0.01 * 60000; // in minutes
-        let clusterStartTime = new Date('2020-04-06T09:01:40.000+00:00');
+        let clusteringPeriod = 0.5 * 60000; // in minutes
+        let updatingPeriod = 0.05 * 60000; // in minutes
+        let clusterStartTime = new Date('2020-04-21T21:00:00.000+00:00');
         let clusterTime = clusterStartTime;
         let updateTime = clusterStartTime;
 
@@ -117,7 +117,7 @@ class Repeated_process {
             // get the cluster member  updated location
             let result = await TrajectoryPointRepository.getByIDsAndTime(clusters[i].passengers, time);
             if (result.length === 0) {
-                return
+                continue;
             }
             // filter outlair
             let result_map = result.map(x => (x.latitude + 90) * 180 + x.longitude); // (lat+90)*180+long will gives you a single number for everything within 1 degree
@@ -127,11 +127,16 @@ class Repeated_process {
             let center = await utils.getLatLngCenter(result);
             center = [center[1], center[0]];
             clusters[i].history.push(center);
+            clusters[i].lastUpdated = time;
             await clusterInfoRepo.update(clusters[i], clusters[i]._id);
-            console.log(`cluster updated with time `);
-            await this.drawPathOnMap(clusters[i].history);
-
+            console.log(`cluster updated with time ${time}`);
         }
+        if (clusters.length > 0 ) {
+            await this.drawPathOnMap(clusters.map(cluster => {
+                return cluster.history
+            }));
+        }
+
     }
 
     async discover_cluster(startTime, time) {
@@ -160,7 +165,6 @@ class Repeated_process {
                     return val;
                 });
                 let roadIDS = await TrackingService.mapMatch(history);
-                console.log(roadIDS);
                 let clusterRoute = await TrackingService.detectRoute({ids: roadIDS});
                 if (oldCluster.shapeId === clusterRoute[0].shape_id && oldCluster.routeId === clusterRoute[0].trip_id) {
                     oldCluster.deviationCounter = 0;
@@ -199,7 +203,7 @@ class Repeated_process {
 
     }
 
-    async drawPathOnMap(path) {
+    async drawPathOnMap(paths) {
         const options = {
             width: 1024,
             height: 720,
@@ -209,47 +213,107 @@ class Repeated_process {
         };
 
         const map = new StaticMaps(options);
+
         // testing route, in this case we are testing on route 11 , shape 110
-        let route = await utils.readFile('data/trip_11.csv');
-        route = route.map(x => {
+        let route1 = await utils.readFile('data/trip_11.csv');
+        route1 = route1.map(x => {
             let temp = x.split(',');
             return [parseFloat(temp[1]), parseFloat(temp[0])]
         });
 
         // console.log(route[2]);
         const polyline = {
-            coords: route.slice(0, route.length - 1),
+            coords: route1.slice(0, route1.length - 1),
             color: '#0000FFBB',
             width: 3,
         };
 
-        map.addLine(polyline);
+        let route2 = await utils.readFile('data/trip_220.csv');
+        route2 = route2.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
 
+
+        // console.log(route[2]);
         const polyline2 = {
-            coords: path.slice(0, path.length - 1),
-            color: '#FF0112',
+            coords: route2.slice(0, route2.length - 1),
+            color: '#16FF00',
             width: 3,
         };
-        map.addLine(polyline2);
 
+        let route3 = await utils.readFile('data/trip_31020.csv');
 
-        const marker = {
-            img: `${__dirname}/../data/bus.png`, // can also be a URL
-            offsetX: 16,
-            offsetY: 32,
-            width: 32,
-            height: 32,
-            coord: path[path.length - 1]
+        route3 = route3.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+
+        const polyline3 = {
+            coords: route3.slice(0, route3.length - 1),
+            color: '#ff0008',
+            width: 3,
         };
 
-        map.addMarker(marker);
+        let route4 = await utils.readFile('data/trip_200.csv');
+        route4 = route4.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+
+        const polyline4 = {
+            coords: route4.slice(0, route4.length - 1),
+            color: '#00d8ff',
+            width: 3,
+        };
+
+        let route5 = await utils.readFile('data/trip_10010.csv');
+        route5 = route5.map(x => {
+            let temp = x.split(',');
+            return [parseFloat(temp[1]), parseFloat(temp[0])]
+        });
+
+        const polyline5 = {
+            coords: route5.slice(0, route5.length - 1),
+            color: '#ff009e',
+            width: 3,
+        };
+
+
+        map.addLine(polyline);
+        map.addLine(polyline2);
+        map.addLine(polyline3);
+        map.addLine(polyline4);
+        map.addLine(polyline5);
+
+
+        paths.forEach(path => {
+            if(path.length > 0 ){
+                const pathPoly = {
+                    coords: path.slice(0, path.length - 1),
+                    color: '#ffa300',
+                    width: 3,
+                };
+                map.addLine(pathPoly);
+                const marker = {
+                    img: `${__dirname}/../data/bus.png`, // can also be a URL
+                    offsetX: 16,
+                    offsetY: 32,
+                    width: 32,
+                    height: 32,
+                    coord: path[path.length - 1]
+                };
+                map.addMarker(marker);
+            }
+        });
+
 
         const zoom = 11;
         const center = [51.5306, 25.2580];
 
         map.render(center, zoom)
             .then(() => map.image.save(`testing/map/${Date.now()}.png`, {compressionLevel: 9}))
-            .then(() => console.log('File saved!'))
+            .then(() => console.log('Map saved!'))
             .catch(function (err) {
                 console.log(err);
             });

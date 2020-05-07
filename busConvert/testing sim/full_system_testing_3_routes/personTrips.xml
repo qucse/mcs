@@ -1,0 +1,102 @@
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+<personFlow id="person_0" begin="0" end="7200" period="1200">
+<walk from="155988281#0" to="480255686#0" />
+<personTrip from="480255686#0" to="488509914#0" modes="public" />
+<walk from="488509914#0" to="176155596#15"/>
+</personFlow>
+<personFlow id="person_1" begin="0" end="7200" period="1200">
+<walk from="60893786#1" to="-206486631" />
+<personTrip from="-206486631" to="479822481#1" modes="public" />
+<walk from="479822481#1" to="479822481#0"/>
+</personFlow>
+<personFlow id="person_2" begin="0" end="7200" period="1200">
+<walk from="-158194879#4" to="158194879#5" />
+<personTrip from="158194879#5" to="153940692#3" modes="public" />
+<walk from="153940692#3" to="153940692#2"/>
+</personFlow>
+<personFlow id="person_3" begin="0" end="7200" period="1200">
+<walk from="155988281#1" to="480255686#0" />
+<personTrip from="480255686#0" to="153940278#0" modes="public" />
+<walk from="153940278#0" to="479816304#2"/>
+</personFlow>
+<personFlow id="person_4" begin="0" end="7200" period="1200">
+<walk from="158194834#3" to="158194834#3" />
+<personTrip from="158194834#3" to="-206486631" modes="public" />
+<walk from="-206486631" to="-206486631"/>
+</personFlow>
+<personFlow id="person_5" begin="0" end="7200" period="1200">
+<walk from="-480237234#0" to="480237234#0" />
+<personTrip from="480237234#0" to="-206486631" modes="public" />
+<walk from="-206486631" to="-60893786#2"/>
+</personFlow>
+<personFlow id="person_6" begin="0" end="7200" period="1200">
+<walk from="-153941746#5" to="-153941746#5" />
+<personTrip from="-153941746#5" to="-154283673#3" modes="public" />
+<walk from="-154283673#3" to="479816303"/>
+</personFlow>
+<personFlow id="person_7" begin="0" end="7200" period="1200">
+<walk from="-26007286#1" to="-480255700#19" />
+<personTrip from="-480255700#19" to="480255700#15" modes="public" />
+<walk from="480255700#15" to="-480255700#15"/>
+</personFlow>
+<personFlow id="person_8" begin="0" end="7200" period="1200">
+<walk from="-206488408#1" to="620934244#2" />
+<personTrip from="620934244#2" to="115738581#4" modes="public" />
+<walk from="115738581#4" to="115738581#3"/>
+</personFlow>
+<personFlow id="person_9" begin="0" end="7200" period="1200">
+<walk from="60893786#5" to="-60893786#5" />
+<personTrip from="-60893786#5" to="-206489305#1" modes="public" />
+<walk from="-206489305#1" to="-206489305#1"/>
+</personFlow>
+<personFlow id="person_10" begin="0" end="7200" period="1200">
+<walk from="115628455#3" to="153940693#0" />
+<personTrip from="153940693#0" to="480285106#13" modes="public" />
+<walk from="480285106#13" to="-183786037#0"/>
+</personFlow>
+<personFlow id="person_11" begin="0" end="7200" period="1200">
+<walk from="25991598#0" to="25991598#0" />
+<personTrip from="25991598#0" to="480255700#19" modes="public" />
+<walk from="480255700#19" to="480255700#18"/>
+</personFlow>
+<personFlow id="person_12" begin="0" end="7200" period="1200">
+<walk from="158194879#5" to="158194879#5" />
+<personTrip from="158194879#5" to="165487301#1" modes="public" />
+<walk from="165487301#1" to="479813167"/>
+</personFlow>
+<personFlow id="person_13" begin="0" end="7200" period="1200">
+<walk from="160113992" to="25991598#0" />
+<personTrip from="25991598#0" to="488509914#0" modes="public" />
+<walk from="488509914#0" to="176155596#15"/>
+</personFlow>
+<personFlow id="person_14" begin="0" end="7200" period="1200">
+<walk from="155988281#1" to="480255686#0" />
+<personTrip from="480255686#0" to="480285106#13" modes="public" />
+<walk from="480285106#13" to="480285106#12"/>
+</personFlow>
+<personFlow id="person_15" begin="0" end="7200" period="1200">
+<walk from="158194879#4" to="158194879#5" />
+<personTrip from="158194879#5" to="-206486631" modes="public" />
+<walk from="-206486631" to="-206486631"/>
+</personFlow>
+<personFlow id="person_16" begin="0" end="7200" period="1200">
+<walk from="160113769#2" to="160113769#2" />
+<personTrip from="160113769#2" to="162723718#2" modes="public" />
+<walk from="162723718#2" to="154053960"/>
+</personFlow>
+<personFlow id="person_17" begin="0" end="7200" period="1200">
+<walk from="153940236#1" to="154283671#4" />
+<personTrip from="154283671#4" to="165487301#1" modes="public" />
+<walk from="165487301#1" to="-479813167"/>
+</personFlow>
+<personFlow id="person_18" begin="0" end="7200" period="1200">
+<walk from="-480255700#20" to="-480255700#19" />
+<personTrip from="-480255700#19" to="488338981#2" modes="public" />
+<walk from="488338981#2" to="488338981#1"/>
+</personFlow>
+<personFlow id="person_19" begin="0" end="7200" period="1200">
+<walk from="158426218" to="111614727#0" />
+<personTrip from="111614727#0" to="25991592#2" modes="public" />
+<walk from="25991592#2" to="606074823"/>
+</personFlow>
+</routes>

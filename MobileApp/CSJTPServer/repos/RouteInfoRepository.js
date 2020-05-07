@@ -18,6 +18,10 @@ class RouteInfoRepository {
     //     });
     // }
 
+    async add_route(route) {
+        return new RouteInfo(route).save()
+    }
+
     async check_similarity(road_ids, shape_id) {
         let result = await RouteInfo.aggregate([
             {
@@ -62,7 +66,7 @@ class RouteInfoRepository {
 
     async getShapesAndRoutes() {
         try {
-            return await RouteInfo.aggregate([{"$project": {trip_id: 1, shape_id: 1 , _id : 0}}])
+            return await RouteInfo.aggregate([{"$project": {trip_id: 1, shape_id: 1, _id: 0}}])
         } catch (e) {
             throw new Error(e)
         }
