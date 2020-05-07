@@ -22,9 +22,9 @@ Simulation contain 3 object types:
 
 filed name | description
 -----------|-----------
-id | object id
-time | time stamp for the object movement
-longitude | longitude of the object movement in the following format (month/day/year  hour:minute:seconds AM/PM)
+id | simulated object id
+time | time stamp for the object movement in the following format (month/day/year  hour:minute:seconds AM/PM)
+longitude | longitude of the object movement 
 latitude | latitude of the object movement
 speed | object speed in km/h
 
