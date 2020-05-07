@@ -1,7 +1,8 @@
 # Doha simulated public Transportation Dataset
 This folder contains the output dataset for Doha public Transportation simulation is in
 
-## Dataset was generated using SUMO and GTFS data of Qatar public Transportation network obtained from Mowasalat Qatar using the following procedure :
+## Dataset generation procedure
+Dataset was generated using SUMO and GTFS data of Qatar public Transportation network obtained from Mowasalat Qatar using the following procedure :
 1. extract the bus stops location from GTFS data using stops.py script in busConvert folder
 2. generate the bus trips information using routes.py script in busConvert folder
 3. generate the route for the generated trips using DUAROUTER SUMO's script
@@ -11,12 +12,13 @@ This folder contains the output dataset for Doha public Transportation simulatio
 7. load the txt output to csv file
 
 
-## Simulation contain 3 object types :
+##  Simulated Objects
+Simulation contain 3 object types:
 * **persons**: id is formatted as **Person_flowId.number**  for example **person_193.0** where 193 represents the id of the person's flow , and 0 is the person id inside that flow
  * **cars**: id is formatted as **car_id**
  * **bus**: id formatted as **shapeID.number**. For example, bus that follows shape 110 for route 11 will have id of 110.busID , and if the id in the bus flow is zero it will be omitted (110),if not it will be displayed (110.1)
  
-## Dataset contains 4 fields :
+## Dataset map:
 
 filed name | description
 -----------|-----------
