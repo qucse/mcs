@@ -18,7 +18,7 @@ Simulation contain 3 object types:
  * **cars**: id is formatted as **car_id**
  * **bus**: id formatted as **shapeID.number**. For example, bus that follows shape 110 for route 11 will have id of 110.busID , and if the id in the bus flow is zero it will be omitted (110),if not it will be displayed (110.1)
  
-## Dataset map:
+## Dataset map
 
 filed name | description
 -----------|-----------
