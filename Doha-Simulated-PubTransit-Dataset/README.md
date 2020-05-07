@@ -10,6 +10,7 @@ Dataset was generated using SUMO and GTFS data of Qatar public Transportation ne
 5. run the simulation and store the output in FCD format
 6. convert FCD format to txt format using traceExporter SUMO's script
 7. load the txt output to csv file
+1. extract the bus movement only in true_bus_location.csv
 
 
 ##  Simulated Objects
